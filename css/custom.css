@@ -1,0 +1,69 @@
+
+
+@import "https://fonts.googleapis.com/css?family=Raleway:600,500,400,300";
+@import "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300";
+
+body {
+	background: #fff;
+	color: #000;
+	font-family: Raleway;
+}
+
+.navbar {
+	min-height: 120px;
+}
+
+.navbar-nav {
+	font-family: "Open Sans Condensed";
+	font-size: 16px;
+	font-weight: normal;
+	text-shadow: 2px 2px 2px #404040;
+}
+
+.navbar-brand {
+	margin-top: -20px;
+}
+
+.top-nav-collapse .navbar-brand {
+	margin-top: 0px;
+}
+
+.top-nav-collapse .navbar-nav {
+	margin-top: 35px;
+}
+
+.navbar-custom .nav li a{
+	color: #fff;
+}
+
+.navbar-custom .nav li > ul > li > a {
+	color: #000;
+	text-shadow: none;
+}
+
+.navbar-custom .nav li > ul > li > a:hover {
+	background-color: #000;
+	color: #fff;
+}
+
+.intro {
+	background: url(../img/home_main1.jpg) no-repeat top center scroll;
+
+}
+
+.content-section {
+	padding-top: 150px;
+}
+
+p {
+	font-family: Raleway;
+	font-size: 16px;
+	font-weight: normal;
+	line-height: 24px;
+	padding-bottom: 20px;
+	margin: 0px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: Raleway;
+}
