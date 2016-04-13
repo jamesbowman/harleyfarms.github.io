@@ -43,6 +43,12 @@ body {
 	color: #fff;
 }
 
+.navbar-custom.top-nav-collapse .nav li a{
+	color: #000;
+	text-shadow: none;
+}
+
+
 .navbar-custom .nav li > ul > li > a {
 	color: #000;
 	text-shadow: none;
