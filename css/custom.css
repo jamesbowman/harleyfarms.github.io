@@ -9,6 +9,8 @@ body {
 	font-family: Raleway;
 }
 
+/* start custom navigation */
+
 .navbar {
 	min-height: 120px;
 }
@@ -46,6 +48,16 @@ body {
 	color: #fff;
 }
 
+ul.nav li.dropdown:hover ul.dropdown-menu {
+	display: block;
+}
+
+.navbar-toggle {
+	background-color: #fff;
+}
+
+/* end custom navigation */
+
 .intro {
 	background: url(../img/home_main1.jpg) no-repeat top center scroll;
 
@@ -54,6 +66,9 @@ body {
 .content-section {
 	padding-top: 150px;
 }
+
+
+/* start text styles */
 
 p {
 	font-family: Raleway;
@@ -67,3 +82,5 @@ p {
 h1, h2, h3, h4, h5, h6 {
 	font-family: Raleway;
 }
+
+/* end text styles */
