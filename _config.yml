@@ -16,3 +16,5 @@ markdown: kramdown
 
 encoding:     "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+include: ['_pages']

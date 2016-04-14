@@ -1,0 +1,44 @@
+---
+layout: default
+---
+<div style="height: 150px"></div>
+{% for module in page.modules %}
+	{% if module.type == "header" %}
+		<div class="container" style="margin-bottom: 25px;">
+			{% if forloop.first == false  %}
+				<hr />
+			{% endif %}
+	    	<img src="{{ module.img }}" class="img-responsive" alt="">
+	    </div>
+		<div class="container">
+			{{ module.text | markdownify }}
+		</div>
+	{% endif %}
+	{% if module.type == "2-col" %}
+		{% if module.orientation == "left" %}
+		<div class="container" style="margin-bottom: 25px;">
+        	{% if forloop.first == false  %}
+				<hr />
+			{% endif %}
+			<div class="row">
+        		<div class="col-md-6 col-md-push-6">
+        			{{ module.text | markdownify }}
+        		</div>
+        		<div class="col-md-6 col-md-pull-6"><img src="{{ module.img }}" class="img-responsive" style="margin: 0 auto;" alt=""></div>
+        	</div>
+        </div>
+        {% else %}
+		<div class="container" style="margin-bottom: 25px;">
+        	{% if forloop.first == false  %}
+				<hr />
+			{% endif %}
+			<div class="row">
+        		<div class="col-md-6">
+        			{{ module.text | markdownify }}
+        		</div>
+        		<div class="col-md-6"><img src="{{ module.img }}" class="img-responsive" style="margin: 0 auto;" alt=""></div>
+        	</div>
+        </div>
+        {% endif %}
+	{% endif %}
+{% endfor %}
