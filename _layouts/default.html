@@ -66,12 +66,14 @@
               {% assign first = true %}
               {% assign selected = false %}
               {% for i in item %}
+                {% if i == page.id %}
+                  {% assign selected = true %}
+                {% endif %}
+              {% endfor %}
+              {% for i in item %}
                 {% for pa in site.pages %}
-                  {% if pa.id == item %}
+                  {% if pa.id == i %}
                     {% assign p = pa %}
-                  {% endif %}
-                  {% if pa.id == page.id %}
-                    {% assign selected = true %}
                   {% endif %}
                 {% endfor %}
                 {% if first %}
