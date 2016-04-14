@@ -36,20 +36,15 @@
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse"><i class="fa fa-bars"></i></button>
-          <a class="navbar-brand page-scroll" href="index.html"><img id="logo" src="/img/logo_reverse-2.png" alt="harley farms"></a>
+          <a class="navbar-brand page-scroll hidden-xs" href="index.html"><img id="logo" src="img/logo_reverse-2.png" alt="harley farms"></a>
+          <a class="navbar-brand page-scroll visible-xs" href="index.html"><img src="img/logo-sm.png" alt="harley farms"></a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
           <ul class="nav navbar-nav">
             <!-- Hidden li included to remove active class from middle link when scrolled up past middle section -->
-<!--
 
-            <li class="hidden"><a href="#page-top"></a></li>
-            <li><a class="page-scroll" href="#about">About</a></li>
-            <li><a class="page-scroll" href="#download">Download</a></li>
-            <li><a class="page-scroll" href="#contact">Contact</a></li>
--->
           {% for item in site.data.menu %}
             {% if item > 0 %}
                 {% for pa in site.pages %}
@@ -105,10 +100,10 @@
     <!-- Footer -->
     <footer>
       <div class="container">
-        <div class="col-md-6">
-img here
+        <div class="col-md-4">
+          <img src="img/logo_reverse.png" class="img-responsive" alt="harley farms" style="margin-bottom: 20px;">
         </div>
-        <div class="col-md-6">
+        <div class="col-md-7 col-md-offset-1">
           <p>205 North Street, PO Box 173, Pescadero, CA 94060<br />(650) 879-0480 | Farm & Cheese Shop Daily 10-5<br />Closed Easter, Thanksgiving, Christmas Day & New Year's Day</p>
           <p>&copy; {{ site.time | date: "%Y" }} Harley Farms, Inc., All Rights Reserved<br /><a href="#">Site Map</a> | <a href="#">Terms & Privacy</a></p>
         </div>
