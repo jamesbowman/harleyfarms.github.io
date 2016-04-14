@@ -13,6 +13,9 @@ function collapseNavbar() {
         $(".navbar-fixed-top.collapsible").removeClass("top-nav-collapse");
         $("#logo").attr("src","img/logo_reverse-2.png");
     }
+    if(!$(".navbar").hasClass("collapsible")) {
+        $("#logo").attr("src","img/logo-2.png");
+    }
 }
 
 $(window).scroll(collapseNavbar);
