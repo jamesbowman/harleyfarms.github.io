@@ -41,4 +41,80 @@ layout: default
         </div>
         {% endif %}
 	{% endif %}
+	{% if module.type == "3-col-grid" %}
+		<div class="container" style="margin-bottom: 25px;">
+			{% if forloop.first == false  %}
+				<hr />
+			{% endif %}
+			{% assign n = 1 %}
+		{% for entry in module.entries %}
+			{% if n == 1 %}
+				<div class="row">
+			{% endif %}
+			<div class="col-md-4">
+				<p><img src="{{ entry.img }}" alt="" class="img-responsive"></p>
+				{{ entry.text | markdownify }}
+			</div>
+			{% if n == 3 %}
+				</div>
+				{% assign n = 1 %}
+			{% else %}
+				{% assign n = n | plus: 1%}
+			{% endif %}
+		{% endfor %}
+	</div>
+	{% endif %}
+	{% if module.type == "2-col-grid" %}
+		<div class="container" style="margin-bottom: 25px;">
+			{% if forloop.first == false  %}
+				<hr />
+			{% endif %}
+			{% assign n = 1 %}
+		{% for entry in module.entries %}
+			{% if n == 1 %}
+				<div class="row">
+			{% endif %}
+			<div class="col-md-6">
+				<p><img src="{{ entry.img }}" alt="" class="img-responsive"></p>
+				{{ entry.text | markdownify }}
+			</div>
+			{% if n == 2 %}
+				</div>
+				{% assign n = 1 %}
+			{% else %}
+				{% assign n = n | plus: 1%}
+			{% endif %}
+		{% endfor %}
+		</div>
+	{% endif %}
+	{% if module.type == "text" %}
+		<div class="container" style="margin-bottom: 25px;">
+			{% if forloop.first == false  %}
+				<hr />
+			{% endif %}
+				{{ module.text | markdownify }}
+		</div>
+	{% endif %}	
+    {% if module.type == "4-col-img-grid" %}
+        <div class="container" style="margin-bottom: 25px;">
+            {% if forloop.first == false  %}
+                <hr />
+            {% endif %}
+            {% assign n = 1 %}
+        {% for entry in module.entries %}
+            {% if n == 1 %}
+                <div class="row">
+            {% endif %}
+            <div class="col-md-3 col-sm-6">
+                <p><img src="{{ entry }}" alt="" class="img-responsive"></p>
+            </div>
+            {% if n == 4 %}
+                </div>
+                {% assign n = 1 %}
+            {% else %}
+                {% assign n = n | plus: 1%}
+            {% endif %}
+        {% endfor %}
+        </div>
+    {% endif %}
 {% endfor %}
