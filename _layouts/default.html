@@ -46,20 +46,23 @@
             <!-- Hidden li included to remove active class from middle link when scrolled up past middle section -->
 
           {% for item in site.data.menu %}
+          {% assign selected = false %}
             {% if item > 0 %}
                 {% for pa in site.pages %}
                   {% if pa.id == item %}
                     {% assign p = pa %}
                   {% endif %}
                 {% endfor %}
-                {% if p.id == page.id %}
+                {% if page.layout == "post" and p.layout == "blog" %}
+                  {% assign selected = true %}
+                {% endif %}
+                {% if p.id == page.id or selected %}
                   <li class="dropdown"><a href="{{ p.permalink }}" style="color: #ee9f14;">{{ p.title }}</a>
                 {% else %}
                   <li><a href="{{ p.permalink }}">{{ p.title }}</a></li>
                 {% endif %}
             {% else %}
               {% assign first = true %}
-              {% assign selected = false %}
               {% for i in item %}
                 {% if i == page.id %}
                   {% assign selected = true %}
