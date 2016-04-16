@@ -54,7 +54,8 @@ footer a:hover {
 }
 
 .navbar-custom .nav li a{
-	color: #fff;
+	color: #636873;
+	text-shadow: none;
 }
 
 .navbar-custom.top-nav-collapse .nav li a{
