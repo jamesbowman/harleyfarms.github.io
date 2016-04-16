@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<div class="hidden-xs" style="height: 150px"></div>
+<div class="visible-xs" style="height: 70px"></div>
+{% assign first = true %}
+{% for post in site.posts %}
+    {% if first == true %}
+        {% assign first = false %}
+        <div class="container" style="margin-bottom: 25px;">
+            
+        </div>
+    {% endif %}
+{% endfor %}
