@@ -3,4 +3,12 @@ layout: default
 ---
 <div class="hidden-xs" style="height: 150px"></div>
 <div class="visible-xs" style="height: 70px"></div>
-<h1>To do</h1>
+<div class="container" style="margin-bottom: 25px;">
+    <a href="{{ site.posts[0].url }}"><img src="{{ site.posts[0].img }}" class="img-responsive" alt=""></a>
+</div>
+<div class="container">
+    <p style="text-align: center; color: #9ca1aa;">WRITTEN BY {{ site.posts[0].author | upcase }} ON {{ site.posts[0].date | date: "%d %B %Y" | upcase }}.</p>
+    <h2 style="text-align: center;">{{ site.posts[0].title | upcase }}</h2>
+    <hr />
+    <span p style="color: rgb(99, 104, 115);">{{ content }}</span>
+</div>

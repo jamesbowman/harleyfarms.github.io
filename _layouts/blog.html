@@ -3,12 +3,35 @@ layout: default
 ---
 <div class="hidden-xs" style="height: 150px"></div>
 <div class="visible-xs" style="height: 70px"></div>
-{% assign first = true %}
-{% for post in site.posts %}
-    {% if first == true %}
-        {% assign first = false %}
-        <div class="container" style="margin-bottom: 25px;">
-            
+<div class="container" style="margin-bottom: 25px;">
+    <a href="{{ site.posts[0].url }}"><img src="{{ site.posts[0].img }}" class="img-responsive" alt=""></a>
+</div>
+<div class="container">
+    <p style="text-align: center; color: #9ca1aa;">WRITTEN BY {{ site.posts[0].author | upcase }} ON {{ site.posts[0].date | date: "%d %B %Y" | upcase }}.</p>
+    <h2 style="text-align: center;">{{ site.posts[0].title | upcase }}</h2>
+    <hr />
+    <p style="color: #9ca1aa;">{{ site.posts[0].excerpt }}</p>
+    <p style="text-align: center;"><a href="{{ site.posts[0].url }}" class="pill">CONTINUE READING</a></p>
+</div>
+<div class="container" style="margin-bottom: 25px;">
+{% assign n = 1 %}
+{% for post in site.posts offset:1 %}
+    {% if n == 1 %}
+        <div class="row" style="margin-top: 25px;">
+    {% endif %}
+    <div class="col-md-6">
+        <p><img src="{{ post.img }}" alt="" class="img-responsive"></p>
+        <p style="text-align: center; color: #9ca1aa;">WRITTEN BY {{ post.author | upcase }} ON {{ post.date | date: "%d %B %Y" | upcase }}.</p>
+        <h2 style="text-align: center;">{{ post.title | upcase }}</h2>
+        <hr />
+        <p style="color: #9ca1aa;">{{ post.excerpt }}</p>
+        <p style="text-align: center;"><a href="{{ post.url }}" class="pill">CONTINUE READING</a></p>
+    </div>
+    {% if n == 2 or forloop.last == true %}
         </div>
+        {% assign n = 1 %}
+    {% else %}
+        {% assign n = n | plus: 1%}
     {% endif %}
 {% endfor %}
+</div>

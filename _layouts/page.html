@@ -56,7 +56,7 @@ layout: default
 				<p><img src="{{ entry.img }}" alt="" class="img-responsive"></p>
 				{{ entry.text | markdownify }}
 			</div>
-			{% if n == 3 %}
+			{% if n == 3 or forloop.last == true %}
 				</div>
 				{% assign n = 1 %}
 			{% else %}
@@ -79,7 +79,7 @@ layout: default
 				<p><img src="{{ entry.img }}" alt="" class="img-responsive"></p>
 				{{ entry.text | markdownify }}
 			</div>
-			{% if n == 2 %}
+			{% if n == 2 or forloop.last == true %}
 				</div>
 				{% assign n = 1 %}
 			{% else %}
@@ -109,7 +109,7 @@ layout: default
             <div class="col-md-3 col-sm-6">
                 <p><img src="{{ entry }}" alt="" class="img-responsive"></p>
             </div>
-            {% if n == 4 %}
+            {% if n == 4 or forloop.last == true %}
                 </div>
                 {% assign n = 1 %}
             {% else %}

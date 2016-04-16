@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Farm work
-date: 2016-03-30 10:33:29 -0700
+title: It's a sunny day
+date: 2016-02-01 10:33:29 -0700
 excerpt: Fusce vitae arcu tortor. Proin ac elit non erat condimentum ullamcorper! Suspendisse lectus odio, tincidunt vel venenatis sit amet, elementum vel tortor. Etiam ac aliquet nibh.
-img: "/img/news/harley-farms-at-work.jpg"
+img: "/img/news/harley-farms-harvest.jpg"
 author: Gretchen McDougall
 categories: news
 ---
