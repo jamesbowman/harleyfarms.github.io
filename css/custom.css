@@ -9,6 +9,11 @@ body {
 	font-family: Raleway;
 }
 
+*::-moz-selection {
+    background: #efefef;
+    text-shadow: none;
+}
+
 footer {
 	background: #212b23;
 	color: #797f7a;
