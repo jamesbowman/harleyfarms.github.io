@@ -42,7 +42,7 @@
 
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
-          <ul class="nav navbar-nav">
+          <ul class="nav navbar-nav hidden-xs">
             <!-- Hidden li included to remove active class from middle link when scrolled up past middle section -->
 
           {% for item in site.data.menu %}
@@ -84,6 +84,54 @@
                   {% assign first = false %}
                 {% else %}
                   <li><a {% if p.layout == "link" %}{% unless p.link == "" %}href="{{ p.link }}"{% endunless %}{% else %}href="{{ p.permalink }}"{% endif %}>{{ p.title }}</a></li>
+                {% endif %}
+              {% endfor %}
+              </ul>
+            </li>
+            {% endif %}
+          {% endfor %}
+          </ul>
+          <ul class="nav navbar-nav visible-xs">
+            <!-- Hidden li included to remove active class from middle link when scrolled up past middle section -->
+
+          {% for item in site.data.menu %}
+          {% assign selected = false %}
+            {% if item > 0 %}
+                {% for pa in site.pages %}
+                  {% if pa.id == item %}
+                    {% assign p = pa %}
+                  {% endif %}
+                {% endfor %}
+                {% if page.layout == "post" and p.blog == true %}
+                  {% assign selected = true %}
+                {% endif %}
+                {% if p.id == page.id or selected %}
+                  <li><a href="{% if p.permalink == nil %}{{ p.link }}{% else %}{{ p.permalink }}{% endif %}" style="color: #ee9f14;">{{ p.title }}</a>
+                {% else %}
+                  <li><a href="{% if p.permalink == nil %}{{ p.link }}{% else %}{{ p.permalink }}{% endif %}">{{ p.title }}</a></li>
+                {% endif %}
+            {% else %}
+              {% assign first = true %}
+              {% for i in item %}
+                {% for pa in site.pages %}
+                  {% if pa.id == i %}
+                    {% assign p = pa %}
+                  {% endif %}
+                {% endfor %}
+                {% if first %}
+                  {% if i == page.id %}
+                    <li><a {% if p.layout == "link" %}{% unless p.link == "" %}href="{{ p.link }}"{% endunless %}{% else %}href="{{ p.permalink }}"{% endif %} style="color: #ee9f14;">{{ p.title }}</a>
+                  {% else %}
+                    <li><a {% if p.layout == "link" %}{% unless p.link == "" %}href="{{ p.link }}"{% endunless %}{% else %}href="{{ p.permalink }}"{% endif %}>{{ p.title }}</a>
+                  {% endif %}
+                    <ul>
+                  {% assign first = false %}
+                {% else %}
+                {% if i == page.id %}
+                  <li><a {% if p.layout == "link" %}{% unless p.link == "" %}href="{{ p.link }}"{% endunless %}{% else %}href="{{ p.permalink }}"{% endif %} style="color: #ee9f14;">{{ p.title }}</a></li>
+                {% else %}
+                  <li><a {% if p.layout == "link" %}{% unless p.link == "" %}href="{{ p.link }}"{% endunless %}{% else %}href="{{ p.permalink }}"{% endif %}>{{ p.title }}</a></li>
+                {% endif %}
                 {% endif %}
               {% endfor %}
               </ul>
