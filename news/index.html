@@ -55,9 +55,9 @@ link: /news/
                 </a>
             </li>
             {% endif %}
-            <li><a href="/news/">1</a></li>
+            <li{% if paginator.page == 1 %} class="active"{% endif %}><a href="/news/">1</a></li>
             {% for i in (2..paginator.total_pages) %}
-            <li><a href="/news/page{{ i }}/">{{ i }}</a></li>
+            <li{% if paginator.page == i %} class="active"{% endif %}><a href="/news/page{{ i }}/">{{ i }}</a></li>
             {% endfor %}
             {% if paginator.next_page_path == nil %}
             <li class="disabled">
