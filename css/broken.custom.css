@@ -53,8 +53,13 @@ footer a:hover {
 	margin-top: 35px;
 }
 
+	ul.dropdown-menu {
+		left: 0px;
+		top: 0px;
+	}
+
 .navbar-custom .nav li a {
-	color: #fff; /* 636873; */
+	color: #fff;
 	text-shadow: none;
 }
 
@@ -62,7 +67,6 @@ footer a:hover {
 	color: #636873;
 	text-shadow: none;
 }
-
 
 .navbar-custom .nav li > ul > li > a {
 	color: #000;
@@ -126,19 +130,13 @@ h1, h2, h3, h4, h5, h6 {
 
 /* responsive */
 
-@media (max-width: 768px) {
-
 	.navbar {
 		min-height: 50px;
 		box-shadow: rgba(0, 0, 0, 0.0980392) 0px 4px 2px -2px;
 	}
 
-	.navbar-brand {
-		margin-top: 0px;
-	}
-
-	.top-nav-collapse .navbar-brand {
-	    margin-top: 0;
+	ul.nav.navbar-nav {
+		margin-bottom: 20px;
 	}
 
 	.navbar-custom .nav li a {
@@ -147,6 +145,19 @@ h1, h2, h3, h4, h5, h6 {
 
 	.navbar-custom .nav li a:hover {
 		color: #000;
+	}
+
+	ul.dropdown-menu {
+		left: 120px;
+		top: 0px;
+	}
+
+	.navbar-brand {
+	    margin-top: 0px;
+	}
+
+	.top-nav-collapse .navbar-brand {
+	    margin-top: 0px;
 	}
 
 	.content-section {
