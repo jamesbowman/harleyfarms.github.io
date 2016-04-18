@@ -18,3 +18,7 @@ encoding:     "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 include: ['_pages']
+gems:    ['jekyll-paginate']
+
+paginate: 5
+paginate_path: "/news/page:num/"

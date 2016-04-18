@@ -1,0 +1,79 @@
+---
+layout: default
+id: 14
+title: Farm News
+blog: true
+link: /news/
+---
+<div class="hidden-xs" style="height: 150px"></div>
+<div class="visible-xs" style="height: 70px"></div>
+<div class="container" style="margin-bottom: 25px;">
+    <a href="{{ paginator.posts[0].url }}"><img src="{{ paginator.posts[0].img }}" class="img-responsive" alt=""></a>
+</div>
+<div class="container">
+    <p style="text-align: center; color: #9ca1aa;">WRITTEN BY {{ paginator.posts[0].author | upcase }} ON {{ paginator.posts[0].date | date: "%d %B %Y" | upcase }}.</p>
+    <h2 style="text-align: center;">{{ paginator.posts[0].title | upcase }}</h2>
+    <hr />
+    <p style="color: rgb(99, 104, 115);">{{ paginator.posts[0].excerpt }}</p>
+    <p style="text-align: center;"><a href="{{ paginator.posts[0].url }}" class="pill">CONTINUE READING</a></p>
+</div>
+<div class="container" style="margin-bottom: 25px;">
+{% assign n = 1 %}
+{% for post in paginator.posts offset:1 %}
+    {% if n == 1 %}
+        <div class="row" style="margin-top: 25px;">
+    {% endif %}
+    <div class="col-md-6">
+        <p><a href="{{ post.url }}"><img src="{{ post.img }}" alt="" class="img-responsive"></a></p>
+        <p style="text-align: center; color: #9ca1aa;">WRITTEN BY {{ post.author | upcase }} ON {{ post.date | date: "%d %B %Y" | upcase }}.</p>
+        <h2 style="text-align: center;">{{ post.title | upcase }}</h2>
+        <hr />
+        <p style="color: rgb(99, 104, 115);">{{ post.excerpt }}</p>
+        <p style="text-align: center;"><a href="{{ post.url }}" class="pill">CONTINUE READING</a></p>
+    </div>
+    {% if n == 2 or forloop.last == true %}
+        </div>
+        {% assign n = 1 %}
+    {% else %}
+        {% assign n = n | plus: 1%}
+    {% endif %}
+{% endfor %}
+<div class="row" style="margin-top: 25px;">
+    <div class="col-md-12">
+        <nav>
+          <ul class="pagination">
+            {% if paginator.previous_page_path == nil %}
+            <li class="disabled">
+              <a aria-label="Previous">
+                <span aria-hidden="true">&laquo;</span>
+                </a>
+            </li>
+            {% else %}
+            <li>
+              <a href="{{ paginator.previous_page_path }}" aria-label="Previous">
+                <span aria-hidden="true">&laquo;</span>
+                </a>
+            </li>
+            {% endif %}
+            <li><a href="/news/">1</a></li>
+            {% for i in (2..paginator.total_pages) %}
+            <li><a href="/news/page{{ i }}/">{{ i }}</a></li>
+            {% endfor %}
+            {% if paginator.next_page_path == nil %}
+            <li class="disabled">
+              <a aria-label="Next">
+                <span aria-hidden="true">&raquo;</span>
+                </a>
+            </li>
+            {% else %}
+            <li>
+              <a href="{{ paginator.next_page_path }}" aria-label="Next">
+                <span aria-hidden="true">&raquo;</span>
+                </a>
+            </li>
+            {% endif %}
+</ul>
+</nav>
+    </div>
+</div>
+</div>

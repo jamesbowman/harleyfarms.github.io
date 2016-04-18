@@ -53,13 +53,13 @@
                     {% assign p = pa %}
                   {% endif %}
                 {% endfor %}
-                {% if page.layout == "post" and p.layout == "blog" %}
+                {% if page.layout == "post" and p.blog == true %}
                   {% assign selected = true %}
                 {% endif %}
                 {% if p.id == page.id or selected %}
-                  <li class="dropdown"><a href="{{ p.permalink }}" style="color: #ee9f14;">{{ p.title }}</a>
+                  <li><a href="{% if p.permalink == nil %}{{ p.link }}{% else %}{{ p.permalink }}{% endif %}" style="color: #ee9f14;">{{ p.title }}</a>
                 {% else %}
-                  <li><a href="{{ p.permalink }}">{{ p.title }}</a></li>
+                  <li><a href="{% if p.permalink == nil %}{{ p.link }}{% else %}{{ p.permalink }}{% endif %}">{{ p.title }}</a></li>
                 {% endif %}
             {% else %}
               {% assign first = true %}
