@@ -6,7 +6,7 @@ layout: default
 {% for module in page.modules %}
 	{% if module.type == "header" %}
 		<div class="container" style="margin-bottom: 25px;">
-			{% if forloop.first == false  %}
+			{% if forloop.first == false and module.hr == true %}
 				<hr />
 			{% endif %}
 	    	<img src="{{ module.img }}" class="img-responsive" alt="">
@@ -18,7 +18,7 @@ layout: default
 	{% if module.type == "2-col" %}
 		{% if module.orientation == "left" %}
 		<div class="container" style="margin-bottom: 25px;">
-        	{% if forloop.first == false  %}
+        	{% if forloop.first == false and module.hr == true %}
 				<hr />
 			{% endif %}
 			<div class="row">
@@ -30,7 +30,7 @@ layout: default
         </div>
         {% else %}
 		<div class="container" style="margin-bottom: 25px;">
-        	{% if forloop.first == false  %}
+        	{% if forloop.first == false and module.hr == true %}
 				<hr />
 			{% endif %}
 			<div class="row">
@@ -44,7 +44,7 @@ layout: default
 	{% endif %}
 	{% if module.type == "3-col-grid" %}
 		<div class="container" style="margin-bottom: 25px;">
-			{% if forloop.first == false  %}
+			{% if forloop.first == false and module.hr == true %}
 				<hr />
 			{% endif %}
 			{% assign n = 1 %}
@@ -67,7 +67,7 @@ layout: default
 	{% endif %}
 	{% if module.type == "2-col-grid" %}
 		<div class="container" style="margin-bottom: 25px;">
-			{% if forloop.first == false  %}
+			{% if forloop.first == false and module.hr == true %}
 				<hr />
 			{% endif %}
 			{% assign n = 1 %}
@@ -90,7 +90,7 @@ layout: default
 	{% endif %}
 	{% if module.type == "text" %}
 		<div class="container" style="margin-bottom: 25px;">
-			{% if forloop.first == false  %}
+			{% if forloop.first == false and module.hr == true %}
 				<hr />
 			{% endif %}
 				{{ module.text | markdownify }}
@@ -98,7 +98,7 @@ layout: default
 	{% endif %}	
     {% if module.type == "4-col-img-grid" %}
         <div class="container" style="margin-bottom: 25px;">
-            {% if forloop.first == false  %}
+            {% if forloop.first == false and module.hr == true %}
                 <hr />
             {% endif %}
             {% assign n = 1 %}
