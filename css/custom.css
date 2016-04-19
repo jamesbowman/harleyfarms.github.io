@@ -182,7 +182,7 @@ h1, h2, h3, h4, h5, h6 {
   padding:0 !important;
 }
 
-.tile:hover, .tile:active {
+.tile:hover, .tile:focus {
   background-size: 120% !important;
 }
 
@@ -196,7 +196,7 @@ h1, h2, h3, h4, h5, h6 {
   transition: background-color 0.5s;
 }
 
-.back:hover, .back:active {
+.back:hover, .back:focus {
   background-color: rgba(255,255,255,0.6);
 }
 
@@ -209,6 +209,6 @@ h1, h2, h3, h4, h5, h6 {
   opacity: 0;
 }
 
-.back:hover .content-container, .back:active .content-container {
+.back:hover .content-container, .back:focus .content-container {
   opacity: 1;
 }
