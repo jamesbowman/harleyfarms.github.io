@@ -76,9 +76,9 @@
                 {% endfor %}
                 {% if first %}
                   {% if selected %}
-                    <li class="dropdown"><a {% if p.layout == "link" %}{% unless p.link == "" %}href="{{ p.link }}"{% endunless %}{% else %}href="{{ p.permalink }}"{% endif %} style="color: #ee9f14;">{{ p.title }}</a>
+                    <li class="dropdown"><a {% if p.layout == "link" %}{% unless p.link == nil %}href="{{ p.link }}"{% endunless %}{% else %}href="{{ p.permalink }}"{% endif %} style="color: #ee9f14;">{{ p.title }}</a>
                   {% else %}
-                    <li class="dropdown"><a {% if p.layout == "link" %}{% unless p.link == "" %}href="{{ p.link }}"{% endunless %}{% else %}href="{{ p.permalink }}"{% endif %}>{{ p.title }}</a>
+                    <li class="dropdown"><a {% if p.layout == "link" %}{% unless p.link == nil %}href="{{ p.link }}"{% endunless %}{% else %}href="{{ p.permalink }}"{% endif %}>{{ p.title }}</a>
                   {% endif %}
                     <ul class="dropdown-menu" role="menu">
                   {% assign first = false %}
