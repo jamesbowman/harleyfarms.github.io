@@ -8,8 +8,24 @@
  $(".tile").css("height",$(".tile").css("width"));
 }
 
+function isMobile() {
+    if($(window).width()<=767) {
+        $(".tile").addClass("jqhover");
+        $(".back").addClass("jqhover");
+        $(".content-container").addClass("jqhover");
+    }
+    else {
+        $(".tile").removeClass("jqhover");
+        $(".back").removeClass("jqhover");
+        $(".content-container").removeClass("jqhover");
+    }
+}
+isMobile()
 square();
-$(window).resize(square);
+$(window).resize(function() {
+    isMobile()
+    square();
+});
 // jQuery to collapse the navbar on scroll
 function collapseNavbar() {
     if($(".navbar").hasClass("collapsible")) {
