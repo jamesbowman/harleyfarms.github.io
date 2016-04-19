@@ -4,6 +4,12 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+ function square() {
+ $(".tile").css("height",$(".tile").css("width"));
+}
+
+square();
+$(window).resize(square);
 // jQuery to collapse the navbar on scroll
 function collapseNavbar() {
     if($(".navbar").hasClass("collapsible")) {
