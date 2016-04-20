@@ -94,6 +94,15 @@ ul.nav li.dropdown:hover ul.dropdown-menu {
 
 }
 
+.home-weddings {
+	background: rgba(0, 0, 0, 0) url("../img/home/home_weddings.jpg") repeat scroll center top;
+	padding: 250px 0 300px 50px;
+}
+
+.home-weddings h3 {
+	color: #fff;
+}
+
 .content-section {
 	padding-top: 150px;
 }
