@@ -113,7 +113,7 @@ ul.nav li.dropdown:hover ul.dropdown-menu {
 p {
 	font-family: Raleway;
 	font-size: 16px;
-	font-weight: normal;
+	font-weight: 300;
 	line-height: 24px;
 	padding-bottom: 20px;
 	margin: 0px;
@@ -121,6 +121,16 @@ p {
 
 h1, h2, h3, h4, h5, h6 {
 	font-family: Raleway;
+	text-transform: none;
+}
+
+a {
+	color: #47722a;
+}
+
+a:hover {
+	color: #404040;
+	text-decoration: underline;
 }
 
 /* end text styles */
