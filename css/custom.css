@@ -3,7 +3,11 @@
 @import "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300";
 
 body {
-	background: #fff;
+/*
+    background-attachment: fixed;
+    background-image: linear-gradient(125deg, #ffffff, #dddddd);
+*/
+    background-color: #ddd;
 	color: #000;
 	font-family: Raleway;
 }
@@ -12,6 +16,14 @@ body {
     background: #000;
 	color: #fff;
     text-shadow: none;
+}
+
+.container {
+	background: #fff;
+}
+
+.no-color {
+	background: transparent;
 }
 
 footer {
