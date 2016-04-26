@@ -1,0 +1,58 @@
+---
+layout: default
+---
+<div class="hidden-xs" style="height: 120px"></div>
+<div class="visible-xs" style="height: 70px"></div>
+<div class="container" style="padding-top: 25px; padding-bottom: 25px;">
+    <div class="row">
+        <div class="col-md-6">
+            <h2 style="margin-bottom: 0px;">Site Maps</h2>
+            <hr>
+            {% assign list = site.array %}
+            {% for item in site.data.menu %}
+                {% if item > 0 %}
+                    {% for pa in site.pages %}
+                        {% if pa.id == item %}
+                            {% assign p = pa %}
+                        {% endif %}
+                    {% endfor %}
+                        {% unless p.layout == "link" %}
+                            <strong><a href="{% if p.layout == "page" %}{{ p.permalink }}{% else %}{{ p.link }}{% endif %}">{{ p.title }}</a></strong><br />
+                            {% assign list = list | push: p.id %}
+                        {% endunless %}
+
+                {% else %}
+                    {% for i in item %}
+                        {% for pa in site.pages %}
+                            {% if pa.id == i %}
+                                {% assign p = pa %}
+                            {% endif %}
+                        {% endfor %}
+                        {% if forloop.first == true %}
+                            {% unless p.layout == "link" %}
+                                <strong><a href="{% if p.layout == "page" %}{{ p.permalink }}{% else %}{{ p.link }}{% endif %}">{{ p.title }}</a></strong><br />
+                                {% assign list = list | push: p.id %}
+                            {% endunless %}
+                        {% else %}
+                            {% unless p.layout == "link" %}
+                                <a href="{% if p.layout == "page" %}{{ p.permalink }}{% else %}{{ p.link }}{% endif %}">{{ p.title }}</a><br />
+                                {% assign list = list | push: p.id %}
+                            {% endunless %}
+                        {% endif %}
+                    {% endfor %}
+                {% endif %}
+            {% endfor %}
+            {% for page in site.pages %}
+                {% assign printed = false %}
+                {% for i in list %}
+                    {% if i == page.id %}
+                        {% assign printed = true %}
+                    {% endif %}
+                {% endfor %}
+                {% if printed == false and page.layout == "page" %}
+                    <strong><a href="{% if page.layout == "page" %}{{ page.permalink }}{% else %}{{ page.link }}{% endif %}">{{ page.title }}</a></strong><br />
+                {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+</div>
