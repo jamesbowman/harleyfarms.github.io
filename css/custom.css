@@ -18,14 +18,14 @@ body {
 .container {
 /*	width: 1400px; */
 	background: #fff;
-	padding-left: 100px;
 	padding-right: 100px;
+	padding-left: 100px;
 }
 
 .no-padding {
 /*	width: 1170px; */
-	padding-left: 15px;
 	padding-right: 15px;
+	padding-left: 15px;
 }
 
 .no-color {
@@ -128,7 +128,7 @@ ul.nav li.dropdown:hover ul.dropdown-menu {
 }
 
 .content-section {
-	padding-top: 200px;
+	padding-top: 150px;
 }
 
 
