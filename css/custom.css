@@ -3,24 +3,29 @@
 @import "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300";
 
 body {
-/*
-    background-attachment: fixed;
-    background-image: linear-gradient(125deg, #ffffff, #dddddd);
-*/
-    background-color: #ddd;
+	background-color: #ddd;
 	color: #636873;
 	font-family: Raleway;
 	font-size: 16px;
 }
 
 *::-moz-selection {
-    background: #000;
+	background: #000;
 	color: #fff;
-    text-shadow: none;
+	text-shadow: none;
 }
 
 .container {
+/*	width: 1400px; */
 	background: #fff;
+	padding-left: 100px;
+	padding-right: 100px;
+}
+
+.no-padding {
+/*	width: 1170px; */
+	padding-left: 15px;
+	padding-right: 15px;
 }
 
 .no-color {
@@ -82,7 +87,6 @@ footer a:hover {
 	text-shadow: none;
 }
 
-
 .navbar-custom .nav li > ul > li > a {
 	color: #000;
 	text-shadow: none;
@@ -107,9 +111,9 @@ ul.nav li.dropdown:hover ul.dropdown-menu {
 
 /* end custom navigation */
 
+
 .intro {
 	background: url(../img/home_main1.jpg) no-repeat top center scroll;
-
 }
 
 .home-weddings {
@@ -118,11 +122,13 @@ ul.nav li.dropdown:hover ul.dropdown-menu {
 }
 
 .home-weddings h3 {
+	padding-left: 15px;
+	padding-right: 15px;
 	color: #fff;
 }
 
 .content-section {
-	padding-top: 150px;
+	padding-top: 200px;
 }
 
 
@@ -177,46 +183,6 @@ a:hover {
 	text-decoration: none;
 }
 
-/* responsive */
-
-@media (max-width: 768px) {
-
-	.navbar {
-		min-height: 50px;
-		box-shadow: rgba(0, 0, 0, 0.0980392) 0px 4px 2px -2px;
-	}
-
-	.navbar-brand {
-		margin-top: 0px;
-	}
-
-	.top-nav-collapse .navbar-brand {
-	    margin-top: 0;
-	}
-
-	.navbar-custom .nav li a {
-		color: #636873;
-	}
-
-	.navbar-custom .nav li a:hover {
-		color: #000;
-	}
-
-	.dropdown-menu {
-		top: 0px;
-		left: 120px;
-	}
-
-	.navbar-custom .nav li > ul {
-		list-style: none;
-	}
-
-	.content-section {
-		padding-top: 40px;
-	}
-
-}
-
 /* pagination */
 .pagination-custom {
 	
@@ -261,3 +227,68 @@ a:hover {
 .back:hover .content-container, .content-container.jqhover {
   opacity: 1;
 }
+
+
+/* responsive */
+
+@media (max-width: 1200px) {
+	.container {
+/*		background: orange; */
+/*		width: 970px; */
+		padding-left: 50px;
+		padding-right: 50px;
+	}
+}
+
+@media (max-width: 992px) {
+	.container {
+/*		width: 750px; */
+/* 		background: pink; */
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+}
+
+@media (max-width: 768px) {
+
+	.container {
+/*		width: 100%; */
+/*		background: yellow; */
+	}
+
+	.navbar {
+		min-height: 50px;
+		box-shadow: rgba(0, 0, 0, 0.0980392) 0px 4px 2px -2px;
+	}
+
+	.navbar-brand {
+		margin-top: 0px;
+	}
+
+	.top-nav-collapse .navbar-brand {
+	    margin-top: 0;
+	}
+
+	.navbar-custom .nav li a {
+		color: #636873;
+	}
+
+	.navbar-custom .nav li a:hover {
+		color: #000;
+	}
+
+	.dropdown-menu {
+		top: 0px;
+		left: 120px;
+	}
+
+	.navbar-custom .nav li > ul {
+		list-style: none;
+	}
+
+	.content-section {
+		padding-top: 40px;
+	}
+
+}
+
