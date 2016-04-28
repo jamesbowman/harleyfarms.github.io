@@ -33,8 +33,12 @@ body {
 }
 
 footer {
-	background: #212b23;
+/*	background: #212b23; */
+}
 
+.footer-inner {
+	background: #212b23;
+	padding: 25px;
 }
 
 footer p {
