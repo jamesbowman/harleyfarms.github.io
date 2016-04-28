@@ -30,7 +30,7 @@ function setHeight(div,h,w) {
 }
 
 function isMobile() {
-    if($(window).width()<=767) {
+    if($(window).width()<=767&&!($(".tile").hasClass("ratio"))) {
         $(".tile").addClass("jqhover");
         $(".back").addClass("jqhover");
         $(".content-container").addClass("jqhover");
