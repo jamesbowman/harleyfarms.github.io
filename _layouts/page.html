@@ -125,9 +125,18 @@ layout: default
             {% endif %}
             {% assign n = 1 %}
             {% for entry in module.entries %}
-                <div class="col-md-4 col-sm-6 col-lg-3" style="padding-bottom: 30px;">
+                {% if n == 1 %}
+                    <div class="row">
+                {% endif %}
+                <div class="col-md-4" style="padding-bottom: 30px;">
                     <a href="{{ entry.img }}" data-lightbox="gallery"{% unless text == "" %} data-title="{{ entry.text }}"{% endunless %}><img src="{{ entry.img }}" alt="" class="img-responsive center-block"></a>
                 </div>
+                {% if n == 3 or forloop.last == true %}
+                    </div>
+                    {% assign n = 1 %}
+                {% else %}
+                    {% assign n = n | plus: 1%}
+                {% endif %}
             {% endfor %}
         </div>
     {% endif %} 
