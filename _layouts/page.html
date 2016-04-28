@@ -143,7 +143,7 @@ layout: default
 	                    <div class="row">
 	                {% endif %}
 	                <div class="col-md-4" style="padding-bottom: 30px;">
-		                <a href="{{ entry.img }}" data-lightbox="gallery"{% unless text == "" %} data-title="{{ entry.text }}"{% endunless %}>
+		                <a href="{{ entry.img }}" data-lightbox="{{ galleryno | prepend: "gallery" }}"{% unless text == "" %} data-title="{{ entry.text }}"{% endunless %}>
 			                <div class="tile ratio" style="background: url({{ entry.img }});">
 			                	<div class="back">
 			                	  <div class="text-center content-container">
@@ -171,7 +171,7 @@ layout: default
 	                    <div class="row">
 	                {% endif %}
 	                <div class="col-md-4" style="padding-bottom: 30px;">
-		                <a href="{{ entry.img }}" data-lightbox="gallery"{% unless text == "" %} data-title="{{ entry.text }}"{% endunless %}>
+		                <a href="{{ entry.img }}" data-lightbox="all"{% unless text == "" %} data-title="{{ entry.text }}"{% endunless %}>
 			                <div class="tile ratio" style="background: url({{ entry.img }});">
 			                	<div class="back">
 			                	  <div class="text-center content-container">
