@@ -150,6 +150,7 @@ h1, h2, h3, h4, h5, h6 {
 	font-weight: 300;
 	letter-spacing: 0px;
 	color: #636873;
+	margin: 0 0 20px;
 }
 
 a {
@@ -228,6 +229,9 @@ a:hover {
   opacity: 1;
 }
 
+.lg-rt-xs-lt {
+	text-align: right;
+}
 
 /* responsive */
 
@@ -290,5 +294,8 @@ a:hover {
 		padding-top: 40px;
 	}
 
+	.lg-rt-xs-lt {
+		text-align: left;
+	}
 }
 
