@@ -3,9 +3,30 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
+var galleryWidth;
 
  function square() {
- $(".tile").css("height",$(".tile").css("width"));
+ $(".square").css("height",$(".square").css("width"));
+ $(".ratio").each(function() {
+    var div = $(this);
+    var str = $(this).css("background-image");
+    str = str.substring(4,str.length-1);
+    $("<img/>",{
+        load : function(){ setHeight(div,this.height,this.width) },
+        src  : str
+    });
+});
+}
+
+function setHeight(div,h,w) {
+    if (div.css("width") != "0px") {
+        galleryWidth = parseInt(div.css("width"));
+        div.css("height",galleryWidth*h/w);
+    }
+    else {
+        div.css("height",galleryWidth*h/w);
+    }
+    
 }
 
 function isMobile() {
@@ -21,7 +42,6 @@ function isMobile() {
     }
 }
 isMobile()
-square();
 $(window).resize(function() {
     isMobile()
     square();
@@ -44,7 +64,14 @@ function collapseNavbar() {
 }
 
 $(window).scroll(collapseNavbar);
-$(document).ready(collapseNavbar);
+$(document).ready(function() {
+    square();
+    collapseNavbar();
+    $(".gallery-pill").click(function() {
+        $(".gallery-pill").removeClass("active");
+        $(this).addClass("active");
+    });
+});
 
 // jQuery for page scrolling feature - requires jQuery Easing plugin
 $(function() {

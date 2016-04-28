@@ -60,7 +60,7 @@ layout: default
 				</div>
 				{% assign n = 1 %}
 			{% else %}
-				{% assign n = n | plus: 1%}
+				{% assign n = n | plus: 1 %}
 			{% endif %}
 		{% endfor %}
 	</div>
@@ -83,7 +83,7 @@ layout: default
 				</div>
 				{% assign n = 1 %}
 			{% else %}
-				{% assign n = n | plus: 1%}
+				{% assign n = n | plus: 1 %}
 			{% endif %}
 		{% endfor %}
 		</div>
@@ -113,31 +113,83 @@ layout: default
                 </div>
                 {% assign n = 1 %}
             {% else %}
-                {% assign n = n | plus: 1%}
+                {% assign n = n | plus: 1 %}
             {% endif %}
         {% endfor %}
         </div>
     {% endif %}
     {% if module.type == "gallery" %}
         <div class="container" style="padding-bottom: 25px;">
+
             {% if forloop.first == false and module.hr == true %}
                 <hr />
             {% endif %}
-            {% assign n = 1 %}
-            {% for entry in module.entries %}
-                {% if n == 1 %}
-                    <div class="row">
-                {% endif %}
-                <div class="col-md-4" style="padding-bottom: 30px;">
-                    <a href="{{ entry.img }}" data-lightbox="gallery"{% unless text == "" %} data-title="{{ entry.text }}"{% endunless %}><img src="{{ entry.img }}" alt="" class="img-responsive center-block"></a>
-                </div>
-                {% if n == 3 or forloop.last == true %}
-                    </div>
-                    {% assign n = 1 %}
-                {% else %}
-                    {% assign n = n | plus: 1%}
-                {% endif %}
+
+         	{% assign galleryno = 1 %}
+         	<p style="text-align: center;">
+            {% for gallery in module.galleries %}
+				<a href="#{{ galleryno | prepend: "gallery" }}" aria-controls="{{ galleryno | prepend: "gallery" }}" role="tab" data-toggle="tab" class="gallery-pill{% if forloop.first == true %} active{% endif %}">{{ gallery.name }}</a>
+	         	{% assign galleryno = galleryno | plus: 1 %}
+	        {% endfor %}
+	        <a href="#all" aria-controls="all" role="tab" data-toggle="tab" class="gallery-pill">All</a>
+	        </p>
+
+            {% assign galleryno = 1 %}
+            {% for gallery in module.galleries %}
+            	<div role="tabpanel" class="tab-pane{% if forloop.first == true %} active{% endif %}" id="{{ galleryno | prepend: "gallery" }}">
+            	{% assign n = 1 %}
+	            {% for entry in gallery.entries %}
+	                {% if n == 1 %}
+	                    <div class="row">
+	                {% endif %}
+	                <div class="col-md-4" style="padding-bottom: 30px;">
+		                <a href="{{ entry.img }}" data-lightbox="gallery"{% unless text == "" %} data-title="{{ entry.text }}"{% endunless %}>
+			                <div class="tile ratio" style="background: url({{ entry.img }});">
+			                	<div class="back">
+			                	  <div class="text-center content-container">
+			                	    <h3 style="margin: 0;">{% unless text == "" %}{{ entry.text }}{% endunless %}</h3>
+			                	  </div>
+			                	</div>
+			                </div>
+		                </a>
+	                </div>
+	                {% if n == 3 or forloop.last == true %}
+	                    </div>
+	                    {% assign n = 1 %}
+	                {% else %}
+	                    {% assign n = n | plus: 1 %}
+	                {% endif %}
+	            {% endfor %}
+	            </div>
+	            {% assign galleryno = galleryno | plus: 1 %}
+	        {% endfor %}
+	        <div role="tabpanel" class="tab-pane" id="all">
+	        {% assign n = 1 %}
+	        {% for gallery in module.galleries %}
+            	{% for entry in gallery.entries %}
+	                {% if n == 1 %}
+	                    <div class="row">
+	                {% endif %}
+	                <div class="col-md-4" style="padding-bottom: 30px;">
+		                <a href="{{ entry.img }}" data-lightbox="gallery"{% unless text == "" %} data-title="{{ entry.text }}"{% endunless %}>
+			                <div class="tile ratio" style="background: url({{ entry.img }});">
+			                	<div class="back">
+			                	  <div class="text-center content-container">
+			                	    <h3 style="margin: 0;">{% unless text == "" %}{{ entry.text }}{% endunless %}</h3>
+			                	  </div>
+			                	</div>
+			                </div>
+		                </a>
+	                </div>
+	                {% if n == 3 or forloop.parentloop.last == true %}
+	                    </div>
+	                    {% assign n = 1 %}
+	                {% else %}
+	                    {% assign n = n | plus: 1 %}
+	                {% endif %}
+            	{% endfor %}
             {% endfor %}
+            </div>
         </div>
     {% endif %} 
 {% endfor %}

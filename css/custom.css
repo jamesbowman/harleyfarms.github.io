@@ -188,6 +188,29 @@ a:hover {
 	text-decoration: none;
 }
 
+.gallery-pill {
+	text-transform: uppercase;
+	font-family: "Open Sans Condensed";
+	background: #fff;
+	color: rgb(99, 104, 115);
+	padding: 5px 20px;
+	border-radius: 40px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	display:inline-block;
+}
+
+.gallery-pill:hover {
+	background: #404040;
+	color: #ee9f14;
+	text-decoration: none;
+}
+
+.gallery-pill.active {
+	background: #000;
+	color: #fff;
+}
+
 /* pagination */
 .pagination-custom {
 	
@@ -226,7 +249,7 @@ a:hover {
   background-color: none;
   transition: opacity 0.5s;
   opacity: 0;
-  margin: 15px;
+  padding: 15px;
 }
 
 .back:hover .content-container, .content-container.jqhover {
@@ -308,3 +331,11 @@ a:hover {
 	}
 }
 
+
+.tab-pane {
+	display: none;
+}
+
+.tab-pane.active {
+	display: inline;
+}
