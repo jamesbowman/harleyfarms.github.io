@@ -167,6 +167,9 @@ layout: default
 	        <div role="tabpanel" class="tab-pane" id="all">
 	        {% assign n = 1 %}
 	        {% for gallery in module.galleries %}
+	        	{% if forloop.last %}
+	        		{% assign last = true %}
+	        	{% endif %}
             	{% for entry in gallery.entries %}
 	                {% if n == 1 %}
 	                    <div class="row">
@@ -183,7 +186,7 @@ layout: default
 			                </div>
 		                </a>
 	                </div>
-	                {% if forloop.parentloop.last == true and forloop.last == true %}
+	                {% if last == true and forloop.last == true %}
 	                	{% assign end = true %}
 	                {% else %}
 	                	{% assign end = false %}
