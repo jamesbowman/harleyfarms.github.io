@@ -93,7 +93,7 @@ layout: default
 			{% if forloop.first == false and module.hr == true %}
 				<hr />
 			{% endif %}
-				{{ module.text | markdownify }}
+				{% if module.markdown != false %}{{ module.text | markdownify }}{% else %}{{ module.text }}{% endif %}
 		</div>
 	{% endif %}	
     {% if module.type == "4-col-img-grid" %}
