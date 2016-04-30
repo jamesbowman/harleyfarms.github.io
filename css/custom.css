@@ -218,7 +218,7 @@ a:hover {
 
 /* front page tiles */
 .tile {
-  background-size: 100% !important;
+  background-size: 102% !important;
   transition: background-size 0.5s !important;
   background-position: center !important; 
   padding:0 !important;

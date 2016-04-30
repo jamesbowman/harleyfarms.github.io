@@ -7,15 +7,6 @@ var galleryWidth;
 
  function square() {
  $(".square").css("height",$(".square").css("width"));
- $(".ratio").each(function() {
-    var div = $(this);
-    var str = $(this).css("background-image");
-    str = str.substring(4,str.length-1).replace("\"","").replace("\"","");
-    $("<img/>",{
-        load : function(){ setHeight(div,this.height,this.width) },
-        src  : str
-    });
-});
 }
 
 function setHeight(div,h,w) {

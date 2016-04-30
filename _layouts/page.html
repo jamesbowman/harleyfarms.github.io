@@ -143,8 +143,9 @@ layout: default
 	                    <div class="row">
 	                {% endif %}
 	                <div class="col-md-4" style="padding-bottom: 30px;">
+	                <img src="{{ entry.img }}" class="img-responsive" style="visibility: hidden;">
 		                <a href="{{ entry.img }}" data-lightbox="{{ galleryno | prepend: "gallery" }}"{% unless text == "" %} data-title="{{ entry.text }}"{% endunless %}>
-			                <div class="tile ratio" style="background: url({{ entry.img }});">
+			                <div class="tile ratio" style="background: url({{ entry.img }}); position: absolute; width: calc(100% - 30px); height: calc(100% - 30px); top: 0; z-index: 10;">
 			                	<div class="back">
 			                	  <div class="text-center content-container">
 			                	    <h3 style="margin: 0;">{% unless text == "" %}{{ entry.text }}{% endunless %}</h3>
@@ -171,8 +172,9 @@ layout: default
 	                    <div class="row">
 	                {% endif %}
 	                <div class="col-md-4" style="padding-bottom: 30px;">
+	                	<img src="{{ entry.img }}" class="img-responsive" style="visibility: hidden;">
 		                <a href="{{ entry.img }}" data-lightbox="all"{% unless text == "" %} data-title="{{ entry.text }}"{% endunless %}>
-			                <div class="tile ratio" style="background: url({{ entry.img }});">
+			                <div class="tile" style="background: url({{ entry.img }}); position: absolute; width: calc(100% - 30px); height: calc(100% - 30px); top: 0; z-index: 10;">
 			                	<div class="back">
 			                	  <div class="text-center content-container">
 			                	    <h3 style="margin: 0;">{% unless text == "" %}{{ entry.text }}{% endunless %}</h3>
@@ -181,7 +183,12 @@ layout: default
 			                </div>
 		                </a>
 	                </div>
-	                {% if n == 3 or forloop.parentloop.last == true %}
+	                {% if forloop.parentloop.last == true and forloop.last == true %}
+	                	{% assign end = true %}
+	                {% else %}
+	                	{% assign end = false %}
+	                {% endif %}
+	                {% if n == 3 or end == true %}
 	                    </div>
 	                    {% assign n = 1 %}
 	                {% else %}
