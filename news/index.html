@@ -11,11 +11,14 @@ link: /news/
     <a href="{{ paginator.posts[0].url }}"><img src="{{ paginator.posts[0].img }}" class="img-responsive" alt=""></a>
 </div>
 <div class="container">
+<!--
     <p style="text-align: center; color: #9ca1aa;">WRITTEN BY {{ paginator.posts[0].author | upcase }} ON {{ paginator.posts[0].date | date: "%d %B %Y" | upcase }}.</p>
+-->
+    <p style="text-align: center; color: #9ca1aa;">POSTED {{ paginator.posts[0].date | date: "%d %B %Y" | upcase }}.</p>
     <h2 style="text-align: center;">{{ paginator.posts[0].title | upcase }}</h2>
     <hr />
     <p style="color: rgb(99, 104, 115);">{{ paginator.posts[0].excerpt }}</p>
-    <p style="text-align: center;"><a href="{{ paginator.posts[0].url }}" class="pill">CONTINUE READING</a></p>
+    <p style="text-align: center;"><a href="{{ paginator.posts[0].url }}" class="pill">READ MORE</a></p>
 </div>
 <div class="container" style="margin-bottom: 25px;">
 {% assign n = 1 %}
@@ -25,11 +28,10 @@ link: /news/
     {% endif %}
     <div class="col-md-6">
         <p><a href="{{ post.url }}"><img src="{{ post.img }}" alt="" class="img-responsive"></a></p>
-        <p style="text-align: center; color: #9ca1aa;">WRITTEN BY {{ post.author | upcase }} ON {{ post.date | date: "%d %B %Y" | upcase }}.</p>
+        <p style="text-align: center; color: #9ca1aa;">POSTED {{ post.date | date: "%d %B %Y" | upcase }}.</p>
         <h2 style="text-align: center;">{{ post.title | upcase }}</h2>
-        <hr />
         <p style="color: rgb(99, 104, 115);">{{ post.excerpt }}</p>
-        <p style="text-align: center;"><a href="{{ post.url }}" class="pill">CONTINUE READING</a></p>
+        <p style="text-align: center;"><a href="{{ post.url }}" class="pill">READ MORE</a></p>
     </div>
     {% if n == 2 or forloop.last == true %}
         </div>

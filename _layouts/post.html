@@ -7,8 +7,10 @@ layout: default
     <img src="{{ page.img }}" class="img-responsive" alt="">
 </div>
 <div class="container">
+<!--
     <p style="text-align: center; color: #9ca1aa;">WRITTEN BY {{ page.author | upcase }} ON {{ page.date | date: "%d %B %Y" | upcase }}.</p>
+-->
+    <p style="text-align: center; color: #9ca1aa;">{{ page.date | date: "%d %B %Y" | upcase }}.</p>
     <h2 style="text-align: center;">{{ page.title | upcase }}</h2>
-    <hr />
     <span p style="color: rgb(99, 104, 115);">{{ content }}</span>
 </div>
