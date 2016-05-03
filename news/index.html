@@ -8,7 +8,7 @@ link: /news/
 <div class="hidden-xs" style="height: 120px"></div>
 <div class="visible-xs" style="height: 70px"></div>
 <div class="container" style="padding-top: 25px; padding-bottom: 25px;">
-    <a href="{{ paginator.posts[0].url }}"><img src="{{ paginator.posts[0].img }}" class="img-responsive" alt=""></a>
+    <a href="{{ paginator.posts[0].url }}"><img src="{{ paginator.posts[0].header-img }}" class="img-responsive" alt=""></a>
 </div>
 <div class="container">
 <!--
@@ -27,7 +27,7 @@ link: /news/
         <div class="row" style="margin-top: 25px;">
     {% endif %}
     <div class="col-md-6">
-        <p><a href="{{ post.url }}"><img src="{{ post.img }}" alt="" class="img-responsive"></a></p>
+        <p><a href="{{ post.url }}"><img src="{{ post.header-img }}" alt="" class="img-responsive"></a></p>
         <p style="text-align: center; color: #9ca1aa;">POSTED {{ post.date | date: "%d %B %Y" | upcase }}.</p>
         <h2 style="text-align: center;">{{ post.title | upcase }}</h2>
         <p style="color: rgb(99, 104, 115);">{{ post.excerpt }}</p>

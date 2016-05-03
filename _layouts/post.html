@@ -4,7 +4,7 @@ layout: default
 <div class="hidden-xs" style="height: 120px"></div>
 <div class="visible-xs" style="height: 70px"></div>
 <div class="container" style="padding-top: 25px; padding-bottom: 25px;">
-    <img src="{{ page.img }}" class="img-responsive" alt="">
+    <img src="{{ page.header-img }}" class="img-responsive" alt="">
 </div>
 <div class="container">
 <!--
@@ -12,5 +12,38 @@ layout: default
 -->
     <p style="text-align: center; color: #9ca1aa;">{{ page.date | date: "%d %B %Y" | upcase }}.</p>
     <h2 style="text-align: center;">{{ page.title | upcase }}</h2>
-    <span p style="color: rgb(99, 104, 115);">{{ content }}</span>
+    <strong><span p style="color: rgb(99, 104, 115);">{{ page.intro }}</span></strong>
+    {% if page.orientation == "horizontal" %}
+    	{% assign n = page.imgs | size %}
+    	{% if n == 1 %}
+	    	<div class="row" style="padding-bottom: 20px; padding-top: 20px;">
+	    		<div class="col-md-4 col-md-offset-4"><img src="{{ page.imgs[0] }}" class="img-responsive" alt=""></div>
+	    	</div>
+	    {% elsif n == 2 %}
+	    	<div class="row" style="padding-bottom: 20px; padding-top: 20px;">
+	    		<div class="col-md-4 col-md-offset-2"><img src="{{ page.imgs[0] }}" class="img-responsive" alt=""></div>
+	    		<div class="col-md-4"><img src="{{ page.imgs[1] }}" class="img-responsive" alt=""></div>
+	    	</div>
+	    {% else %}
+	    	<div class="row" style="padding-bottom: 20px; padding-top: 20px;">
+	    		{% for img in page.imgs %}
+	    		<div class="col-md-4"><img src="{{ img }}" class="img-responsive" alt=""></div>
+	    		{% endfor %}
+	    	</div>
+	    {% endif %}
+
+    	<span p style="color: rgb(99, 104, 115);">{{ content }}</span>
+    {% elsif page.orientation == "vertical" %}
+    	<div class="row" style="padding-bottom: 20px; padding-top: 20px;">
+    		<div class="col-md-4">
+    			{% for img in page.imgs %}
+    			<img src="{{ img }}" style="padding-bottom: 20px;" class="img-responsive" alt="">
+    			{% endfor %}
+    		</div>
+    		<div class="col-md-8"><span p style="color: rgb(99, 104, 115);">{{ content }}</span></div>
+    	</div>
+    {% else %}
+    	<hr />
+    	<span p style="color: rgb(99, 104, 115);">{{ content }}</span>
+    {% endif %}
 </div>
