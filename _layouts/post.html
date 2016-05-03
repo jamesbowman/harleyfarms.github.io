@@ -16,28 +16,28 @@ layout: default
     {% if page.orientation == "horizontal" %}
     	{% assign n = page.imgs | size %}
     	{% if n == 1 %}
-	    	<div class="row" style="padding-bottom: 20px; padding-top: 20px;">
-	    		<div class="col-md-4 col-md-offset-4"><img src="{{ page.imgs[0] }}" class="img-responsive" alt=""></div>
+	    	<div class="row" style="padding-bottom: 10px; padding-top: 20px;">
+	    		<div class="col-md-4 col-md-offset-4" style="padding-bottom: 10px;"><img src="{{ page.imgs[0] }}" class="img-responsive" style="margin: 0 auto;" alt=""></div>
 	    	</div>
 	    {% elsif n == 2 %}
-	    	<div class="row" style="padding-bottom: 20px; padding-top: 20px;">
-	    		<div class="col-md-4 col-md-offset-2"><img src="{{ page.imgs[0] }}" class="img-responsive" alt=""></div>
-	    		<div class="col-md-4"><img src="{{ page.imgs[1] }}" class="img-responsive" alt=""></div>
+	    	<div class="row" style="padding-bottom: 10px; padding-top: 20px;">
+	    		<div class="col-md-4 col-md-offset-2" style="padding-bottom: 10px;"><img src="{{ page.imgs[0] }}" class="img-responsive" style="margin: 0 auto;" alt=""></div>
+	    		<div class="col-md-4" style="padding-bottom: 10px;"><img src="{{ page.imgs[1] }}" class="img-responsive" style="margin: 0 auto;" alt=""></div>
 	    	</div>
 	    {% else %}
 	    	<div class="row" style="padding-bottom: 20px; padding-top: 20px;">
 	    		{% for img in page.imgs %}
-	    		<div class="col-md-4"><img src="{{ img }}" class="img-responsive" alt=""></div>
+	    		<div class="col-md-4" style="padding-bottom: 10px;"><img src="{{ img }}" class="img-responsive" style="margin: 0 auto;" alt=""></div>
 	    		{% endfor %}
 	    	</div>
 	    {% endif %}
 
     	<span p style="color: rgb(99, 104, 115);">{{ content }}</span>
     {% elsif page.orientation == "vertical" %}
-    	<div class="row" style="padding-bottom: 20px; padding-top: 20px;">
+    	<div class="row" style="padding-bottom: 10px; padding-top: 20px;">
     		<div class="col-md-4">
     			{% for img in page.imgs %}
-    			<img src="{{ img }}" style="padding-bottom: 20px;" class="img-responsive" alt="">
+    			<img src="{{ img }}" style="padding-bottom: 10px; margin: 0 auto;" class="img-responsive" alt="">
     			{% endfor %}
     		</div>
     		<div class="col-md-8"><span p style="color: rgb(99, 104, 115);">{{ content }}</span></div>
