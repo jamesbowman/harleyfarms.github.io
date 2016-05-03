@@ -46,4 +46,12 @@ layout: default
     	<hr />
     	<span p style="color: rgb(99, 104, 115);">{{ content }}</span>
     {% endif %}
+    <div class="row" style="clear: both;">
+    {% if page.next.url %}
+        <p style="text-align: left; float: left;"><a href="{{ page.next.url }}">&laquo; Previous</a></p>
+    {% endif %}
+    {% if page.previous.url %}
+        <p style="text-align: right; float: right;"><a href="{{ page.previous.url }}">Next &raquo;</a></p>
+    {% endif %}
+    </div>
 </div>
