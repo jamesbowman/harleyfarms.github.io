@@ -12,7 +12,10 @@ layout: default
 -->
     <p style="text-align: center; color: #9ca1aa;">{{ page.date | date: "%d %B %Y" | upcase }}.</p>
     <h2 style="text-align: center;">{{ page.title | upcase }}</h2>
+    <p>{{ page.intro }}</p>
+<!--
     <strong><span p style="color: rgb(99, 104, 115);">{{ page.intro }}</span></strong>
+-->
     {% if page.orientation == "horizontal" %}
     	{% assign n = page.imgs | size %}
     	{% if n == 1 %}
