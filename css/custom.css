@@ -33,7 +33,9 @@ body {
 }
 
 footer {
-/*	background: #212b23; */
+	padding: 0px 0px 0px 0px;
+/*	margin-top: -25px; */
+	margin-bottom: 20px;
 }
 
 .footer-inner {

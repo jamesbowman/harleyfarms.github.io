@@ -20,7 +20,7 @@ link: /news/
     <p style="color: rgb(99, 104, 115);">{{ paginator.posts[0].excerpt }}</p>
     <p style="text-align: center;"><a href="{{ paginator.posts[0].url }}" class="pill">READ MORE</a></p>
 </div>
-<div class="container" style="margin-bottom: 25px;">
+<div class="container">
 {% assign n = 1 %}
 {% for post in paginator.posts offset:1 %}
     {% if n == 1 %}
