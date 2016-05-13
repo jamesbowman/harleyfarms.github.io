@@ -8,9 +8,6 @@ permalink: /news/rss/
 <channel>
     <title>Harley Farms - Farm News</title>
     <link>http://harleyfarms.github.io/news/</link>
-    <pubDate>{{ site.time | date_to_xmlschema }}</pubDate>
-    <lastBuildDate>{{ site.time | date_to_xmlschema }}</lastBuildDate>
-    <copyright>&copy; {{ site.time | date: "%Y" }} Harley Farms, Inc., All Rights Reserved</copyright>
 
     {% for post in site.posts %}
     <item>
