@@ -1,0 +1,25 @@
+---
+title: RSS Feed
+id: 17
+permalink: /news/rss/
+---
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+    <title>Harley Farms - Farm News</title>
+    <link>http://harleyfarms.github.io/news/rss/</link>
+    <link type="text" href="http://harleyfarms.github.io/news/" rel="alternate"/>
+    <pubDate>{{ site.time | date_to_xmlschema }}</pubDate>
+    <lastBuildDate>{{ site.time | date_to_xmlschema }}</lastBuildDate>
+    <copyright>&copy; {{ site.time | date: "%Y" }} Harley Farms, Inc., All Rights Reserved</copyright>
+
+    {% for post in site.posts %}
+    <item>
+        <title>{{ post.title }}</title>
+        <link href="http://harleyfarms.github.io/news{{ post.url }}"/>
+        <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
+        <description>{{ post.excerpt | xml_escape }}</description>
+    </item>
+    {% endfor %}
+</channel>
+</rss> 
