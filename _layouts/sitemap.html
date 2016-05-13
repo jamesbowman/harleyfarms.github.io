@@ -17,7 +17,7 @@ layout: default
                         {% endif %}
                     {% endfor %}
                         {% unless p.layout == "link" %}
-                            <strong><a href="{% if p.layout == "page" %}{{ p.permalink }}{% else %}{{ p.link }}{% endif %}">{{ p.title }}</a></strong><br />
+                            <strong><a href="{% if p.permalink != nil %}{{ p.permalink }}{% else %}{{ p.link }}{% endif %}">{{ p.title }}</a></strong><br />
                             {% assign list = list | push: p.id %}
                         {% endunless %}
 
@@ -30,12 +30,12 @@ layout: default
                         {% endfor %}
                         {% if forloop.first == true %}
                             {% unless p.layout == "link" %}
-                                <strong><a href="{% if p.layout == "page" %}{{ p.permalink }}{% else %}{{ p.link }}{% endif %}">{{ p.title }}</a></strong><br />
+                                <strong><a href="{% if p.permalink != nil %}{{ p.permalink }}{% else %}{{ p.link }}{% endif %}">{{ p.title }}</a></strong><br />
                                 {% assign list = list | push: p.id %}
                             {% endunless %}
                         {% else %}
                             {% unless p.layout == "link" %}
-                                <a href="{% if p.layout == "page" %}{{ p.permalink }}{% else %}{{ p.link }}{% endif %}">{{ p.title }}</a><br />
+                                <a href="{% if p.permalink != nil %}{{ p.permalink }}{% else %}{{ p.link }}{% endif %}">{{ p.title }}</a><br />
                                 {% assign list = list | push: p.id %}
                             {% endunless %}
                         {% endif %}
@@ -50,7 +50,7 @@ layout: default
                     {% endif %}
                 {% endfor %}
                 {% if printed == false and page.layout == "page" %}
-                    <strong><a href="{% if page.layout == "page" %}{{ page.permalink }}{% else %}{{ page.link }}{% endif %}">{{ page.title }}</a></strong><br />
+                    <strong><a href="{% if p.permalink != nil %}{{ page.permalink }}{% else %}{{ page.link }}{% endif %}">{{ page.title }}</a></strong><br />
                 {% endif %}
             {% endfor %}
         </div>
