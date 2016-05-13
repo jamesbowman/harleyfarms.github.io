@@ -12,7 +12,7 @@ permalink: /news/rss/
     {% for post in site.posts %}
     <item>
         <title>{{ post.title }}</title>
-        <link>http://harleyfarms.github.io/news{{ post.url }}</link>
+        <link>http://harleyfarms.github.io{{ post.url }}</link>
         <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
         <description>{{ post.excerpt | xml_escape }}</description>
     </item>
