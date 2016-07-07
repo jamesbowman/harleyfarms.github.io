@@ -23,7 +23,7 @@ and cheesemaking that goes on for the rest of the year. Every action
 has to be on time, and carried out with care and respect for animals
 and staff.
 
-![image](/img/news/117_sunset.JPG)
+![image](/img/news/117_sunset.JPG){: .center-image }
 
 This was Sunshine, who was born blind in one eye and could take only a
 few steps at a time. She got a lot of attention on the farm in her few

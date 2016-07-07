@@ -10,7 +10,7 @@ categories: news
 The bee men of Humble Bee Removal arrived on Saturday to relocate the
 hive of honey bees living in our barn.
 
-![image](/img/news/121_beehole.JPG)
+![image](/img/news/121_beehole.JPG){: .center-image }
 
 Wild bee colonies love older, lonelier buildings with holes, but these
 tenants had to be rehoused! Humble Bee Removal collected the bees from
@@ -20,15 +20,15 @@ that they don't simply come back to their familiar home. These bees
 were acclimatized to our coastal climate, though, so they'll be
 comfortable in a similar spot not too far away.
 
-![image](/img/news/121_beeman.JPG)
+![image](/img/news/121_beeman.JPG){: .center-image }
 
-![image](/img/news/121_beeman2.JPG)
+![image](/img/news/121_beeman2.JPG){: .center-image }
 
 The bee men
 
-![image](/img/news/121_barnhole2.JPG)
+![image](/img/news/121_barnhole2.JPG){: .center-image }
 
-![image](/img/news/121_honeycomb.JPG)
+![image](/img/news/121_honeycomb.JPG){: .center-image }
 
 Yum. But they weren't sharing.
 

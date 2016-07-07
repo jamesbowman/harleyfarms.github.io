@@ -7,7 +7,7 @@ header-img: "/img/news/heads/51_Picture%20148.jpg"
 author: Dee Harley
 categories: news
 ---
-![image](/img/news/51_Picture%20009.jpg)
+![image](/img/news/51_Picture%20009.jpg){: .center-image }
 
 On Friday night we put our clean shoes on and drove a truck full of
 cheese up to the city. The Cheese School of San Francisco has an
@@ -18,12 +18,12 @@ cow's milk.
 
 
 
-![image](/img/news/51_Picture%201071.jpg)
+![image](/img/news/51_Picture%201071.jpg){: .center-image }
 
 The room had a long table of cheeses, from unctuously complex to
 simply accessible, and thirty dollars bought you as much cheese and
 wine as you wanted for the evening. Not surprisingly, it was packed
 with beautiful people and a great success. See you at the next one!
 
-![image](/img/news/51_Picture%201581.jpg)
+![image](/img/news/51_Picture%201581.jpg){: .center-image }
 

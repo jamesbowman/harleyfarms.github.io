@@ -12,15 +12,15 @@ ultrasound all of our yearling &quot;child brides&quot;. Like many
 larger dairy farms, we track the pedigrees of our herd and make an
 estimate of how many babies we're expecting and when they'll arrive.
 
-![image](/img/news/89_tattoo.jpg)
+![image](/img/news/89_tattoo.jpg){: .center-image }
 
 Andrea and Annie check the tattoo ID on our yearling's ear
 
-![image](/img/news/89_andrea&annie.jpg)
+![image](/img/news/89_andrea&annie.jpg){: .center-image }
 
 Checking her pregnancy with ultrasound
 
-![image](/img/news/89_ultrasound.jpg)
+![image](/img/news/89_ultrasound.jpg){: .center-image }
 
 Just like a human baby ultrasound.
 

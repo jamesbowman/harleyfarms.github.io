@@ -12,29 +12,29 @@ measure? Dee wants me to check that new bridge in the secret garden.
 And if you change out of those sweats we could have dinner at Duarte's
 afterwards?
 
-![image](/img/news/138_plumpy1.JPG)
+![image](/img/news/138_plumpy1.JPG){: .center-image }
 
 Oh my gosh, who are all those people in the garden?
 
-![image](/img/news/138_plumpy2.JPG)
+![image](/img/news/138_plumpy2.JPG){: .center-image }
 
-![image](/img/news/138_plumpy12.JPG)
+![image](/img/news/138_plumpy12.JPG){: .center-image }
 
-![image](/img/news/138_plumpy8.JPG)
+![image](/img/news/138_plumpy8.JPG){: .center-image }
 
-![image](/img/news/138_plumpy7.JPG)
+![image](/img/news/138_plumpy7.JPG){: .center-image }
 
-![image](/img/news/138_plumpy11.JPG)
+![image](/img/news/138_plumpy11.JPG){: .center-image }
 
-![image](/img/news/138_plumpy13.JPG)
+![image](/img/news/138_plumpy13.JPG){: .center-image }
 
-![image](/img/news/138_plumpy4.JPG)
+![image](/img/news/138_plumpy4.JPG){: .center-image }
 
-![image](/img/news/138_plumpy5.JPG)
+![image](/img/news/138_plumpy5.JPG){: .center-image }
 
-![image](/img/news/138_plumpy9.JPG)
+![image](/img/news/138_plumpy9.JPG){: .center-image }
 
-![image](/img/news/138_plumpy6.JPG)
+![image](/img/news/138_plumpy6.JPG){: .center-image }
 
-![image](/img/news/138_plumpy10.JPG)
+![image](/img/news/138_plumpy10.JPG){: .center-image }
 

@@ -29,7 +29,7 @@ local food with friends. She's all elegance, with not a hint of garden
 under her fingernails, and you'll meet her at our Spring Dinner in
 May.
 
-![image](/img/news/22_lovage.jpg)
+![image](/img/news/22_lovage.jpg){: .center-image }
 
 Lovage. Delightful as a soup
 

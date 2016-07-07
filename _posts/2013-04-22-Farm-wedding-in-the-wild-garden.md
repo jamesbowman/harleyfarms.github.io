@@ -17,45 +17,45 @@ fuchsias. The wedding party sat down to dinner on benches painted in
 our farm paint, at a long table on a straw-strewn floor, and watched
 the moon rise on a perfect April evening.
 
-![image](/img/news/135_wildentrance.JPG)
+![image](/img/news/135_wildentrance.JPG){: .center-image }
 
 Welcome to our romantic wild garden. Listen to the birds and leave the
 world behind
 
-![image](/img/news/135_wildviolet.JPG)
+![image](/img/news/135_wildviolet.JPG){: .center-image }
 
 
 
-![image](/img/news/135_wildferns.JPG)
+![image](/img/news/135_wildferns.JPG){: .center-image }
 
 Violets and ferns in the grove under the trees, with fuchsias climbing
 into the trees
 
-![image](/img/news/135_wildlichen.JPG)
+![image](/img/news/135_wildlichen.JPG){: .center-image }
 
 and soft grey lichen hanging down
 
-![image](/img/news/135_wildbridge.JPG)
+![image](/img/news/135_wildbridge.JPG){: .center-image }
 
 The new bridge crosses the creek into the sunny enclosed garden
 
-![image](/img/news/135_wildfoxglove.JPG)
+![image](/img/news/135_wildfoxglove.JPG){: .center-image }
 
-![image](/img/news/135_wildfrancis.JPG)
+![image](/img/news/135_wildfrancis.JPG){: .center-image }
 
 There are clipped box hedges with a sanctuary
 
-![image](/img/news/135_wildwater.JPG)
+![image](/img/news/135_wildwater.JPG){: .center-image }
 
-![image](/img/news/135_wildplum.JPG)
+![image](/img/news/135_wildplum.JPG){: .center-image }
 
 Plums, apples and pears will be ripe in the autumn
 
-![image](/img/news/135_wildiris.JPG)
+![image](/img/news/135_wildiris.JPG){: .center-image }
 
-![image](/img/news/135_wedding2.JPG)
+![image](/img/news/135_wedding2.JPG){: .center-image }
 
-![image](/img/news/135_wedding1.JPG)
+![image](/img/news/135_wedding1.JPG){: .center-image }
 
 Congratulations and love to you both!
 

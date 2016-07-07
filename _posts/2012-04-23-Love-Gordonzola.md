@@ -18,7 +18,7 @@ lynching of SUVs in the car park (leave yours a couple of streets
 away) and the European egalitarianism of packing your own bags at
 check-out.
 
-![image](/img/news/118_cheese.JPG)
+![image](/img/news/118_cheese.JPG){: .center-image }
 
 I met Gordon face to face at one of the American Cheese Society
 competitions. In a distinguished cheese career, that began long before
@@ -28,7 +28,7 @@ on cheese and selling cheese. Plus I love it when we can't make it to
 a cheese show, but Gordon will be there and if we've won an award,
 he'll collect it for us and bring it to the farm with fanfare!
 
-![image](/img/news/118_cheese2.JPG)
+![image](/img/news/118_cheese2.JPG){: .center-image }
 
 I am both proud and humble to announce cheese classes with Gordon at
 Harley Farms. The first class, on farmstead cheeses, is on Monday May

@@ -11,22 +11,22 @@ We are painting the outside of our home, the farmhouse next to the
 dairy, with the white FarmPaint. It has the deliciously fattening look
 of clotted cream on the west side of the house.
 
-![image](/img/news/143_painty1.JPG)
+![image](/img/news/143_painty1.JPG){: .center-image }
 
-![image](/img/news/143_painty2.JPG)
+![image](/img/news/143_painty2.JPG){: .center-image }
 
 My eccentric and dressy friend Daniel is the man with the spray gun
 and an eye for detail. He's super-skinny and can make any item of
 clothing look good. I don't like to see my jeans looking better on
 somebody else though!
 
-![image](/img/news/143_painty3.JPG)
+![image](/img/news/143_painty3.JPG){: .center-image }
 
 We last painted the house a decade ago, but you can see a century of
 layers here. We're painting both over the old paint and over the new
 extension
 
-![image](/img/news/143_painty4.JPG)
+![image](/img/news/143_painty4.JPG){: .center-image }
 
 FarmPaint works beautifully in the spray gun
 

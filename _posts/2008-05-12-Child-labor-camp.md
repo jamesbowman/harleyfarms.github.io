@@ -33,5 +33,5 @@ petting time with the babies. I know, it sounds like a child labor
 camp! - but they're talented and reliable, and I don't even have to
 feed them.
 
-![image](/img/news/56_DSC_43061.JPG)
+![image](/img/news/56_DSC_43061.JPG){: .center-image }
 

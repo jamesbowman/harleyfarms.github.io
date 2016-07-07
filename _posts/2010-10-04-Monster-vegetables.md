@@ -20,7 +20,7 @@ seriously until this summer, when his bad back kept him  awake at
 nights. He spent those wakeful, moon-lit nights with our own
 vegetables, and they blossomed.
 
-![image](/img/news/79_duartegarden3.jpg)
+![image](/img/news/79_duartegarden3.jpg){: .center-image }
 
 The heritage. Pescadero's finest vegetable garden, with rhubarb in the
 foreground
@@ -46,5 +46,5 @@ and vegetable gardening,  and it's all about flavor for him. We leave
 the monster bragging to the  pumpkin growers! Check out our Farm
 Dinner dates, and come and taste our  farm vegetables next year.
 
-![image](/img/news/79_artichoke.jpg)
+![image](/img/news/79_artichoke.jpg){: .center-image }
 

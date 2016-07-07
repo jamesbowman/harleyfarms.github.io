@@ -18,9 +18,9 @@ Well, a luxury product deserves a luxurious home. We are naturally
 thrilled to now feature in the world-class Ritz-Carlton Spa, Half Moon
 Bay.
 
-![image](/img/news/174_spasign.jpg)
+![image](/img/news/174_spasign.jpg){: .center-image }
 
-![image](/img/news/174_spasoap.jpg)
+![image](/img/news/174_spasoap.jpg){: .center-image }
 
 Our best-selling goat milk soap is aged for a premium bar that keeps
 its shape and delicate aroma of lavender, rose geranium or lemon
@@ -28,17 +28,17 @@ verbena. We also make unscented soap and a masculine blend of citrus
 and spice. Try goat milk soap in the shower every day for noticably
 softer skin
 
-![image](/img/news/174_spa.jpg)
+![image](/img/news/174_spa.jpg){: .center-image }
 
 The Ritz-Carlton Spa, Half Moon Bay makes a blissful splurge if you
 need a spot of rejuenvenation
 
-![image](/img/news/174_spaproducts.jpg)
+![image](/img/news/174_spaproducts.jpg){: .center-image }
 
 Find our goat milk lotion, goat milk soaps, bath salts, massage oils
 and body scrubs in the spa. You can browse our entire collection here
 
-![image](/img/news/174_spaeiliswithsoap.jpg)
+![image](/img/news/174_spaeiliswithsoap.jpg){: .center-image }
 
 Eilís is our Bath and Body Collection mastermind. She is working on
 more products with deep citrus and spicy scent profiles, as well as a

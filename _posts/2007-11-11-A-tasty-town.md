@@ -33,5 +33,5 @@ It's always fun showing visitors around, and he has milked,
 pasteurized, and painted the barn with our new goat milk paint. He
 even likes the cheese!
 
-![image](/img/news/45_DSC_3209.JPG)
+![image](/img/news/45_DSC_3209.JPG){: .center-image }
 

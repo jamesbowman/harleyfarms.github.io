@@ -15,7 +15,7 @@ bought their land some generations ago from that initial rancho, and
 for first-generation farmers, many of whom rent from philanthropic
 landlords who wish to preserve that prime pasture.
 
-![image](/img/news/112_slowforbabyplants.JPG)
+![image](/img/news/112_slowforbabyplants.JPG){: .center-image }
 
 Through luck and boundless optimism, we extended our farm last year
 and will begin the challenge of resurrecting that new land and barn.
@@ -28,7 +28,7 @@ experiment with our new range of copper alloy tools. These tools are
 made by a small family company named PKS, in Austria, and they have an
 intriguing philosophy.
 
-![image](/img/news/112_spadeinsoil.JPG)
+![image](/img/news/112_spadeinsoil.JPG){: .center-image }
 
 The Austrian forester Viktor Schauberger, whose son founded PKS, was
 passionate about developing practical tools for working with the

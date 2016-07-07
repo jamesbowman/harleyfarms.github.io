@@ -14,11 +14,11 @@ Photo from Mary Collins
 
 
 
-![image](/img/news/81_bluerim2.jpg)
+![image](/img/news/81_bluerim2.jpg){: .center-image }
 
 
 
-![image](/img/news/81_bluerim3.jpg)
+![image](/img/news/81_bluerim3.jpg){: .center-image }
 
 
 
@@ -37,12 +37,12 @@ surprising pleasure of a hot pink wall in Mexico, a jolt of color
 applied to an everyday surface. They are extraordinary on their own,
 perfect planted with succulents. I can't wait for ours!
 
-![image](/img/news/81_purplerim.jpg)
+![image](/img/news/81_purplerim.jpg){: .center-image }
 
-![image](/img/news/81_marycollins(1).jpg)
+![image](/img/news/81_marycollins(1).jpg){: .center-image }
 
 Mary ships her work all over the United States. These blue and
 thistle-colored pots are for a private garden in Malibu
 
-![image](/img/news/81_bluebum.jpg)
+![image](/img/news/81_bluebum.jpg){: .center-image }
 

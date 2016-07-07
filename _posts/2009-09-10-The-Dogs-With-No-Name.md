@@ -12,7 +12,7 @@ suddenly, but peacefully, in the summer, and is buried underneath a
 lilac in the garden. We miss her ridiculous panting and happiness so
 much.
 
-![image](/img/news/13_lilac.jpg)
+![image](/img/news/13_lilac.jpg){: .center-image }
 
 For Foxi
 
@@ -32,7 +32,7 @@ Foxi's rescuer visits to walk the new black dogs a little way up the
 road, before they get tired and need to return for their naps in the
 shrubbery.
 
-![image](/img/news/13_dogwithnoname.jpg)
+![image](/img/news/13_dogwithnoname.jpg){: .center-image }
 
 Dog with No Name in the farm garden
 

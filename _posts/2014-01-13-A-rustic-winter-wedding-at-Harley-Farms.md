@@ -21,80 +21,80 @@ blossom and foliage here in Pescadero, to complement the naturally
 rustic surroundings. Here are our winter wedding flowers for this
 stunning couple.
 
-![image](/img/news/150_weddmaids.JPG)
+![image](/img/news/150_weddmaids.JPG){: .center-image }
 
-![image](/img/news/150_bridefriends.JPG)
+![image](/img/news/150_bridefriends.JPG){: .center-image }
 
 The flower diadems were specially commissioned for the wedding
 
-![image](/img/news/150_bridehair.JPG)
+![image](/img/news/150_bridehair.JPG){: .center-image }
 
-![image](/img/news/150_bouquet.JPG)
+![image](/img/news/150_bouquet.JPG){: .center-image }
 
 The bride's bouquet is the soft green of Corsican hellebores (lenten
 roses) with curly willow
 
-![image](/img/news/150_weddbutton.JPG)
+![image](/img/news/150_weddbutton.JPG){: .center-image }
 
 We pinned matching corsages and boutonnieres to the wedding guests
 around the bonfire, before the ceremony
 
-![image](/img/news/150_bonfire.JPG)
+![image](/img/news/150_bonfire.JPG){: .center-image }
 
-![image](/img/news/150_face3.JPG)
+![image](/img/news/150_face3.JPG){: .center-image }
 
 
 
-![image](/img/news/150_face4.JPG)
+![image](/img/news/150_face4.JPG){: .center-image }
 
-![image](/img/news/150_guest6.JPG)
+![image](/img/news/150_guest6.JPG){: .center-image }
 
-![image](/img/news/150_guest7.JPG)
+![image](/img/news/150_guest7.JPG){: .center-image }
 
-![image](/img/news/150_button2.JPG)
+![image](/img/news/150_button2.JPG){: .center-image }
 
-![image](/img/news/150_button5.JPG)
+![image](/img/news/150_button5.JPG){: .center-image }
 
-![image](/img/news/150_guest3.JPG)
+![image](/img/news/150_guest3.JPG){: .center-image }
 
-![image](/img/news/150_diadem.JPG)
+![image](/img/news/150_diadem.JPG){: .center-image }
 
-![image](/img/news/150_weddadriana.JPG)
+![image](/img/news/150_weddadriana.JPG){: .center-image }
 
 Farm office manager Adriana can marry you, if you would like a civil
 ceremony
 
-![image](/img/news/150_weddknife.JPG)
+![image](/img/news/150_weddknife.JPG){: .center-image }
 
 Adriana does not usually carry a knife at ceremonies. Only if the
 rings get trapped in the lining of your jacket!
 
-![image](/img/news/150_noring.jpg)
+![image](/img/news/150_noring.jpg){: .center-image }
 
-![image](/img/news/150_weddmusic.JPG)
+![image](/img/news/150_weddmusic.JPG){: .center-image }
 
 The musician was beautifully accessorized for a winter wedding in the
 woods
 
-![image](/img/news/150_weddface.JPG)
+![image](/img/news/150_weddface.JPG){: .center-image }
 
 
 
-![image](/img/news/150_weddgarden.JPG)
+![image](/img/news/150_weddgarden.JPG){: .center-image }
 
 After the wedding, guests gathered below the hayloft at the farm
 
-![image](/img/news/150_guestsfarm.JPG)
+![image](/img/news/150_guestsfarm.JPG){: .center-image }
 
-![image](/img/news/150_feet2.JPG)
+![image](/img/news/150_feet2.JPG){: .center-image }
 
 We think the bride made the right choice here
 
-![image](/img/news/150_nightcandles.jpg)
+![image](/img/news/150_nightcandles.jpg){: .center-image }
 
-![image](/img/news/150_weddfurchair.JPG)
+![image](/img/news/150_weddfurchair.JPG){: .center-image }
 
-![image](/img/news/150_weddkiss.JPG)
+![image](/img/news/150_weddkiss.JPG){: .center-image }
 
 Peace and love, health and happiness to you
 

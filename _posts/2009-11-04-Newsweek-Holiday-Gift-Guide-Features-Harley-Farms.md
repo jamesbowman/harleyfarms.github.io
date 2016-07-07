@@ -13,7 +13,7 @@ Check out our online store for Holiday Gifts that are perfect for
 friends and family, and forward our link to others that you think may
 be interested in our award-winning products.
 
-![image](/img/news/8_newsweek.jpg)
+![image](/img/news/8_newsweek.jpg){: .center-image }
 
 Newsweek Holiday Gift Guide
 

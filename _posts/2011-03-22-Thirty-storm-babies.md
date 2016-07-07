@@ -17,23 +17,23 @@ him about the loafing barn anxiously, abandoning their newborn in a
 corner. They resist hand-milking, and kick up a petulant fuss in the
 milking parlor. Next year, they will be placid know-it-alls.
 
-![image](/img/news/94_stormyskies.jpg)
+![image](/img/news/94_stormyskies.jpg){: .center-image }
 
 Only the llamas will browse the soggy pasture
 
-![image](/img/news/94_wetfarm.jpg)
+![image](/img/news/94_wetfarm.jpg){: .center-image }
 
-![image](/img/news/94_wetwashingplace2.jpg)
+![image](/img/news/94_wetwashingplace2.jpg){: .center-image }
 
-![image](/img/news/94_wetwashingplace.jpg)
+![image](/img/news/94_wetwashingplace.jpg){: .center-image }
 
 Bring your farm boots!
 
-![image](/img/news/94_goat&greengate.jpg)
+![image](/img/news/94_goat&greengate.jpg){: .center-image }
 
 She knows I'm not Ryan, who hand-reared her last spring
 
-![image](/img/news/94_babywithstraw.jpg)
+![image](/img/news/94_babywithstraw.jpg){: .center-image }
 
 The babies have plenty of warm straw and luxury housing
 

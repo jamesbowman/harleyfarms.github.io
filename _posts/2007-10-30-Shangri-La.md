@@ -19,7 +19,7 @@ you'll have to check out the bathrooms! It was the delightful Google
 chefs hosting us, for a DooF-a-Palooza http://www.foodbackwards.com/ 
 kids enjoying real food on a new PBS series.
 
-![image](/img/news/43_google3.JPG)
+![image](/img/news/43_google3.JPG){: .center-image }
 
 Katya (left) interviewing me for PBS
 

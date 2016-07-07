@@ -11,43 +11,43 @@ Chloe's wedding is today, September 1 2012. To one of the world's
 loveliest people, a lifetime of happiness, health and squeaky clean
 surfaces.
 
-![image](/img/news/127_engaged.JPG)
+![image](/img/news/127_engaged.JPG){: .center-image }
 
 Farm Timeline: Chloe Got Engaged. So there had to be a Surprise Shower
 
-![image](/img/news/127_chloe1.JPG)
+![image](/img/news/127_chloe1.JPG){: .center-image }
 
 Just a nice walk
 
-![image](/img/news/127_chloegroup2.JPG)
+![image](/img/news/127_chloegroup2.JPG){: .center-image }
 
-![image](/img/news/127_chloe2.JPG)
+![image](/img/news/127_chloe2.JPG){: .center-image }
 
-![image](/img/news/127_connie.JPG)
+![image](/img/news/127_connie.JPG){: .center-image }
 
-![image](/img/news/127_christina.JPG)
+![image](/img/news/127_christina.JPG){: .center-image }
 
-![image](/img/news/127_chloe3.JPG)
+![image](/img/news/127_chloe3.JPG){: .center-image }
 
-![image](/img/news/127_chloe4.JPG)
+![image](/img/news/127_chloe4.JPG){: .center-image }
 
-![image](/img/news/127_lesa.JPG)
+![image](/img/news/127_lesa.JPG){: .center-image }
 
-![image](/img/news/127_chloe&lesa.JPG)
+![image](/img/news/127_chloe&lesa.JPG){: .center-image }
 
-![image](/img/news/127_kassi.JPG)
+![image](/img/news/127_kassi.JPG){: .center-image }
 
-![image](/img/news/127_chloetable2.JPG)
+![image](/img/news/127_chloetable2.JPG){: .center-image }
 
 
 
-![image](/img/news/127_chloedee.JPG)
+![image](/img/news/127_chloedee.JPG){: .center-image }
 
-![image](/img/news/127_chloecake2.JPG)
+![image](/img/news/127_chloecake2.JPG){: .center-image }
 
-![image](/img/news/127_chloecake.JPG)
+![image](/img/news/127_chloecake.JPG){: .center-image }
 
-![image](/img/news/127_chloe6.JPG)
+![image](/img/news/127_chloe6.JPG){: .center-image }
 
 
 

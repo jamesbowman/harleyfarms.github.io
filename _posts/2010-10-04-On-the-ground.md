@@ -29,7 +29,7 @@ more community-based organizations we have, the stronger we are as a
 community. It has been a pleasure and a great strength for me to have
 been part of SCCS for many years.
 
-![image](/img/news/78_SCCSdinner.jpg)
+![image](/img/news/78_SCCSdinner.jpg){: .center-image }
 
 Local young people at the 2010 South Coast Children's Services
 Volunteer Appreciation Dinner

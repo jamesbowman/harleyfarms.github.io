@@ -12,14 +12,14 @@ Boosters this year. The farm dominates the committee: Sharina is
 Secretary and Kim Hussey, who leads farm tours, is Vice-President. The
 Boosters funds the high school sports teams
 
-![image](/img/news/18_snackshack1.jpg)
+![image](/img/news/18_snackshack1.jpg){: .center-image }
 
 Ryan, with high school student help, renovated and painted the Snack
 Shack. The students, though, must own it. Everybody will sign up for a
 maintenance task around school; everybody will bring a donation of $10
 three times a year
 
-![image](/img/news/18_chloesnackshack.jpg)
+![image](/img/news/18_chloesnackshack.jpg){: .center-image }
 
 The Vikings. Open for Business!
 

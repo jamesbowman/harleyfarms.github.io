@@ -15,7 +15,7 @@ mothers, pasteurize that milk, and teach the kids to feed themselves
 from buckets with teats. It’s tedious work, which we could avoid by
 leaving the kids with their mothers, at least for a few weeks.
 
-![image](/img/news/bottlefeed2.jpg)
+![image](/img/news/bottlefeed2.jpg){: .center-image }
 
 We are a farmstead dairy, in the business of making cheeses. We use
 the milk from the mothers to make this cheese. If we left kids with
@@ -26,7 +26,7 @@ If we left kids with mothers for a few days, or separated them at night
 in order to have some milk for cheese in the morning, moms and kids would
 bond. Their separation anxiety when we parted them would be heartrending.
 
-![image](/img/news/bottlefeed3.jpg)
+![image](/img/news/bottlefeed3.jpg){: .center-image }
 
 There is another reason why we separate mothers and babies at birth. In
 1974, at the University of Washington, researchers identified a
@@ -40,7 +40,7 @@ goats, it is transmitted through colostrum, milk or blood. Infected
 mothers are highly likely to transmit the virus to their kids through
 milk.
 
-![image](/img/news/bottlefeed4.jpg)
+![image](/img/news/bottlefeed4.jpg){: .center-image }
 
 About 20% of goats with the virus will show symptoms of infection. There
 are two sets of symptoms, encephalitis in kids and arthritis in

@@ -17,7 +17,7 @@ cheeses, moving away from plastic to a breathable, attractive and
 practical alternative, and I'll look at presentation in English and
 Italian cheeses.
 
-![image](/img/news/107_portmeirion-map-64881.png)
+![image](/img/news/107_portmeirion-map-64881.png){: .center-image }
 
 Portmeirion in north Wales
 
@@ -31,7 +31,7 @@ seen Portmeirion china, too: the green and floral botanical prints on
 white pottery, and other designs, were made by the village architect's
 daughter.
 
-![image](/img/news/107_barnsley-map-71887.png)
+![image](/img/news/107_barnsley-map-71887.png){: .center-image }
 
 Barnsley in Yorkshire
 
@@ -42,7 +42,7 @@ villages and towns have plenty of small businesses, though, and I
 enjoy the food shopping at small butchers and greengrocers, the
 leisurely tea-rooms and heavingly popular plant nurseries.
 
-![image](/img/news/107_images.jpg)
+![image](/img/news/107_images.jpg){: .center-image }
 
 Puglia in southern Italy
 

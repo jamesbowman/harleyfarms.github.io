@@ -67,5 +67,5 @@ goats!
 
 Congratulations Dee!
 
-![image](/img/news/61_DSCF3906.JPG)
+![image](/img/news/61_DSCF3906.JPG){: .center-image }
 

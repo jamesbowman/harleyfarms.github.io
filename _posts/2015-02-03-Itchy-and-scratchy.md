@@ -17,7 +17,7 @@ and anxiety may all affect your skin. When my face got blotchy and
 red, it was hard not to get worked up about my appearance, probably
 making the situation worse.
 
-![image](/img/news/164_eilis.JPG)
+![image](/img/news/164_eilis.JPG){: .center-image }
 
 I was interested in goats before my first six pets arrived on the farm
 because I couldn't drink cow milk without upset. Goat milk made a huge
@@ -27,7 +27,7 @@ inflamed, it's crucial to keep it clean and moisturized, but regular
 soaps were not doing me any favors. Goat milk is packed with
 ingredients that make a difference to your skin - and to my ezcema.
 
-![image](/img/news/164_milk.JPG)
+![image](/img/news/164_milk.JPG){: .center-image }
 
 We began making small batches of goat milk soaps and lotions on the
 farm a decade ago. Goat milk is pretty much all-powerful, since it
@@ -37,14 +37,14 @@ acid in goat milk destroys the bonds between dead skin cells, removing
 some of the irritation. Lactic acid is a major ingredient in chemical
 facial peels for this reason.
 
-![image](/img/news/164_pouring.JPG)
+![image](/img/news/164_pouring.JPG){: .center-image }
 
 Goat milk is packed with vitamins, including vitamin A, which affects
 skin elasticity and tone. The butter fats are a supreme natural
 moisturizer. And goat milk minerals include selenium, which is
 believed to protect your skin from overexposure to sun.
 
-![image](/img/news/164_saucepan.JPG)
+![image](/img/news/164_saucepan.JPG){: .center-image }
 
 I was lucky to have a right-hand woman in the shape of Eilís Burke,
 who makes our bath and body line. She trained as a nurse and rocks a
@@ -54,18 +54,18 @@ back. It's Eilís who develops our luxurious choices of aged bar soap,
 liquid soap, face, eye, and body lotions, face cleanser and toner,
 bath oils, bath salts, and more.
 
-![image](/img/news/164_saucepan2.JPG)
+![image](/img/news/164_saucepan2.JPG){: .center-image }
 
-![image](/img/news/164_whisk.JPG)
+![image](/img/news/164_whisk.JPG){: .center-image }
 
-![image](/img/news/164_bottles.JPG)
+![image](/img/news/164_bottles.JPG){: .center-image }
 
-![image](/img/news/164_lotion.jpg)
+![image](/img/news/164_lotion.jpg){: .center-image }
 
 We sell our full range of bath and body soaps and lotions in the farm
 shop and online
 
-![image](/img/news/164_dog.JPG)
+![image](/img/news/164_dog.JPG){: .center-image }
 
 One of Eilís's dogs
 

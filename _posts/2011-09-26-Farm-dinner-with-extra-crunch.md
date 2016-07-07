@@ -15,7 +15,7 @@ population down very efficiently. He has keen eyesight, probably
 because he never strained it indoors in Berkeley. He prowls the top of
 the fences and leaps from the sky like a raptor.
 
-![image](/img/news/105_oscar.JPG)
+![image](/img/news/105_oscar.JPG){: .center-image }
 
 Oscar excelled himself one summer farm dinner. As we served goat
 cheese ravioli to twenty-two lovely guests seated upstairs in our
@@ -27,11 +27,11 @@ Horrifyingly, Oscar returned at dessert with another mouse, but we
 don't think anybody noticed? I promise you that all staff are on full
 cat alert at dinner time now.
 
-![image](/img/news/105_oscar2.JPG)
+![image](/img/news/105_oscar2.JPG){: .center-image }
 
 Sleepy after preparing those extra farm dinners
 
-![image](/img/news/105_caramel.JPG)
+![image](/img/news/105_caramel.JPG){: .center-image }
 
 Caramel the boss cat. Jealous of Oscar's success
 

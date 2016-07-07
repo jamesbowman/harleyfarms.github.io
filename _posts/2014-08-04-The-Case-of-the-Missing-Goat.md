@@ -18,7 +18,7 @@ welcomed our visitor with his usual courtesy. &quot;Do you not find,
 Miss Harley, the city in August a welcome respite from farm
 life?&quot;
 
-![image](/img/news/157_missinggoat2.JPG)
+![image](/img/news/157_missinggoat2.JPG){: .center-image }
 
 &quot;Indeed, Mr Holmes, I cannot agree with you,&quot; our visitor
 began, before breaking off with a startled frown. &quot;How can you
@@ -26,7 +26,7 @@ know this about me?&quot; &quot;It is my business to know these
 things,&quot; Holmes chuckled. &quot;Perhaps I notice more than
 most.&quot;
 
-![image](/img/news/157_goatgirl3.JPG)
+![image](/img/news/157_goatgirl3.JPG){: .center-image }
 
 this isn't the missing goat
 
@@ -36,21 +36,21 @@ the motive. Such cases are of little interest. In your case, Miss
 Harley, I suspect deep waters. Watson, kindly examine the bus
 timetable. I believe there is a SamTrans 6.05pm to Pescadero.&quot;
 
-![image](/img/news/157_goatgirl2.JPG)
+![image](/img/news/157_goatgirl2.JPG){: .center-image }
 
 this isn't the missing goat either
 
-![image](/img/news/157_goatgirlgoat.JPG)
+![image](/img/news/157_goatgirlgoat.JPG){: .center-image }
 
 a closer look reveals this goat is not pointing east
 
-![image](/img/news/157_goatgirlgoat2.JPG)
+![image](/img/news/157_goatgirlgoat2.JPG){: .center-image }
 
 a clue. Who and where is this goat?
 
-![image](/img/news/157_goatpainted.JPG)
+![image](/img/news/157_goatpainted.JPG){: .center-image }
 
-![image](/img/news/157_paintedgoat2.JPG)
+![image](/img/news/157_paintedgoat2.JPG){: .center-image }
 
 and what's happened to this goat?
 

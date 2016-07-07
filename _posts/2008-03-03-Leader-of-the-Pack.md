@@ -31,7 +31,7 @@ perfect farmhouse. Including more framed photographs of Lisa.
 
 
 
-![image](/img/news/49_chicken1584a.jpg)
+![image](/img/news/49_chicken1584a.jpg){: .center-image }
 
-![image](/img/news/49_chicken1581a.jpg)
+![image](/img/news/49_chicken1581a.jpg){: .center-image }
 

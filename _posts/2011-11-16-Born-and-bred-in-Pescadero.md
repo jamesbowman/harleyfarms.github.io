@@ -15,25 +15,25 @@ small groups on our annex before being set loose on their first grass
 paddock. Now, at 90lb or more each, they are sturdy goats ready to
 meet boyfriend Holstein.
 
-![image](/img/news/109_redherd1.JPG)
+![image](/img/news/109_redherd1.JPG){: .center-image }
 
 First time crossing the road, so they romp about instead of following
 Dolly Llama
 
-![image](/img/news/109_redherd2.JPG)
+![image](/img/news/109_redherd2.JPG){: .center-image }
 
 Poised on the brink of the road
 
-![image](/img/news/109_redherd3.JPG)
+![image](/img/news/109_redherd3.JPG){: .center-image }
 
 What's the plan?! Let's hold up the school bus, the beer truck, and a
 bunch of local vehicles
 
-![image](/img/news/109_redherd4.JPG)
+![image](/img/news/109_redherd4.JPG){: .center-image }
 
 Running home
 
-![image](/img/news/109_redherd5.JPG)
+![image](/img/news/109_redherd5.JPG){: .center-image }
 
 The one that tried to get away
 

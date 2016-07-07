@@ -17,33 +17,33 @@ collection, perfectly on trend and miles from chain store anonymity.
 It is such a pleasure and honor to be part of a community of local
 independent businesses like Saviz's.
 
-![image](/img/news/77_kayla.jpg)
+![image](/img/news/77_kayla.jpg){: .center-image }
 
-![image](/img/news/77_model2.jpg)
+![image](/img/news/77_model2.jpg){: .center-image }
 
 Everybody looked lovely
 
-![image](/img/news/77_doingmakeup.jpg)
+![image](/img/news/77_doingmakeup.jpg){: .center-image }
 
-![image](/img/news/77_eiliseyes.jpg)
+![image](/img/news/77_eiliseyes.jpg){: .center-image }
 
 The make-up and hair artists were incredible
 
 
 
-![image](/img/news/77_leesa.jpg)
+![image](/img/news/77_leesa.jpg){: .center-image }
 
 Clothes were gorgeous
 
-![image](/img/news/77_deephoto.jpg)
+![image](/img/news/77_deephoto.jpg){: .center-image }
 
 (Thanks to Karolynne Meyer for capturing this moment)
 
-![image](/img/news/77_eilisprofile.jpg)
+![image](/img/news/77_eilisprofile.jpg){: .center-image }
 
 We had an amazing night, with feathery surprises
 
-![image](/img/news/77_savizshoes.jpg)
+![image](/img/news/77_savizshoes.jpg){: .center-image }
 
 
 

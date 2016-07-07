@@ -25,7 +25,7 @@ should constantly be bringing cheeses to our dairy to taste and talk
 about. Mexico has a strong cottage industry of fresh cheese (queso
 fresco), but there are so many different cheeses here in the Bay Area.
 
-![image](/img/news/69_cheesechives.JPG)
+![image](/img/news/69_cheesechives.JPG){: .center-image }
 
 These two days with our staff made me vow to get a microscope and pH
 testing kit for our dairy, to incorporate into our routine and tours.

@@ -18,7 +18,7 @@ too! And we have missed Annie, our hardworking farmers' market
 saleswoman with gorgeous face and high-speed knitting, because she's
 been away in England for some weeks now.
 
-![image](/img/news/10_staff2.jpg)
+![image](/img/news/10_staff2.jpg){: .center-image }
 
 Annie on the left. Lesa, shop manager, second from right. Lesa
 “lost” my farm dinner salespitch under the floorboards, and had to

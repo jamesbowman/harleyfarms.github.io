@@ -12,15 +12,15 @@ Elementary. It was bright and a little cold, the babies were
 sunbathing against the barn, the mothers were out on the pasture, and
 the tour went as usual, until we came to the loafing barn.
 
-![image](/img/news/23_goatkids.jpg)
+![image](/img/news/23_goatkids.jpg){: .center-image }
 
 Woodside Elementary at Harley Farms
 
-![image](/img/news/23_girlgoat.jpg)
+![image](/img/news/23_girlgoat.jpg){: .center-image }
 
 An idyllic April morning
 
-![image](/img/news/23_nest1a.jpg)
+![image](/img/news/23_nest1a.jpg){: .center-image }
 
 The most complete nest we've found on the farm
 
@@ -38,7 +38,7 @@ Hopefully, some of the eggs will hatch in the warmth of the afternoon
 sun. One of the children thought he saw some movement, so fingers
 crossed for baby goats today!!
 
-![image](/img/news/23_eggs2.jpg)
+![image](/img/news/23_eggs2.jpg){: .center-image }
 
 You can see the tiny horns on the egg to the right
 

@@ -9,7 +9,7 @@ categories: news
 ---
 who swallowed a fly
 
-![image](/img/news/125_bats.JPG)
+![image](/img/news/125_bats.JPG){: .center-image }
 
 If you know this old lady, kindly mention that we have some flies for
 her. We have over two hundred goats, all of whom defecate. House flies
@@ -26,5 +26,5 @@ tenants moving onto the farm. Starting at dusk, bats will eat hundreds
 of flying insects every night, including mosquitoes and flies. It only
 remains to find the old lady, and we won't let her swallow the horses.
 
-![image](/img/news/125_batbox2.JPG)
+![image](/img/news/125_batbox2.JPG){: .center-image }
 

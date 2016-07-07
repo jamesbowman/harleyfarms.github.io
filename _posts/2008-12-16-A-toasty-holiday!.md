@@ -12,7 +12,7 @@ amazing staff and friends enough, and wish them all a toasty holiday
 season. We're leaving tomorrow for an icy Yorkshire Christmas, and I
 can't wait! Happy New Year!
 
-![image](/img/news/68_ryan1.jpg)
+![image](/img/news/68_ryan1.jpg){: .center-image }
 
 Farm manager Ryan, a man who can look cool anywhere, and especially on
 a barn roof. Congratulations to him and his fiancee; sorry ladies.

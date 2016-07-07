@@ -15,7 +15,7 @@ practical and decorative, with clogs for women and children and
 Shetland wool hats already available for you to try. But first, please
 consider Andrew and Griff's loss.
 
-![image](/img/news/99_piglet.jpg)
+![image](/img/news/99_piglet.jpg){: .center-image }
 
 Andrew and Griff's Piglet, adopted 17 years ago from a London pound,
 died peacefully last month
@@ -28,12 +28,12 @@ squashed on the local railway, but very happily she reappeared in the
 morning on the milkman's truck, having been spotted trotting along the
 lanes. She lived another few months of her very long life.
 
-![image](/img/news/99_llamacrossesroad.JPG)
+![image](/img/news/99_llamacrossesroad.JPG){: .center-image }
 
 You may be a fashion buyer, but we will still make you work on the
 farm. Griff wrangles a frisky llama
 
-![image](/img/news/99_cap3.jpg)
+![image](/img/news/99_cap3.jpg){: .center-image }
 
 Andrew directs a photo shoot of our Made In Britain wool caps
 

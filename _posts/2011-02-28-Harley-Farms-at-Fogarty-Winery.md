@@ -14,29 +14,29 @@ three traveling baby goats. The event will support the La Honda-
 Pescadero School District, where our son and almost all our younger
 staff are students or alumni.
 
-![image](/img/news/93_fogartyview2.jpg)
+![image](/img/news/93_fogartyview2.jpg){: .center-image }
 
 Thank you to Fogarty Winery and Vineyards for the romantic mountaintop
 location
 
-![image](/img/news/93_winebottle.jpg)
+![image](/img/news/93_winebottle.jpg){: .center-image }
 
 to the cooks, the local businesses who donated food, the Gary Gates
 Band, and the washers-up..
 
-![image](/img/news/93_partypouring.jpg)
+![image](/img/news/93_partypouring.jpg){: .center-image }
 
 to the local wineries..
 
-![image](/img/news/93_partygoers.jpg)
+![image](/img/news/93_partygoers.jpg){: .center-image }
 
-![image](/img/news/93_partygoers4.jpg)
+![image](/img/news/93_partygoers4.jpg){: .center-image }
 
 and to everybody who came - we hope you had a tasty afternoon!
 
-![image](/img/news/93_partyflowers.jpg)
+![image](/img/news/93_partyflowers.jpg){: .center-image }
 
-![image](/img/news/93_party&goat.jpg)
+![image](/img/news/93_party&goat.jpg){: .center-image }
 
-![image](/img/news/93_partythanks.jpg)
+![image](/img/news/93_partythanks.jpg){: .center-image }
 

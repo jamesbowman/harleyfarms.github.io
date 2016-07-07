@@ -18,18 +18,18 @@ In winter, the food value of the pasture is low, so we compensate for
 that in this pellet food. After the babies are born, the formula
 changes to reflect the mothers' nutritional needs.
 
-![image](/img/news/111_graintruck1.JPG)
+![image](/img/news/111_graintruck1.JPG){: .center-image }
 
-![image](/img/news/111_graintruck2.JPG)
+![image](/img/news/111_graintruck2.JPG){: .center-image }
 
-![image](/img/news/111_graintruck3.JPG)
+![image](/img/news/111_graintruck3.JPG){: .center-image }
 
 The grain truck auger is a perfect fit for the top  of the silo, which
 must remain water-tight because mold makes goats  extremely ill.
 
-![image](/img/news/111_graintruck4.JPG)
+![image](/img/news/111_graintruck4.JPG){: .center-image }
 
-![image](/img/news/111_graintruck5.JPG)
+![image](/img/news/111_graintruck5.JPG){: .center-image }
 
 Our pellet food formulas are exact, and balanced with the pasture
 grasses, so that the flavor of the milk does not change. We may sell

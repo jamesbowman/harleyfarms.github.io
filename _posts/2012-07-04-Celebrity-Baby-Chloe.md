@@ -11,28 +11,28 @@ Everybody thought her mum was just a wee bit plump. Baby Chloe was a
 surprise arrival last weekend, three weeks after the official end of
 baby season, just as Chloe led her tour into the loafing barn.
 
-![image](/img/news/123_liambabychloe2.JPG)
+![image](/img/news/123_liambabychloe2.JPG){: .center-image }
 
 Baby Chloe timed her arrival to perfection. Yesterday Liam Mayclem of
 CBS and his crew were in town to film a news item on Pescadero. Chloe
 was the prettiest, tiniest baby on the farm, and leapt into Liam's
 arms for five seconds of fame.
 
-![image](/img/news/123_liambabychloe.JPG)
+![image](/img/news/123_liambabychloe.JPG){: .center-image }
 
-![image](/img/news/123_liaminterview2.JPG)
+![image](/img/news/123_liaminterview2.JPG){: .center-image }
 
-![image](/img/news/123_liam.JPG)
+![image](/img/news/123_liam.JPG){: .center-image }
 
-![image](/img/news/123_liaminterview3.JPG)
+![image](/img/news/123_liaminterview3.JPG){: .center-image }
 
-![image](/img/news/123_liaminterview4.JPG)
+![image](/img/news/123_liaminterview4.JPG){: .center-image }
 
-![image](/img/news/123_liaminterview6.JPG)
+![image](/img/news/123_liaminterview6.JPG){: .center-image }
 
-![image](/img/news/123_liaminterview5.JPG)
+![image](/img/news/123_liaminterview5.JPG){: .center-image }
 
-![image](/img/news/123_liaminterview.JPG)
+![image](/img/news/123_liaminterview.JPG){: .center-image }
 
 This is me thinking up the answers to Liam's Tasty Questions. So, in
 the next life I'd come back as a ... goat farmer. The soundtrack of my

@@ -27,7 +27,7 @@ people!
 
 Visit Bob & Kristin's Valley Cheese & Wine Shop Online
 
-![image](/img/news/11_wedding.jpg)
+![image](/img/news/11_wedding.jpg){: .center-image }
 
 I do the matchmaking, and Elvis does the marrying.
 

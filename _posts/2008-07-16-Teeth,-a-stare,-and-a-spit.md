@@ -23,7 +23,7 @@ February, but the llamas immediately herded the goats behind them, and
 stood three in a line between the dog and the goats. They spit and
 kick viciously in defense of their herd and territory.
 
-![image](/img/news/60_nastyllama.JPG)
+![image](/img/news/60_nastyllama.JPG){: .center-image }
 
 Bad cop
 

@@ -13,7 +13,7 @@ to give birth in only three more weeks. We give them special treatment
 delicious, fortified grain for them to try and squeeze into their
 distended tummies.
 
-![image](/img/news/88_fatgoat.jpg)
+![image](/img/news/88_fatgoat.jpg){: .center-image }
 
 She's expecting twins, at least
 
@@ -22,9 +22,9 @@ birds who anticipate the fresh buckets of feed in the troughs, swoop
 down to feed themselves, and spoil the grain for the goats, who won't
 eat birdshit, pregnant or not.
 
-![image](/img/news/88_goattrough.jpg)
+![image](/img/news/88_goattrough.jpg){: .center-image }
 
-![image](/img/news/88_emptytrough.jpg)
+![image](/img/news/88_emptytrough.jpg){: .center-image }
 
 I could eat a little more if the birds had left any
 
@@ -35,7 +35,7 @@ a space for goats to nibble, but goats like to see where they're going
 and what they're doing, and are naturally reluctant to feed with
 reduced vision.
 
-![image](/img/news/88_troughlid.jpg)
+![image](/img/news/88_troughlid.jpg){: .center-image }
 
 The trough cover, effective against birds but upsetting for goats
 

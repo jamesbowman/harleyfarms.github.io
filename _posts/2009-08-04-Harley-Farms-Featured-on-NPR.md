@@ -14,7 +14,7 @@ northern California coast despite the recent tough times for many
 California farmers with regard to falling milk prices as well as
 depressed prices for cattle and almonds.
 
-![image](/img/news/6_cal.jpg)
+![image](/img/news/6_cal.jpg){: .center-image }
 
 Please take a listen to the story below or listen on the California
 Report web site.

@@ -15,7 +15,7 @@ rhythm of life and death and rebirth. Every birthing season brings the
 thrill of new life, and it’s still a thrill, even though it is an
 exhausting two months of work.
 
-![image](/img/news/favorites2.jpg)
+![image](/img/news/favorites2.jpg){: .center-image }
 
 It might not sound evident, but babies with special needs lighten our
 workload in spring. Just concentrating on their care takes the cloud of
@@ -25,7 +25,7 @@ and fed her twin and the morning’s other births. When I returned to
 her body, I saw a limb twitch. I picked her up, to find that her neck
 was dislocated. But she was alive!
 
-![image](/img/news/favorites3.jpg)
+![image](/img/news/favorites3.jpg){: .center-image }
 
 We are so fortunate in Pescadero to have a tightly knit community. My
 neighbor Pattie took over. Pattie took the baby to a veterinarian and

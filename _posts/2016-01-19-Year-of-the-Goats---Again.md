@@ -16,7 +16,7 @@ to come. Adriana's Farm Baby will have a sister. And two hundred kids
 arrive in spring as ever. So, for us, it's another Year of the Goats -
 and Llamas.
 
-![image](/img/news/185_llama.jpg)
+![image](/img/news/185_llama.jpg){: .center-image }
 
 It's quite miserable outside, but that's a good thing. We need to take
 the time to cocoon, since there's only a month until kidding season
@@ -25,37 +25,37 @@ is a deep green, thanks to the rain. Satisfyingly, the fertilizer and
 organic manure spread in November will be going to work, making the
 spring grass even more nutritious.
 
-![image](/img/news/185_fertilizer2.jpg)
+![image](/img/news/185_fertilizer2.jpg){: .center-image }
 
-![image](/img/news/185_browsing.jpg)
+![image](/img/news/185_browsing.jpg){: .center-image }
 
 Romantically, we've held two January weddings, both on days of winter
 sunshine, with a bonfire and sheepskin and felted throws in the upper
 barn.
 
-![image](/img/news/185_chapel2.jpg)
+![image](/img/news/185_chapel2.jpg){: .center-image }
 
-![image](/img/news/185_chapeldetail.jpg)
+![image](/img/news/185_chapeldetail.jpg){: .center-image }
 
-![image](/img/news/185_roomdetail.jpg)
+![image](/img/news/185_roomdetail.jpg){: .center-image }
 
-![image](/img/news/185_table.jpg)
+![image](/img/news/185_table.jpg){: .center-image }
 
-![image](/img/news/185_chairdetail.jpg)
+![image](/img/news/185_chairdetail.jpg){: .center-image }
 
-![image](/img/news/185_tabledetail.jpg)
+![image](/img/news/185_tabledetail.jpg){: .center-image }
 
-![image](/img/news/185_stirring.jpg)
+![image](/img/news/185_stirring.jpg){: .center-image }
 
-![image](/img/news/185_catinstraw.jpg)
+![image](/img/news/185_catinstraw.jpg){: .center-image }
 
 Sweet-smelling straw, felted throws and wedding music in her barn
 
-![image](/img/news/185_rosie.jpg)
+![image](/img/news/185_rosie.jpg){: .center-image }
 
 Rosie the farm dog checks out the lucky couple
 
-![image](/img/news/185_couple.jpg)
+![image](/img/news/185_couple.jpg){: .center-image }
 
 
 

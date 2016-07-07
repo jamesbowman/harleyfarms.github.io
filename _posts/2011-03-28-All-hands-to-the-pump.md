@@ -15,13 +15,13 @@ power lines, strung haphazardly through the town's older trees and
 muddy hillsides, collapsed somewhere on Thursday night, leaving us
 with a couple of hundred goats to milk by hand on Friday morning.
 
-![image](/img/news/95_milkingbyhand.jpg)
+![image](/img/news/95_milkingbyhand.jpg){: .center-image }
 
-![image](/img/news/95_milkingpot.jpg)
+![image](/img/news/95_milkingpot.jpg){: .center-image }
 
-![image](/img/news/95_milkpotemptying.jpg)
+![image](/img/news/95_milkpotemptying.jpg){: .center-image }
 
-![image](/img/news/95_milkpotempying2.jpg)
+![image](/img/news/95_milkpotempying2.jpg){: .center-image }
 
 Pilar arrived at 6.30am as usual but couldn't see a thing in the dark.
 Ryan began milking at daybreak. We called Rachel in on her day off.
@@ -29,5 +29,5 @@ Chloe called in favors at the taqueria. Teri, the farm artist,
 visiting from Oregon, got out of bed and into the parlor. The power
 came back on at 9am but the rain persisted.
 
-![image](/img/news/95_milkingtubes.jpg)
+![image](/img/news/95_milkingtubes.jpg){: .center-image }
 

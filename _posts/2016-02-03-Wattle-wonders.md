@@ -18,7 +18,7 @@ to have kids with wattles. They are usually on the neck, but can show
 up elsewhere, such as up by a goat's ears, and are the same size in
 males and females.
 
-![image](/img/news/186_wattles.jpg)
+![image](/img/news/186_wattles.jpg){: .center-image }
 
 What are they for? Delightfully, there's no good answer. They may have
 an association with tonsils, the lymphoid tissue that is a first line

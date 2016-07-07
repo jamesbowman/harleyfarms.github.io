@@ -16,7 +16,7 @@ of Elvis and Mick, our other males. The ladies were avoiding Sugarcane
 earlier this morning, because he's new, and frankly quite pungent, but
 tolerating him by lunchtime.
 
-![image](/img/news/17_sugarcanegirl.jpg)
+![image](/img/news/17_sugarcanegirl.jpg){: .center-image }
 
 Romance, or just a ripe smell
 
@@ -38,7 +38,7 @@ Bucks are most enthusiastic until about five years old, when they
 become less energetic. Older males are perfect for 4H breeding, or
 smaller herds.
 
-![image](/img/news/17_goldengoat1.jpg)
+![image](/img/news/17_goldengoat1.jpg){: .center-image }
 
 See Sugarcane's babies in April!
 

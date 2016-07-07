@@ -23,23 +23,23 @@ leaves in the sun. We have cut back some of the canopy and weeded the
 borders, and this autumn we will add cuttings and new plants. It will
 be the most exquisite secret garden.
 
-![image](/img/news/124_beanfield.JPG)
+![image](/img/news/124_beanfield.JPG){: .center-image }
 
 Through the bean fields to the secret garden
 
-![image](/img/news/124_gardenwalk.JPG)
+![image](/img/news/124_gardenwalk.JPG){: .center-image }
 
-![image](/img/news/124_peartree.JPG)
+![image](/img/news/124_peartree.JPG){: .center-image }
 
-![image](/img/news/124_daylilies.JPG)
+![image](/img/news/124_daylilies.JPG){: .center-image }
 
-![image](/img/news/124_geranium.JPG)
+![image](/img/news/124_geranium.JPG){: .center-image }
 
-![image](/img/news/124_daisy.JPG)
+![image](/img/news/124_daisy.JPG){: .center-image }
 
-![image](/img/news/124_plumtree.JPG)
+![image](/img/news/124_plumtree.JPG){: .center-image }
 
-![image](/img/news/124_gardenwalk2.JPG)
+![image](/img/news/124_gardenwalk2.JPG){: .center-image }
 
 
 

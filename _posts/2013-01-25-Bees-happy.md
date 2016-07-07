@@ -13,11 +13,11 @@ news. Most of the bees were healthy and active. Gary and Teri will be
 back every two to three weeks now to check that each hive still has
 its queen and usual brood, and keep an eye on mites.
 
-![image](/img/news/130_beekeeping2.JPG)
+![image](/img/news/130_beekeeping2.JPG){: .center-image }
 
-![image](/img/news/130_beekeeping1.JPG)
+![image](/img/news/130_beekeeping1.JPG){: .center-image }
 
-![image](/img/news/130_beekeeping3.JPG)
+![image](/img/news/130_beekeeping3.JPG){: .center-image }
 
 The creamy-white patch above is a preparation of essential oils added
 to curb the exponential spread of the Varroa destructor mite. Gary's
@@ -36,7 +36,7 @@ hive, where nurse worker bees will clean up the dead and detritus and
 the cycle can begin again. A lot of work - and it certainly isn't
 their day job!
 
-![image](/img/news/130_bees.JPG)
+![image](/img/news/130_bees.JPG){: .center-image }
 
 The farm honey bees - enjoy our honey later on this year
 

@@ -16,7 +16,7 @@ paint. The new doors, back and front, went on this week. They match the
 spanking new white washable walls, the new overhead lighting, the new
 drains - and the new boiler.
 
-![image](/img/news/doors2.jpg)
+![image](/img/news/doors2.jpg){: .center-image }
 
 The boiler was a surprise upgrade. And a lucky, just-in-time one. Back in
 March, we were spring-cleaning. On a Wednesday evening, our gas plumber,

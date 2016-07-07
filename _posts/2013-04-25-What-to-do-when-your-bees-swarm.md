@@ -14,7 +14,7 @@ hive. The cluster is the departed group, hanging together, usually in
 a tree, waiting for the scout bees to lead them to a suitable new
 home. This is the best time to collect and rehouse the swarm.
 
-![image](/img/news/137_beecluster.JPG)
+![image](/img/news/137_beecluster.JPG){: .center-image }
 
 Bee clusters in one of our old apple trees, waiting for their scouts
 to find a new home. Thankfully apple trees are easy to climb. Tell

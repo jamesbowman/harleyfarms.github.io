@@ -15,12 +15,12 @@ animals on their San Jose property, and plans a career in agribusiness
 involvement! She's supplementing her CalPoly student income with these
 gorgeous full-of-personality woolly llamas, for sale in our farm shop.
 
-![image](/img/news/145_woolllamas.JPG)
+![image](/img/news/145_woolllamas.JPG){: .center-image }
 
 Sarah's llamas are Scottish Blackface sheep and mohair goat wool - the
 mohair gives the gorgeous curly bodies
 
-![image](/img/news/145_woolllamas2.JPG)
+![image](/img/news/145_woolllamas2.JPG){: .center-image }
 
 Llama &quot;wool&quot; is actually fibers rather than wool - hollow,
 with no lanolin. The outer coat fibers, or guard hair, are stiff and

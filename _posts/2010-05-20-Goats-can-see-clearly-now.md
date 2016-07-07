@@ -16,7 +16,7 @@ would have to be encouraged into the parlor by a second person each
 time. So, we have curved the ramp into the parlor so that the goats
 can see where they're going.
 
-![image](/img/news/75_goatramp.jpg)
+![image](/img/news/75_goatramp.jpg){: .center-image }
 
 A clear path into the milking parlor
 
@@ -27,14 +27,14 @@ of friends each time, and the same ones to dash through first or dally
 behind. They have the time to finish their food in the parlor, so that
 we can be sure each goat gets 3lb of grain a day.
 
-![image](/img/news/75_goatsenter2.jpg)
+![image](/img/news/75_goatsenter2.jpg){: .center-image }
 
 If this person with a camera would move, we would be happy to come
 into the parlor
 
-![image](/img/news/75_goatsmilking.jpg)
+![image](/img/news/75_goatsmilking.jpg){: .center-image }
 
-![image](/img/news/75_goatmilkpipe.jpg)
+![image](/img/news/75_goatmilkpipe.jpg){: .center-image }
 
 The goat on her way to the loafing barn, the milk on its way to the
 dairy

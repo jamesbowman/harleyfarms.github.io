@@ -16,15 +16,15 @@ at the farm.
 
 
 
-![image](/img/news/113_beingborn.JPG)
+![image](/img/news/113_beingborn.JPG){: .center-image }
 
 One second old
 
-![image](/img/news/113_justborn.JPG)
+![image](/img/news/113_justborn.JPG){: .center-image }
 
 Ten minutes old
 
-![image](/img/news/113_babyinbox.JPG)
+![image](/img/news/113_babyinbox.JPG){: .center-image }
 
 One day old
 

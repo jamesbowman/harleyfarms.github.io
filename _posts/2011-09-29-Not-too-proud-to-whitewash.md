@@ -18,13 +18,13 @@ flake off, and wash off in the rain, if you don't add to the recipe to
 improve the whitewash's adhesion. We also used salt and milk, and
 tried out a first coat on this chicken coop.
 
-![image](/img/news/106_whitewashedcoop.JPG)
+![image](/img/news/106_whitewashedcoop.JPG){: .center-image }
 
 Whitewash will kill or deter microbes, so dairy farmers would have
 whitewashed the inside of their dairies too. We'll start on the
 outside of the barn and see how the recipe holds up.
 
-![image](/img/news/106_whitewash.JPG)
+![image](/img/news/106_whitewash.JPG){: .center-image }
 
 Dramatically white after half an hour
 

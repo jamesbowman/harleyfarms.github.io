@@ -14,7 +14,7 @@ community. Ben met them when they gave a chicken slaughter seminar for
 the high school, and is enormously enthusiastic about learning their
 business.
 
-![image](/img/news/108_turkeys.JPG)
+![image](/img/news/108_turkeys.JPG){: .center-image }
 
 Early Bird have 200 Broad-Breasted Bronze and White turkeys. Turkeys
 are cheerful, noisy, and dim-witted, so the chicks begin life on the
@@ -34,7 +34,7 @@ breeding rabbits, who graze ahead of some of the chickens. Those lucky
 chickens move onto the rabbit grazing spots, to snaffle rabbit
 droppings where they can. Yum - pre-digested alfalfa.
 
-![image](/img/news/108_tinybabyrabbit.JPG)
+![image](/img/news/108_tinybabyrabbit.JPG){: .center-image }
 
 Three-day-old baby rabbit. Early Bird's rabbits are a gorgeous black
 and white breed supplied by a Basque breeder who raised them in his
@@ -52,7 +52,7 @@ and our feed bills. He understands the life we've chosen. It makes us
 proud that he's curious about how another farm works, and that Early
 Bird praise his commitment and self direction.
 
-![image](/img/news/108_happypig.JPG)
+![image](/img/news/108_happypig.JPG){: .center-image }
 
 You scratch my back and I'll scratch yours? Early Bird are clear-
 headed about diversification, and the web of community. Here's one of

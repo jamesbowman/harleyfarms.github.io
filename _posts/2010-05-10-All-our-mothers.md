@@ -11,21 +11,21 @@ Our new mothers and babies begin a summer of play and growth in the
 pastures, as we celebrate Mothers' Day with a special tour of the
 farm.
 
-![image](/img/news/74_deeinapron.jpg)
+![image](/img/news/74_deeinapron.jpg){: .center-image }
 
-![image](/img/news/74_bowlflowers.jpg)
+![image](/img/news/74_bowlflowers.jpg){: .center-image }
 
-![image](/img/news/74_ben.jpg)
+![image](/img/news/74_ben.jpg){: .center-image }
 
-![image](/img/news/74_chloeinbag.jpg)
+![image](/img/news/74_chloeinbag.jpg){: .center-image }
 
-![image](/img/news/74_tourindairy.jpg)
+![image](/img/news/74_tourindairy.jpg){: .center-image }
 
-![image](/img/news/74_makingcheese.jpg)
+![image](/img/news/74_makingcheese.jpg){: .center-image }
 
-![image](/img/news/74_denisedaughter.jpg)
+![image](/img/news/74_denisedaughter.jpg){: .center-image }
 
-![image](/img/news/74_theircheeses.jpg)
+![image](/img/news/74_theircheeses.jpg){: .center-image }
 
-![image](/img/news/74_luncheon.jpg)
+![image](/img/news/74_luncheon.jpg){: .center-image }
 

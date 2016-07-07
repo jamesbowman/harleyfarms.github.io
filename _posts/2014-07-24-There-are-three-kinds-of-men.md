@@ -17,7 +17,7 @@ but only one kind of goat
 
 The kind that escapes through old fences.
 
-![image](/img/news/156_field.JPG)
+![image](/img/news/156_field.JPG){: .center-image }
 
 It's new fence time! Here's the pasture in front of the dairy, with
 the goats in the corral, marked off with this post and cord into our
@@ -29,26 +29,26 @@ have electric fencing to prevent the goats chewing on the wood posts
 and pushing and scratching against the fence until it breaks, but they
 are girls, and won't be peeing on the electric fence.)
 
-![image](/img/news/156_brian.JPG)
+![image](/img/news/156_brian.JPG){: .center-image }
 
 Brian of Brian Lawson Construction, building and installing our new
 fences and gates
 
-![image](/img/news/156_auger2.JPG)
+![image](/img/news/156_auger2.JPG){: .center-image }
 
 Brian's crew having a tough time with their auger in our rock-solid
 clay soil - but staying cheerful
 
-![image](/img/news/156_auger3.JPG)
+![image](/img/news/156_auger3.JPG){: .center-image }
 
-![image](/img/news/156_auger1.JPG)
+![image](/img/news/156_auger1.JPG){: .center-image }
 
-![image](/img/news/156_concrete.JPG)
+![image](/img/news/156_concrete.JPG){: .center-image }
 
 The Big Creek lumber guy had never delivered to a field of goats
 before
 
-![image](/img/news/156_brian2.JPG)
+![image](/img/news/156_brian2.JPG){: .center-image }
 
 Can't wait for our new gates, Brian! Thanks!
 

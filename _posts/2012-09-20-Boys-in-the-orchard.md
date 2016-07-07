@@ -15,7 +15,7 @@ goats to keep their horns because they lead a pampered lifestyle on
 the pasture, but the boys are put to work occasionally. This week they
 are in the orchard eating the undergrowth.
 
-![image](/img/news/128_bigboy2.JPG)
+![image](/img/news/128_bigboy2.JPG){: .center-image }
 
 Big Boy. Sweet-tempered
 
@@ -27,11 +27,11 @@ weeding team in the orchard, once we have a mobile solar-powered fence
 in there. Goats are greedy, and can eat almost all weeds, so they are
 perfect for keeping bramble, poison oak and worse under control.
 
-![image](/img/news/128_armpit.JPG)
+![image](/img/news/128_armpit.JPG){: .center-image }
 
 Armpit. Unpredictable
 
-![image](/img/news/128_bigboy3.JPG)
+![image](/img/news/128_bigboy3.JPG){: .center-image }
 
 
 

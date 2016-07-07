@@ -11,7 +11,7 @@ Fourth of July on the farm was gloriously sunny with a hint of breeze,
 there was homemade lemonade and watermelon, and families on our
 special tours brought their hampers and blankets to the pasture.
 
-![image](/img/news/59_flowers.JPG)
+![image](/img/news/59_flowers.JPG){: .center-image }
 
 Another perfect day!
 

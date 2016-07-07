@@ -14,7 +14,7 @@ rooster with his hens? He will cock his head sideways at any shadow in
 the sky even as the hens continue to scratch without worry. He will
 stand between them and a dog, raccoon or coyote, and fight.
 
-![image](/img/news/139_potato2.JPG)
+![image](/img/news/139_potato2.JPG){: .center-image }
 
 This is Potato. He replaces my elderly rooster, blind in one eye, who
 died fighting a raccoon earlier this year

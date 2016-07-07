@@ -13,7 +13,7 @@ garden. Athletes from the first Olympic Games refueled on goat cheese
 and honey; nibble your classically delicious snack at our cheese
 counter, on your picnic, or as a wonderful last course.
 
-![image](/img/news/76_beeonpoppy.jpg)
+![image](/img/news/76_beeonpoppy.jpg){: .center-image }
 
-![image](/img/news/76_honeylavcheese.jpg)
+![image](/img/news/76_honeylavcheese.jpg){: .center-image }
 

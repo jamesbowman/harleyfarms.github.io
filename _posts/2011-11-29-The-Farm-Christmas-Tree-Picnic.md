@@ -10,17 +10,17 @@ categories: news
 Bringing the Christmas trees to the farm, as we've done with friends
 for almost two decades.
 
-![image](/img/news/110_xmastree1.JPG)
+![image](/img/news/110_xmastree1.JPG){: .center-image }
 
-![image](/img/news/110_xmastree3.JPG)
+![image](/img/news/110_xmastree3.JPG){: .center-image }
 
-![image](/img/news/110_xmastree6.JPG)
+![image](/img/news/110_xmastree6.JPG){: .center-image }
 
-![image](/img/news/110_xmastree7.JPG)
+![image](/img/news/110_xmastree7.JPG){: .center-image }
 
-![image](/img/news/110_xmastree10.JPG)
+![image](/img/news/110_xmastree10.JPG){: .center-image }
 
-![image](/img/news/110_picnic.JPG)
+![image](/img/news/110_picnic.JPG){: .center-image }
 
 The Picnic Lady forgot the secret ingredient, so she made the picnic
 later

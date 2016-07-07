@@ -12,19 +12,19 @@ Christmas fair today, and to Muttville for bringing their senior
 rescue dogs looking for forever homes. Senior rescue dogs have a place
 in my heart.
 
-![image](/img/news/149_dog4.JPG)
+![image](/img/news/149_dog4.JPG){: .center-image }
 
-![image](/img/news/149_dog1.JPG)
+![image](/img/news/149_dog1.JPG){: .center-image }
 
-![image](/img/news/149_dog2.JPG)
+![image](/img/news/149_dog2.JPG){: .center-image }
 
-![image](/img/news/149_dog3.JPG)
+![image](/img/news/149_dog3.JPG){: .center-image }
 
-![image](/img/news/149_dog5.JPG)
+![image](/img/news/149_dog5.JPG){: .center-image }
 
-![image](/img/news/149_dog6.JPG)
+![image](/img/news/149_dog6.JPG){: .center-image }
 
-![image](/img/news/149_dog8.JPG)
+![image](/img/news/149_dog8.JPG){: .center-image }
 
 
 

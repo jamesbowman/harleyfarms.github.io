@@ -12,7 +12,7 @@ combinations: a single, female kid. Lucky for her because she got all
 her mother's resources and will be big and healthy, lucky for us
 because we keep our does and sell our bucks.
 
-![image](/img/news/90_primavera.jpg)
+![image](/img/news/90_primavera.jpg){: .center-image }
 
 Primavera, our first baby of 2011. Her mother is Unicorn, named for
 obvious reason - she's magical - and her father is Elvis. Primavera
@@ -29,7 +29,7 @@ marked with a band so that we remember to milk her by hand to obtain
 that precious first milk, full of nutrients and antibodies for the
 babies.
 
-![image](/img/news/90_verafeeding.jpg)
+![image](/img/news/90_verafeeding.jpg){: .center-image }
 
 Rachel teaches Primavera to suckle Unicorn's colostrum. The baby's fur
 is damp from dribbling her milk at first, but she becomes adept very

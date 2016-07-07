@@ -34,11 +34,11 @@ Bart, his resting place in the pasture overseeing the babies. Goodbyes
 are an opportunity for happy memories, for gentle thought outside the
 rush of life.
 
-![image](/img/news/71_heart.jpg)
+![image](/img/news/71_heart.jpg){: .center-image }
 
 Straw Heart of Bart
 
-![image](/img/news/71_bartleft.jpg)
+![image](/img/news/71_bartleft.jpg){: .center-image }
 
 Bart and his farm
 

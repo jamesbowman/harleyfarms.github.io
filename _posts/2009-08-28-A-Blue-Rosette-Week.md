@@ -45,7 +45,7 @@ pasture, with the goats, or in the dairy, is exact and timely, as it
 was the day before, and will be tomorrow. The blue rosettes are
 theirs.
 
-![image](/img/news/12_cheesebowl.jpg)
+![image](/img/news/12_cheesebowl.jpg){: .center-image }
 
 Norma's hands. See the rosette on Salud here
 

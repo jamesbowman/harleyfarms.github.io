@@ -24,5 +24,5 @@ As you may not know, the village of Royston, Barnsley, south
 Yorkshire, is picturesque and has a very successful nearby soccer
 team. So we're lucky to have them!
 
-![image](/img/news/52_barnsley200x200.gif)
+![image](/img/news/52_barnsley200x200.gif){: .center-image }
 

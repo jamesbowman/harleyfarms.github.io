@@ -19,13 +19,13 @@ the premises for mice. He's a superb hunter. He has a big personality.
 We've grown to appreciate him very much. My husband dislikes cats, but
 not Oscar.
 
-![image](/img/news/167_DSC_1914.JPG)
+![image](/img/news/167_DSC_1914.JPG){: .center-image }
 
 You can see the hayloft balcony through the sunflower stalks here.
 There is a lovely view across the farm, and Oscar likes to sit there
 too. He's been napping on the railing.
 
-![image](/img/news/167_2008-01-16 21_48_08.jpg)
+![image](/img/news/167_2008-01-16 21_48_08.jpg){: .center-image }
 
 Oscar on my bed after his accident
 
@@ -39,20 +39,20 @@ make. A major operation would involve titanium pins, not just
 bonesetting. I don't have cat insurance. The cost of Oscar's operation
 would pay quite a few bills elsewhere.
 
-![image](/img/news/167_2008-01-18 23_04_51.jpg)
+![image](/img/news/167_2008-01-18 23_04_51.jpg){: .center-image }
 
 If it had been any other cat, it wouldn't have been arriving for its
 operation yesterday. We are so lucky to have Dr. Amezcua here in town.
 She arranged for a specialist to operate on Oscar's leg in her
 surgery. It took an hour and a half.
 
-![image](/img/news/167_oscarop.JPG)
+![image](/img/news/167_oscarop.JPG){: .center-image }
 
-![image](/img/news/167_oscarop2.JPG)
+![image](/img/news/167_oscarop2.JPG){: .center-image }
 
 
 
-![image](/img/news/167_2008-01-16 21_48_39.jpg)
+![image](/img/news/167_2008-01-16 21_48_39.jpg){: .center-image }
 
 Oscar will have to be confined to a crate for 8 weeks of recovery
 while his leg sets, so that he doesn't attempt any hunting. After

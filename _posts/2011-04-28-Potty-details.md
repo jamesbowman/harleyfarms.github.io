@@ -10,7 +10,7 @@ categories: news
 Enjoy our freshly-plumbed running rainwater sink next to the farm
 porta-potties!
 
-![image](/img/news/98_portapottysink.jpg)
+![image](/img/news/98_portapottysink.jpg){: .center-image }
 
 Life gets ever more comfortable. We expect public lavatories
 everywhere we go. At the farm, we installed an incineration toilet for
@@ -21,7 +21,7 @@ long and expensive to contemplate, we now have two porta-potties
 behind the loafing barn. Last week, we added a rainwater sink next to
 the porta-potties, so that you may wash your hands immediately.
 
-![image](/img/news/98_portapotties.jpg)
+![image](/img/news/98_portapotties.jpg){: .center-image }
 
 
 

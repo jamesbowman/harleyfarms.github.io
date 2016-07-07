@@ -6,5 +6,5 @@ header-img: "/img/news/heads/21_newhome.jpg"
 author: Dee Harley
 categories: news
 ---
-![image](/img/news/21_acrossroad.jpg)
+![image](/img/news/21_acrossroad.jpg){: .center-image }
 

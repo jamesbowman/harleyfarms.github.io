@@ -7,7 +7,7 @@ header-img: "/img/news/heads/26_fashion12.jpg"
 author: Dee Harley
 categories: news
 ---
-![image](/img/news/26_fashion41.jpg)
+![image](/img/news/26_fashion41.jpg){: .center-image }
 
 Farm life: mud, afterbirth, curds and whey … and beautiful girls.
 San Francisco photographer Michele Clement took a series of
@@ -17,7 +17,7 @@ most expensive of salads. They clutched bunches of daffodils and gazed
 naturalistically across the farm. Ryan and Luis took several “short-
 cuts” outside to gaze back.
 
-![image](/img/news/26_fashion22.jpg)
+![image](/img/news/26_fashion22.jpg){: .center-image }
 
-![image](/img/news/26_fashion31.jpg)
+![image](/img/news/26_fashion31.jpg){: .center-image }
 

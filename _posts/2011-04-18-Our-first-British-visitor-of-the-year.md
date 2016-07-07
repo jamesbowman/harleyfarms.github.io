@@ -26,7 +26,7 @@ some of whom played by the rules and some of whom may have been
 cheating. Still, it was a pleasure to have Brian in Pescadero and we
 hope he had a good time!
 
-![image](/img/news/97_signcomesdown2.jpg)
+![image](/img/news/97_signcomesdown2.jpg){: .center-image }
 
 We opened our first farm shop at Level Lea Farm barn, on the road into
 town. This week we removed our original painted sign from the barn and
@@ -35,5 +35,5 @@ hurdles we've jumped to grow our business from a handful of goats and
 a roadside pitstop, to our gloriously healthy herds of milking goats,
 farm shop, farm tours and farm dinners that we enjoy today.
 
-![image](/img/news/97_signcomesdown.jpg)
+![image](/img/news/97_signcomesdown.jpg){: .center-image }
 

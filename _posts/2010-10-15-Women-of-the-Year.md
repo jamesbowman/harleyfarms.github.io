@@ -19,9 +19,9 @@ ranging from a school for children with movement disorders to dog day
 care. We each brought family and friends to an evening of dinner and
 short, poignant speeches.
 
-![image](/img/news/80_janet.jpg)
+![image](/img/news/80_janet.jpg){: .center-image }
 
-![image](/img/news/80_dee_and_jesse.jpg)
+![image](/img/news/80_dee_and_jesse.jpg){: .center-image }
 
 On the right is award-winner Jesse Ziff Cool, owner and chef at the
 Flea Street Cafe. Jesse's philosophy? The customer comes last, after

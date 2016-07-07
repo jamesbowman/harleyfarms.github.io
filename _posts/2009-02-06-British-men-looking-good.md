@@ -15,7 +15,7 @@ house: wet weather things and tennis whites acquired fifteen years ago
 at Pescadero's thrift shop. A fine establishment, and naturally my
 husband looks very fine, as you'll notice from the photo.
 
-![image](/img/news/27_scarecrow.jpg)
+![image](/img/news/27_scarecrow.jpg){: .center-image }
 
 You can't have everything - slick cardigans, witty charm, ready
 cash… - but I have got the most wonderful cook. Our New Year's Eve

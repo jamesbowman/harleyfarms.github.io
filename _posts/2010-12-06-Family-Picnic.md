@@ -20,25 +20,25 @@ Pescadero. Her garden's a mass of Christmas trees jostling for
 sunlight, needing a man with a saw. We thin out a few, and dress the
 barn and shop for their most beautiful appearance of the year.
 
-![image](/img/news/86_saw.jpg)
+![image](/img/news/86_saw.jpg){: .center-image }
 
 Which of these hundred identical trees do you want?
 
-![image](/img/news/86_ryandragstree.jpg)
+![image](/img/news/86_ryandragstree.jpg){: .center-image }
 
 Man and tree
 
-![image](/img/news/86_picnic.jpg)
+![image](/img/news/86_picnic.jpg){: .center-image }
 
 Sande's basket of sherry and deviled eggs
 
-![image](/img/news/86_ryanincar.jpg)
+![image](/img/news/86_ryanincar.jpg){: .center-image }
 
-![image](/img/news/86_treeinbarn.jpg)
+![image](/img/news/86_treeinbarn.jpg){: .center-image }
 
-![image](/img/news/86_doginwreath.jpg)
+![image](/img/news/86_doginwreath.jpg){: .center-image }
 
-![image](/img/news/86_treegoats.jpg)
+![image](/img/news/86_treegoats.jpg){: .center-image }
 
-![image](/img/news/86_treeoncheese.jpg)
+![image](/img/news/86_treeoncheese.jpg){: .center-image }
 

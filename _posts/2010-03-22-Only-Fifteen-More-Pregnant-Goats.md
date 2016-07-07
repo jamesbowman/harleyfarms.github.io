@@ -14,7 +14,7 @@ gone well and there's plenty of spring milk!
 
 
 
-![image](/img/news/73_baby&maggie.jpg)
+![image](/img/news/73_baby&maggie.jpg){: .center-image }
 
 Maggie, our Red No. 13, and her ten-minute-old baby
 
@@ -31,17 +31,17 @@ the ladies!
 
 
 
-![image](/img/news/73_babygoatshacks.jpg)
+![image](/img/news/73_babygoatshacks.jpg){: .center-image }
 
 BabyGoatLand. Starter Shacks for the Discerning Baby
 
-![image](/img/news/73_babyshackopen.jpg)
+![image](/img/news/73_babyshackopen.jpg){: .center-image }
 
-![image](/img/news/73_babyshackrun.jpg)
+![image](/img/news/73_babyshackrun.jpg){: .center-image }
 
-![image](/img/news/73_babygoat1.jpg)
+![image](/img/news/73_babygoat1.jpg){: .center-image }
 
-![image](/img/news/73_babyshackwellies.jpg)
+![image](/img/news/73_babyshackwellies.jpg){: .center-image }
 
 All the baby girls are housed in the starter shacks of BabyGoatLand,
 each group according to size and personality. There'll probably be

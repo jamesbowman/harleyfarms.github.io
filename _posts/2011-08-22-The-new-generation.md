@@ -22,23 +22,23 @@ Pescadero Art and Fun Festival SCCS Fashion Show. They were even
 better than the previous presenters. Out with the old and in with the
 new!
 
-![image](/img/news/103_fashionmcs.JPG)
+![image](/img/news/103_fashionmcs.JPG){: .center-image }
 
 The new generation. Our elegant staff present the South Coast
 Children's Services Fashion Show at the weekend
 
-![image](/img/news/103_ian.JPG)
+![image](/img/news/103_ian.JPG){: .center-image }
 
 Of course you would buy cheese from such a lovely young woman
 
-![image](/img/news/103_pinklady.JPG)
+![image](/img/news/103_pinklady.JPG){: .center-image }
 
 The SCCS Fashion Show, organized by local young people, funds
 activities and projects for all local youth
 
-![image](/img/news/103_watermelon.JPG)
+![image](/img/news/103_watermelon.JPG){: .center-image }
 
-![image](/img/news/103_mariachi.JPG)
+![image](/img/news/103_mariachi.JPG){: .center-image }
 
 The Pescadero Art and Fun Fair is an annual fundraiser for art in our
 local schools. If you've ever sat and listened to the amazing variety

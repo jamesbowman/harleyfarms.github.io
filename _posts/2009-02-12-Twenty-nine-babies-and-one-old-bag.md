@@ -12,15 +12,15 @@ bringing our total up to 29 - one mother had quadruplets! Also, I made
 a chocolate birthday cake from scratch for our lovely, youthful office
 manager Sharina.
 
-![image](/img/news/28_cakecandle1.jpg)
+![image](/img/news/28_cakecandle1.jpg){: .center-image }
 
 Surprise!
 
-![image](/img/news/28_cake.jpg)
+![image](/img/news/28_cake.jpg){: .center-image }
 
 I could probably be a professional baker, don't you think?
 
-![image](/img/news/28_sharina.jpg)
+![image](/img/news/28_sharina.jpg){: .center-image }
 
 Only thirty-three…
 
@@ -29,13 +29,13 @@ newborn families are separated from the lively week-old babies, and
 just-about-to-give-birth mothers. We'll have a very noisy barnful of
 pregnant and nursing goats over this rainy weekend!
 
-![image](/img/news/28_babygoat3.jpg)
+![image](/img/news/28_babygoat3.jpg){: .center-image }
 
 Born last night
 
-![image](/img/news/28_babygoat4.jpg)
+![image](/img/news/28_babygoat4.jpg){: .center-image }
 
 Tours begin in February, so do come and admire the babies soon.
 
-![image](/img/news/28_babygoat2.jpg)
+![image](/img/news/28_babygoat2.jpg){: .center-image }
 

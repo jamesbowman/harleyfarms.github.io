@@ -45,7 +45,7 @@ successfully social herd.
 Since we're expecting more than 200 babies, this is a lot of work! We
 have a cot in the barn, and some sleepless nights ahead.
 
-![image](/img/news/72_babiesdrink.jpg)
+![image](/img/news/72_babiesdrink.jpg){: .center-image }
 
 Most babies get the idea straightaway
 

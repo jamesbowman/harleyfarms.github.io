@@ -17,17 +17,17 @@ special cuts, sometimes &quot;poodle&quot; or &quot;lion&quot; style,
 but our working llamas are not so dressy. Depending on their
 temperament, they have almost all of their wool sheared.
 
-![image](/img/news/141_dollyllama2.JPG)
+![image](/img/news/141_dollyllama2.JPG){: .center-image }
 
 Dolly keeps the wool on the back of her legs because she's sensitive
 to clipping there, whereas Lorenzo doesn't mind
 
-![image](/img/news/141_llamashear.JPG)
+![image](/img/news/141_llamashear.JPG){: .center-image }
 
 Apparently, our llamas are the best-behaved in the neighborhood. Much
 better than somebody else's alpacas!!
 
-![image](/img/news/141_llamashear2.JPG)
+![image](/img/news/141_llamashear2.JPG){: .center-image }
 
 Mrs. Wool took the wool home and will make woolen llamas for the Farm
 Shop

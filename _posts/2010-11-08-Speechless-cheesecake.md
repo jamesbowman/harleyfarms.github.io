@@ -9,7 +9,7 @@ categories: news
 ---
 Yum. Lime and pistachio cheesecake, coming to the farm very soon.
 
-![image](/img/news/84_sideofcake.jpg)
+![image](/img/news/84_sideofcake.jpg){: .center-image }
 
 Just out of the oven. You can't have any yet!
 
@@ -23,11 +23,11 @@ out of the blue, at the apogee of her dancing career, she contracted
 meningoencephalitis, and lost full speech. Twenty years later, she
 brings you Speechless Cakes.
 
-![image](/img/news/84_vanilla.jpg)
+![image](/img/news/84_vanilla.jpg){: .center-image }
 
-![image](/img/news/84_pouring.jpg)
+![image](/img/news/84_pouring.jpg){: .center-image }
 
-![image](/img/news/84_waterbath.jpg)
+![image](/img/news/84_waterbath.jpg){: .center-image }
 
 Speechless cakes in our farm kitchen
 
@@ -39,9 +39,9 @@ the healthier fat content of goat cheese compared with cream cheese,
 and Kathleen's subtle hand with sugar. These were farm treats snaffled
 up by staff, but the real thing comes to our shop very soon!
 
-![image](/img/news/84_goatstencil.jpg)
+![image](/img/news/84_goatstencil.jpg){: .center-image }
 
-![image](/img/news/84_cheesecake.jpg)
+![image](/img/news/84_cheesecake.jpg){: .center-image }
 
 Pre-order a Christmas cheesecake at our Christmas Faire, December 11
 and 12!

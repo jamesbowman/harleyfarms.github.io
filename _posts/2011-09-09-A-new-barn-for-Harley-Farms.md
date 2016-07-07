@@ -19,19 +19,19 @@ Cadbury died on the evening we exchanged contracts for the neighboring
 fields and barn. The end of our beginning, the beginning of our
 future.
 
-![image](/img/news/104_topasture.JPG)
+![image](/img/news/104_topasture.JPG){: .center-image }
 
 We walk to Cadbury's grave to remember our beginning
 
-![image](/img/news/104_sage.JPG)
+![image](/img/news/104_sage.JPG){: .center-image }
 
 Burning sage in honor of Cadbury
 
-![image](/img/news/104_newbarn.JPG)
+![image](/img/news/104_newbarn.JPG){: .center-image }
 
 Then we walked across the fields to toast the beginning of our future
 
-![image](/img/news/104_burgers.JPG)
+![image](/img/news/104_burgers.JPG){: .center-image }
 
 A dinner with friends at our new old barn
 

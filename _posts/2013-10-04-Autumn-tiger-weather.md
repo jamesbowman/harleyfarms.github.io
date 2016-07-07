@@ -13,7 +13,7 @@ panting in the shade and more a wild dry fire-crackling heat. On that
 note, our inherited pile of eucalyptus wood is diminishing but still
 available. Free - come and stock up on firewood while it's bone-dry.
 
-![image](/img/news/144_wood.JPG)
+![image](/img/news/144_wood.JPG){: .center-image }
 
 Free firewood. Help yourself
 
@@ -25,11 +25,11 @@ the dry pasture and back over the road to the fields by the farm this
 month. Next year, we'll rotate groups of goats on that irrigated grass
 using electric fencing, which is flexible and effective. Don't touch!
 
-![image](/img/news/144_fence1.JPG)
+![image](/img/news/144_fence1.JPG){: .center-image }
 
 
 
-![image](/img/news/144_fence3.JPG)
+![image](/img/news/144_fence3.JPG){: .center-image }
 
 Goats will avoid electric fence. This year we had groups of goats
 running at the fencing, smashing it and escaping
@@ -43,7 +43,7 @@ pregnant bodies. They are sleeping inside the loafing barn now that
 it's nippy at night, and as soon as the field becomes muddy in the
 rains they'll spend most of their time there.
 
-![image](/img/news/144_hammock.JPG)
+![image](/img/news/144_hammock.JPG){: .center-image }
 
 We've harvested the pears in the orchard for pies at the local
 restaurant and cleared more ground to begin a vegetable garden. The

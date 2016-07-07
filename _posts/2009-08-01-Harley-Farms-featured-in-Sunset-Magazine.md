@@ -10,7 +10,7 @@ categories: news
 Harley Farms was recently featured in Sunset Magazine, and had a
 wonderful visit for the photo shoot.
 
-![image](/img/news/7_sunset.jpg)
+![image](/img/news/7_sunset.jpg){: .center-image }
 
 Sunset Magazine
 

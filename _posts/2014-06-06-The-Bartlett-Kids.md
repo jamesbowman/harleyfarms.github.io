@@ -10,7 +10,7 @@ categories: news
 The Bartlett Kids are ready to work. Cambria and Elijah saw an
 opportunity at the farm  - look what they've made.
 
-![image](/img/news/155_kids11.JPG)
+![image](/img/news/155_kids11.JPG){: .center-image }
 
 The kids made and sold Christmas decorations at the farm fair two
 years ago. A family friend gave them the idea of designing T-shirts,
@@ -19,41 +19,41 @@ huge success. There are now sweatshirts and tote bags, too. The farm
 reorders almost every week; the kids may make as many as 80 garments a
 week
 
-![image](/img/news/155_kids1.JPG)
+![image](/img/news/155_kids1.JPG){: .center-image }
 
 Cambria peels the back off a new stencil
 
-![image](/img/news/155_kids2.JPG)
+![image](/img/news/155_kids2.JPG){: .center-image }
 
 Elijah applies the stencil to a T-shirt. Purple is a popular color
 
-![image](/img/news/155_kids3.JPG)
+![image](/img/news/155_kids3.JPG){: .center-image }
 
-![image](/img/news/155_kids4.JPG)
+![image](/img/news/155_kids4.JPG){: .center-image }
 
-![image](/img/news/155_kids8.JPG)
+![image](/img/news/155_kids8.JPG){: .center-image }
 
 
 
-![image](/img/news/155_kids12.JPG)
+![image](/img/news/155_kids12.JPG){: .center-image }
 
 Cambria sprays the stencil with a bleach mixture and then immediately
 dabs the liquid off the stencil
 
-![image](/img/news/155_kids10.JPG)
+![image](/img/news/155_kids10.JPG){: .center-image }
 
-![image](/img/news/155_kids15.JPG)
+![image](/img/news/155_kids15.JPG){: .center-image }
 
 Pile of washed Ts in the sink. Their mother rinses out the bleach. The
 kids recognize their parents' time but do not pay them. They do,
 however, pay for all materials and household utilities
 
-![image](/img/news/155_kids5.JPG)
+![image](/img/news/155_kids5.JPG){: .center-image }
 
 Quality control. The stencils can bleed onto the fabric when they've
 been previously splashed with bleach
 
-![image](/img/news/155_kids6.JPG)
+![image](/img/news/155_kids6.JPG){: .center-image }
 
 Elijah checks their filed accounting. They have graduated from huge
 money jars in their bedroom to bank accounts. There is a saving
@@ -63,13 +63,13 @@ the Nine Lives Foundation. Neither is a spender (their parents are
 accountants) - Elijah mentions a car, and Cambria's main hobby is
 needlework
 
-![image](/img/news/155_kids7.JPG)
+![image](/img/news/155_kids7.JPG){: .center-image }
 
-![image](/img/news/155_kids14.JPG)
+![image](/img/news/155_kids14.JPG){: .center-image }
 
 There are some adorable seconds (the kids are wearing some, too)
 
-![image](/img/news/155_kids13.JPG)
+![image](/img/news/155_kids13.JPG){: .center-image }
 
 and yes, they will have different designs for sale at the Pescadero
 Arts and Fun Festival this summer. Meet the Bartlett Kids at PAFF or
