@@ -25,7 +25,7 @@ boiler. Unknown to us, our cleaning that day had dislodged a vital section
 of the boiler. If the cheesemakers had switched it on in the morning,
 it would have blown up the barn. Randy saved us, unbelievably.
 
-![image](/img/news/doors3.jpg)
+![image](/img/news/doors3.jpg){: .center-image }
 
 We had a day of hand-pasteurizing the milk to feed the babies, while Simms
 Plumbing searched northern California for a replacement boiler. Elias
