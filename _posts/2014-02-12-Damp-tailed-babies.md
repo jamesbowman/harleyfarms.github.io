@@ -3,7 +3,7 @@ layout: post
 title: "Damp-tailed babies"
 date: 2014-02-12 12:00:00 -0700
 excerpt: "We have the first five babies in the loafing barn. They are delicate but robust, tiny long-legged things ..."
-header-img: "/img/news/151_newbaby1.JPG"
+header-img: "/img/news/heads/151_newbaby1.JPG"
 author: Dee Harley
 categories: news
 ---

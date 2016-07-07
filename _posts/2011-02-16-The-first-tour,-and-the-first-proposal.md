@@ -3,7 +3,7 @@ layout: post
 title: "The first tour, and the first proposal"
 date: 2011-02-16 12:00:00 -0700
 excerpt: "It was a soft, warm February day for our first farm tour of 2011. We had a friendly ..."
-header-img: "/img/news/91_deeonfarm.jpg"
+header-img: "/img/news/heads/91_deeonfarm.jpg"
 author: Dee Harley
 categories: news
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Secret Garden Tour"
 date: 2014-05-12 12:00:00 -0700
 excerpt: "The farm's first Secret Garden Tour was yesterday. It is a walk on the wild side of the ..."
-header-img: "/img/news/154_gardentour1.JPG"
+header-img: "/img/news/heads/154_gardentour1.JPG"
 author: Dee Harley
 categories: news
 ---

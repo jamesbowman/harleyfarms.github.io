@@ -3,7 +3,7 @@ layout: post
 title: "Women of the Year"
 date: 2010-10-15 12:00:00 -0700
 excerpt: "From left: Janet, Chloe, Lesa, me, my mother Molly, and Eilis. Even though he has a strong feminine ..."
-header-img: "/img/news/80_dinner_group.jpg"
+header-img: "/img/news/heads/80_dinner_group.jpg"
 author: Dee Harley
 categories: news
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Vikings open for business"
 date: 2009-10-06 12:00:00 -0700
 excerpt: "I am especially proud to be President of Pescadero High School Viking Boosters this year. The farm dominates ..."
-header-img: "/img/news/18_viking.jpg"
+header-img: "/img/news/heads/18_viking.jpg"
 author: Dee Harley
 categories: news
 ---

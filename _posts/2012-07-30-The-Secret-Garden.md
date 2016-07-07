@@ -3,7 +3,7 @@ layout: post
 title: "The Secret Garden"
 date: 2012-07-30 12:00:00 -0700
 excerpt: "Our purchase of the fields next to the farm came with a secret garden. We started our farm ..."
-header-img: "/img/news/124_beanfield.JPG"
+header-img: "/img/news/heads/124_beanfield.JPG"
 author: Dee Harley
 categories: news
 ---

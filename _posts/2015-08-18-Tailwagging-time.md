@@ -3,7 +3,7 @@ layout: post
 title: "Tailwagging time"
 date: 2015-08-18 12:00:00 -0700
 excerpt: "The milking herd at breakfast. It's time to prepare for breeding. It seems only a few weeks ago ..."
-header-img: "/img/news/179_grasseating2.jpg"
+header-img: "/img/news/heads/179_grasseating2.jpg"
 author: Dee Harley
 categories: news
 ---

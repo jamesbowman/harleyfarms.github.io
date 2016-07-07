@@ -3,7 +3,7 @@ layout: post
 title: "Burning the guy"
 date: 2015-11-06 12:00:00 -0700
 excerpt: "I have always wanted a bonfire night. Growing up, we always had a village bonfire on the night ..."
-header-img: "/img/news/183_smallnightbarn.jpg"
+header-img: "/img/news/heads/183_smallnightbarn.jpg"
 author: Dee Harley
 categories: news
 ---

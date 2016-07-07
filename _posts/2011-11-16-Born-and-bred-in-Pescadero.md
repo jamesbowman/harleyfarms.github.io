@@ -3,7 +3,7 @@ layout: post
 title: "Born and bred in Pescadero"
 date: 2011-11-16 12:00:00 -0700
 excerpt: "Yesterday our 2011 American Alpine babies crossed the road from their juvenile paddock back home to the farm, ..."
-header-img: "/img/news/109_redherd1.JPG"
+header-img: "/img/news/heads/109_redherd1.JPG"
 author: Dee Harley
 categories: news
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Going green"
 date: 2009-12-17 12:00:00 -0700
 excerpt: "At the beginning of December, we went up to my friend Sande's to fetch the farm Christmas tree, ..."
-header-img: "/img/news/31_xmastree.jpg"
+header-img: "/img/news/heads/31_xmastree.jpg"
 author: Dee Harley
 categories: news
 ---

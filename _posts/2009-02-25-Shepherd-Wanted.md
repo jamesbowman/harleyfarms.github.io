@@ -3,7 +3,7 @@ layout: post
 title: "Shepherd Wanted"
 date: 2009-02-25 12:00:00 -0700
 excerpt: "We've written about our dream of a Harley Herd of weedbusting goats. Your weeds are their lunch. Goats ..."
-header-img: "/img/news/25_harleygoat.jpg"
+header-img: "/img/news/heads/25_harleygoat.jpg"
 author: Dee Harley
 categories: news
 ---

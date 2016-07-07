@@ -3,7 +3,7 @@ layout: post
 title: "Feeding the goats in winter"
 date: 2012-01-16 12:00:00 -0700
 excerpt: "We built the farm grain silos in 1998, to strict county requirements. Their capacity was much too generous ..."
-header-img: "/img/news/111_graintruck1.JPG"
+header-img: "/img/news/heads/111_graintruck1.JPG"
 author: Dee Harley
 categories: news
 ---

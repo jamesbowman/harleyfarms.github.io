@@ -3,7 +3,7 @@ layout: post
 title: "Raze the Barn"
 date: 2015-03-17 12:00:00 -0700
 excerpt: "A huge thank you to Krisha and Stacey and friends for volunteering their Saturday on the farm. Krisha ..."
-header-img: "/img/news/166_IMG_0665_JPG.jpeg"
+header-img: "/img/news/heads/166_IMG_0665_JPG.jpeg"
 author: Dee Harley
 categories: news
 ---

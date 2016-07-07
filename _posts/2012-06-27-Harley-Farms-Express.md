@@ -3,7 +3,7 @@ layout: post
 title: "Harley Farms Express"
 date: 2012-06-27 12:00:00 -0700
 excerpt: "It's the end of baby season. All the 2012 babies are weaned from milk to nutritionally appropriate grain. ..."
-header-img: "/img/news/122_babygoat1.JPG"
+header-img: "/img/news/heads/122_babygoat1.JPG"
 author: Dee Harley
 categories: news
 ---

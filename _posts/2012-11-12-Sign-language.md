@@ -3,7 +3,7 @@ layout: post
 title: "Sign language"
 date: 2012-11-12 12:00:00 -0700
 excerpt: "Our new farm sign is up on the barn across the field from the dairy. ..."
-header-img: "/img/news/129_sign1.JPG"
+header-img: "/img/news/heads/129_sign1.JPG"
 author: Dee Harley
 categories: news
 ---

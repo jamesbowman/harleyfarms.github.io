@@ -3,7 +3,7 @@ layout: post
 title: "Farmstead ricotta"
 date: 2014-03-04 12:00:00 -0700
 excerpt: "Our first ricotta batch of the year is in the cheese shop today. The steamy soft scent of ..."
-header-img: "/img/news/152_ricottaheater.JPG"
+header-img: "/img/news/heads/152_ricottaheater.JPG"
 author: Dee Harley
 categories: news
 ---

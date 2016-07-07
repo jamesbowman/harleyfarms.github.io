@@ -3,7 +3,7 @@ layout: post
 title: "Farm on Film"
 date: 2010-11-03 12:00:00 -0700
 excerpt: "On Friday we sourced, scavenged, and cooked with the CBS Eye on the Bay crew. They followed us ..."
-header-img: "/img/news/82_flowerpicking.jpg"
+header-img: "/img/news/heads/82_flowerpicking.jpg"
 author: Dee Harley
 categories: news
 ---

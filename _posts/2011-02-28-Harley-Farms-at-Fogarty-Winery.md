@@ -3,7 +3,7 @@ layout: post
 title: "Harley Farms at Fogarty Winery"
 date: 2011-02-28 12:00:00 -0700
 excerpt: "Our afternoon of farm food and local wines at the spectacular Fogarty Winery was glorious, thanks to the ..."
-header-img: "/img/news/93_fogartyview2.jpg"
+header-img: "/img/news/heads/93_fogartyview2.jpg"
 author: Dee Harley
 categories: news
 ---

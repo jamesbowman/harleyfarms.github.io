@@ -3,7 +3,7 @@ layout: post
 title: "Llamas \"best in the neighborhood\""
 date: 2013-07-18 12:00:00 -0700
 excerpt: "Our four llamas, Dolly, Lorenzo, Ruby and Haley, are sheared every year by Mr. and Mrs. Wool. The ..."
-header-img: "/img/news/141_dollyllama2.JPG"
+header-img: "/img/news/heads/141_dollyllama2.JPG"
 author: Dee Harley
 categories: news
 ---

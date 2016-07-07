@@ -3,7 +3,7 @@ layout: post
 title: "Daughter of Unicorn and Elvis"
 date: 2011-02-09 12:00:00 -0700
 excerpt: "Our first baby of 2011 was born last weekend. She is that luckiest of combinations: a single, female ..."
-header-img: "/img/news/90_primavera.jpg"
+header-img: "/img/news/heads/90_primavera.jpg"
 author: Dee Harley
 categories: news
 ---

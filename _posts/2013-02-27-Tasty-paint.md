@@ -3,7 +3,7 @@ layout: post
 title: "Tasty paint"
 date: 2013-02-27 12:00:00 -0700
 excerpt: "Yesterday was brilliantly sunny and a perfect day to try for the ultimate photograph of our FarmPaint colors. ..."
-header-img: "/img/news/133_heli3.JPG"
+header-img: "/img/news/heads/133_heli3.JPG"
 author: Dee Harley
 categories: news
 ---

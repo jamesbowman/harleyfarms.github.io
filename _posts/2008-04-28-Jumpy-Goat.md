@@ -3,7 +3,7 @@ layout: post
 title: "Jumpy Goat"
 date: 2008-04-28 12:00:00 -0700
 excerpt: "I arrived in the US for the first time as a teenage camp councilor. I'd flown into Seattle, ..."
-header-img: "/img/news/54_goat.jpg"
+header-img: "/img/news/heads/54_goat.jpg"
 author: Dee Harley
 categories: news
 ---

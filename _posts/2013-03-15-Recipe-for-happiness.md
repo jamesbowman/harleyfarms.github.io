@@ -3,7 +3,7 @@ layout: post
 title: "Recipe for happiness"
 date: 2013-03-15 12:00:00 -0700
 excerpt: "All things are fleeting, the Buddha said. Like the seasons, everything changes. Appreciate the pleasures of the moment, ..."
-header-img: "/img/news/134_daffodils.JPG"
+header-img: "/img/news/heads/134_daffodils.JPG"
 author: Dee Harley
 categories: news
 ---

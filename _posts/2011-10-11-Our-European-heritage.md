@@ -3,7 +3,7 @@ layout: post
 title: "Our European heritage"
 date: 2011-10-11 12:00:00 -0700
 excerpt: "Leaving our eighteen-year-old son at home on the farm, we are away for three weeks in Wales, Yorkshire ..."
-header-img: "/img/news/107_portmeirion-map-64881.png"
+header-img: "/img/news/heads/107_portmeirion-map-64881.png"
 author: Dee Harley
 categories: news
 ---

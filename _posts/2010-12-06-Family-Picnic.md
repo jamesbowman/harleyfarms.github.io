@@ -3,7 +3,7 @@ layout: post
 title: "Family Picnic"
 date: 2010-12-06 12:00:00 -0700
 excerpt: "The goats are visibly pregnant now, we're shipping exciting parcels of cheese all over the country, and our ..."
-header-img: "/img/news/86_saw.jpg"
+header-img: "/img/news/heads/86_saw.jpg"
 author: Dee Harley
 categories: news
 ---

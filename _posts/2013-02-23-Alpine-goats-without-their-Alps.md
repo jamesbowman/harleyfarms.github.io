@@ -3,7 +3,7 @@ layout: post
 title: "Alpine goats without their Alps"
 date: 2013-02-23 12:00:00 -0700
 excerpt: "American Alpine goats were bred from goats of the French Alps. In the wild, goat hooves wear down ..."
-header-img: "/img/news/132_hooftrim1.JPG"
+header-img: "/img/news/heads/132_hooftrim1.JPG"
 author: Dee Harley
 categories: news
 ---

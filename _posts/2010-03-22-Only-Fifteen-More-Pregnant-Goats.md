@@ -3,7 +3,7 @@ layout: post
 title: "Only Fifteen More Pregnant Goats"
 date: 2010-03-22 12:00:00 -0700
 excerpt: " ..."
-header-img: "/img/news/73_headlesschkn2.jpg"
+header-img: "/img/news/heads/73_headlesschkn2.jpg"
 author: Dee Harley
 categories: news
 ---

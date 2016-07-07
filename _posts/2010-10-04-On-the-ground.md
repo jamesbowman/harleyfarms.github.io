@@ -3,7 +3,7 @@ layout: post
 title: "On the ground"
 date: 2010-10-04 12:00:00 -0700
 excerpt: "When we look for staff at Harley Farms, we consider what they bring to our farm community, and ..."
-header-img: "/img/news/78_SCCSdinner.jpg"
+header-img: "/img/news/heads/78_SCCSdinner.jpg"
 author: Dee Harley
 categories: news
 ---

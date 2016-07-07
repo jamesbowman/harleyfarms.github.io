@@ -3,7 +3,7 @@ layout: post
 title: "Never too late for a new beginning"
 date: 2013-12-15 12:00:00 -0700
 excerpt: "Thank you to everybody who stopped by Muttville Rescue at the farm Christmas fair today, and to Muttville ..."
-header-img: "/img/news/149_dog4.JPG"
+header-img: "/img/news/heads/149_dog4.JPG"
 author: Dee Harley
 categories: news
 ---

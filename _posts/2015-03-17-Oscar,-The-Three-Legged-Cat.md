@@ -3,7 +3,7 @@ layout: post
 title: "Oscar, The Three Legged Cat"
 date: 2015-03-17 12:00:00 -0700
 excerpt: "I like goats. I like dogs. I'll admire a horse. I'm pretty fond of our donkey and our ..."
-header-img: "/img/news/167_DSC_9122.JPG"
+header-img: "/img/news/heads/167_DSC_9122.JPG"
 author: Dee Harley
 categories: news
 ---

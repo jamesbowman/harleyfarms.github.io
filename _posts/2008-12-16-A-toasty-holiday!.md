@@ -3,7 +3,7 @@ layout: post
 title: "A toasty holiday!"
 date: 2008-12-16 12:00:00 -0700
 excerpt: "It has been another magnificent year for the farm. I can't thank my amazing staff and friends enough, ..."
-header-img: "/img/news/68_ryan1.jpg"
+header-img: "/img/news/heads/68_ryan1.jpg"
 author: Dee Harley
 categories: news
 ---

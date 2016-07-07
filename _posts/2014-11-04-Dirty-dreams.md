@@ -3,7 +3,7 @@ layout: post
 title: "Dirty dreams"
 date: 2014-11-04 12:00:00 -0700
 excerpt: "Like the moist tender crumb of homemade chocolate cake to the hungry, a barn floor of straw and ..."
-header-img: "/img/news/162_barnfloor.jpg"
+header-img: "/img/news/heads/162_barnfloor.jpg"
 author: Dee Harley
 categories: news
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Spring cleaning"
 date: 2010-01-14 12:00:00 -0700
 excerpt: "The farm shop tables, waiting to be re-oiled ..."
-header-img: "/img/news/70_counters.jpg"
+header-img: "/img/news/heads/70_counters.jpg"
 author: Dee Harley
 categories: news
 ---

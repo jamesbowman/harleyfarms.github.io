@@ -3,7 +3,7 @@ layout: post
 title: "The Dogs With No Name"
 date: 2009-09-10 12:00:00 -0700
 excerpt: "It is a year last week that Foxi arrived at the farm. Foxi died suddenly, but peacefully, in ..."
-header-img: "/img/news/13_lilac.jpg"
+header-img: "/img/news/heads/13_lilac.jpg"
 author: Dee Harley
 categories: news
 ---

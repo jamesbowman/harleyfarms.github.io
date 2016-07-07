@@ -3,7 +3,7 @@ layout: post
 title: "Bees happy"
 date: 2013-01-25 12:00:00 -0700
 excerpt: "Beekeepers Gary and Teri, who can manage over a hundred beehives a season, checked on the hives in ..."
-header-img: "/img/news/130_beekeeping2.JPG"
+header-img: "/img/news/heads/130_beekeeping2.JPG"
 author: Dee Harley
 categories: news
 ---

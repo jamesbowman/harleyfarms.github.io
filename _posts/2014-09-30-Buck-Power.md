@@ -3,7 +3,7 @@ layout: post
 title: "Buck Power"
 date: 2014-09-30 12:00:00 -0700
 excerpt: "We introduced Coltrane, our new, very handsome buck, to a pen of ladies this past month. At two ..."
-header-img: "/img/news/161_dating0.JPG"
+header-img: "/img/news/heads/161_dating0.JPG"
 author: Dee Harley
 categories: news
 ---

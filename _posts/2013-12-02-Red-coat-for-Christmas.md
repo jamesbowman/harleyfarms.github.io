@@ -3,7 +3,7 @@ layout: post
 title: "Red coat for Christmas"
 date: 2013-12-02 12:00:00 -0700
 excerpt: "It's our Christmas Faire in two weekends, and the farm shop and nursery barn will be magnificent in ..."
-header-img: "/img/news/147_paintbarn.JPG"
+header-img: "/img/news/heads/147_paintbarn.JPG"
 author: Dee Harley
 categories: news
 ---

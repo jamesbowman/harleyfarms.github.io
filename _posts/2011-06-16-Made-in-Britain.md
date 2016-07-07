@@ -3,7 +3,7 @@ layout: post
 title: "Made in Britain"
 date: 2011-06-16 12:00:00 -0700
 excerpt: "Upon the funeral of their adored dog of 17 years, my old friends Andrew and Griff are in ..."
-header-img: "/img/news/99_piglet.jpg"
+header-img: "/img/news/heads/99_piglet.jpg"
 author: Dee Harley
 categories: news
 ---

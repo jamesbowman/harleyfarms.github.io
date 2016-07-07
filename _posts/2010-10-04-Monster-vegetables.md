@@ -3,7 +3,7 @@ layout: post
 title: "Monster vegetables"
 date: 2010-10-04 12:00:00 -0700
 excerpt: "We are so pleased to have already sold many of our 2011 Farm Dinners, praised by Sunset Magazine ..."
-header-img: "/img/news/79_duartegarden3.jpg"
+header-img: "/img/news/heads/79_duartegarden3.jpg"
 author: Dee Harley
 categories: news
 ---

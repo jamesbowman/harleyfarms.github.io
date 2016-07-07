@@ -3,7 +3,7 @@ layout: post
 title: "The Case of the Missing Goat"
 date: 2014-08-04 12:00:00 -0700
 excerpt: "&quot;My dear fellow,&quot; said Sherlock Holmes as I rose from the tea tray to seek my newspaper, &quot;kindly ..."
-header-img: "/img/news/157_missinggoat.JPG"
+header-img: "/img/news/heads/157_missinggoat.JPG"
 author: Dee Harley
 categories: news
 ---

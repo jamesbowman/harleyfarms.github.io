@@ -3,7 +3,7 @@ layout: post
 title: "Boys in the orchard"
 date: 2012-09-20 12:00:00 -0700
 excerpt: "Pet goats Big Boy (one of our most enormous babies) and Armpit are kept men, trained to pull ..."
-header-img: "/img/news/128_bigboy2.JPG"
+header-img: "/img/news/heads/128_bigboy2.JPG"
 author: Dee Harley
 categories: news
 ---

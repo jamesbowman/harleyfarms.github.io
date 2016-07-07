@@ -3,7 +3,7 @@ layout: post
 title: "Puente's Fall Harvest Party at the Upper Barn"
 date: 2015-09-22 12:00:00 -0700
 excerpt: "Rep. Anna Eshoo praised Puente's work and firmly regretted Presidential candidate misrepresentation of immigrants from Mexico. Here the ..."
-header-img: "/img/news/181_barnview.jpg"
+header-img: "/img/news/heads/181_barnview.jpg"
 author: Dee Harley
 categories: news
 ---

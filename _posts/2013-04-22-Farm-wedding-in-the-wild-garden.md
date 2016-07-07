@@ -3,7 +3,7 @@ layout: post
 title: "Farm wedding in the wild garden"
 date: 2013-04-22 12:00:00 -0700
 excerpt: "We've had six weeks of delightful and maybe a little frantic preparation for a Pescadero wedding in the ..."
-header-img: "/img/news/135_wildentrance.JPG"
+header-img: "/img/news/heads/135_wildentrance.JPG"
 author: Dee Harley
 categories: news
 ---

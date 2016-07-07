@@ -3,7 +3,7 @@ layout: post
 title: "Child labor camp"
 date: 2008-05-12 12:00:00 -0700
 excerpt: "Julie as the Queen and Chloe on the left in Pescadero's Chamarita parade, last weekend ..."
-header-img: "/img/news/56_DSC_43061.JPG"
+header-img: "/img/news/heads/56_DSC_43061.JPG"
 author: Dee Harley
 categories: news
 ---

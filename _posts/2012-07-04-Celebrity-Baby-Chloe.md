@@ -3,7 +3,7 @@ layout: post
 title: "Celebrity Baby Chloe"
 date: 2012-07-04 12:00:00 -0700
 excerpt: "Everybody thought her mum was just a wee bit plump. Baby Chloe was a surprise arrival last weekend, ..."
-header-img: "/img/news/123_liambabychloe2.JPG"
+header-img: "/img/news/heads/123_liambabychloe2.JPG"
 author: Dee Harley
 categories: news
 ---

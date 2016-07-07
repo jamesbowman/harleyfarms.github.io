@@ -3,7 +3,7 @@ layout: post
 title: "Mary Collins"
 date: 2010-10-18 12:00:00 -0700
 excerpt: "These are the concrete pots of artist, sculptor and photographer Mary Collins ..."
-header-img: "/img/news/81_marypots.jpg"
+header-img: "/img/news/heads/81_marypots.jpg"
 author: Dee Harley
 categories: news
 ---

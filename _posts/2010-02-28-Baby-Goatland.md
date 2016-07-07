@@ -3,7 +3,7 @@ layout: post
 title: "Baby Goatland"
 date: 2010-02-28 12:00:00 -0700
 excerpt: "Annie shows a baby how to feed ..."
-header-img: "/img/news/72_babyformula.jpg"
+header-img: "/img/news/heads/72_babyformula.jpg"
 author: Dee Harley
 categories: news
 ---

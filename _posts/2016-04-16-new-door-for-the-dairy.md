@@ -3,7 +3,7 @@ layout: post
 title: "New doors for the dairy"
 date: 2016-04-16 12:00:00 -0700
 excerpt: "The dairy is the extremely clean room to the right of the cheese shop, as you stand on the road looking at our hayloft barn ..."
-header-img: "/img/news/doors1.jpg"
+header-img: "/img/news/heads/doors1.jpg"
 author: Dee Harley
 categories: news
 ---

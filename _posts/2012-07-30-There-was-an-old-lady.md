@@ -3,7 +3,7 @@ layout: post
 title: "There was an old lady"
 date: 2012-07-30 12:00:00 -0700
 excerpt: "who swallowed a fly ..."
-header-img: "/img/news/125_bats.JPG"
+header-img: "/img/news/heads/125_bats.JPG"
 author: Dee Harley
 categories: news
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Food for a June wedding"
 date: 2015-06-30 12:00:00 -0700
 excerpt: "It's an exquisite late June afternoon ..."
-header-img: "/img/news/173_2008-04-14 22_30_13.jpg"
+header-img: "/img/news/heads/173_2008-04-14 22_30_13.jpg"
 author: Dee Harley
 categories: news
 ---

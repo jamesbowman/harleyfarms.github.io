@@ -3,7 +3,7 @@ layout: post
 title: "Fruits of late autumn"
 date: 2013-11-15 12:00:00 -0700
 excerpt: "Still no rain. None in the forecast. Dust, not mud. Stiff upper lip - we just have to ..."
-header-img: "/img/news/146_persimmons.JPG"
+header-img: "/img/news/heads/146_persimmons.JPG"
 author: Dee Harley
 categories: news
 ---

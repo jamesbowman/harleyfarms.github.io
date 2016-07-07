@@ -3,7 +3,7 @@ layout: post
 title: "A surprise in the barn"
 date: 2009-04-01 12:00:00 -0700
 excerpt: "We had an astonishing morning with the second grade from Woodside Elementary. It was bright and a little ..."
-header-img: "/img/news/23_goathead.jpg"
+header-img: "/img/news/heads/23_goathead.jpg"
 author: Dee Harley
 categories: news
 ---

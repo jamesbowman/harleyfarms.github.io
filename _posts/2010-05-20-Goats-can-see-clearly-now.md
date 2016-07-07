@@ -3,7 +3,7 @@ layout: post
 title: "Goats can see clearly now"
 date: 2010-05-20 12:00:00 -0700
 excerpt: "With birthing over, we have the spring in our step to revisit fundamentals on the farm, and our ..."
-header-img: "/img/news/75_goatramp.jpg"
+header-img: "/img/news/heads/75_goatramp.jpg"
 author: Dee Harley
 categories: news
 ---

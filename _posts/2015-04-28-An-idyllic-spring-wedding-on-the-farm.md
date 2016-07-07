@@ -3,7 +3,7 @@ layout: post
 title: "An idyllic spring wedding on the farm"
 date: 2015-04-28 12:00:00 -0700
 excerpt: "April means almost all of this year's babies are on the farm. There is fresh spring milk and ..."
-header-img: "/img/news/168_2008-02-12 02_21_18.jpg"
+header-img: "/img/news/heads/168_2008-02-12 02_21_18.jpg"
 author: Dee Harley
 categories: news
 ---

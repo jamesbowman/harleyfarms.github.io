@@ -3,7 +3,7 @@ layout: post
 title: "Pine scented memories"
 date: 2014-12-08 12:00:00 -0700
 excerpt: "Each December we take the flatbed truck into the hills to thin my friend Sande's woods. It was ..."
-header-img: "/img/news/163_pine0.JPG"
+header-img: "/img/news/heads/163_pine0.JPG"
 author: Dee Harley
 categories: news
 ---

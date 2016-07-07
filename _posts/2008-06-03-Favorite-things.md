@@ -3,7 +3,7 @@ layout: post
 title: "Favorite things"
 date: 2008-06-03 12:00:00 -0700
 excerpt: "We're just back from my cousin's wedding in Wales. Rachel stayed with us on the farm for five ..."
-header-img: "/img/news/58_teddy2.jpg"
+header-img: "/img/news/heads/58_teddy2.jpg"
 author: Dee Harley
 categories: news
 ---

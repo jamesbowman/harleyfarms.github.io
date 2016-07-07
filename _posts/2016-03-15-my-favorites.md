@@ -3,7 +3,7 @@ layout: post
 title: "My favorites"
 date: 2016-03-15 12:00:00 -0700
 excerpt: "We began farming with six pet goats. All the girls had names and we loved them. As the farm grew ..."
-header-img: "/img/news/favorites1.jpg"
+header-img: "/img/news/heads/favorites1.jpg"
 author: Dee Harley
 categories: news
 ---

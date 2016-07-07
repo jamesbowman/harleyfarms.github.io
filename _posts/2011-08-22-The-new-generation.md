@@ -3,7 +3,7 @@ layout: post
 title: "The new generation"
 date: 2011-08-22 12:00:00 -0700
 excerpt: "The farm has fizzing energy and camaraderie this August! We have several new employees, and this next weekend ..."
-header-img: "/img/news/103_fashionmcs.JPG"
+header-img: "/img/news/heads/103_fashionmcs.JPG"
 author: Dee Harley
 categories: news
 ---

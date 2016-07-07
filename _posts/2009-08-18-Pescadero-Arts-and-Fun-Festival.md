@@ -3,7 +3,7 @@ layout: post
 title: "Pescadero Arts and Fun Festival"
 date: 2009-08-18 12:00:00 -0700
 excerpt: "The astonishingly talented and much-married Janet Periat and I MC at Pescadero's 19th Arts and Fun Festival this ..."
-header-img: "/img/news/20_deejanet2.jpg"
+header-img: "/img/news/heads/20_deejanet2.jpg"
 author: Dee Harley
 categories: news
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Keep your face to the sunshine"
 date: 2012-03-06 12:00:00 -0700
 excerpt: "and you will never see the shadow ..."
-header-img: "/img/news/117_sunset.JPG"
+header-img: "/img/news/heads/117_sunset.JPG"
 author: Dee Harley
 categories: news
 ---

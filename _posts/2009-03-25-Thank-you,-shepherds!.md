@@ -3,7 +3,7 @@ layout: post
 title: "Thank you, shepherds!"
 date: 2009-03-25 12:00:00 -0700
 excerpt: "We are immensely touched by the response to our call for a shepherd. Engineers, teachers, a professional cyclist, ..."
-header-img: "/img/news/24_tothegoats.jpg"
+header-img: "/img/news/heads/24_tothegoats.jpg"
 author: Dee Harley
 categories: news
 ---

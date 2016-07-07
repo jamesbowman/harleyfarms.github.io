@@ -3,7 +3,7 @@ layout: post
 title: "We adore pumpkins"
 date: 2007-10-30 12:00:00 -0700
 excerpt: "October mornings are my very favorite time of the year. Crisp or foggy, the smells of the farm ..."
-header-img: "/img/news/44_pumpkin_in_patch.jpg"
+header-img: "/img/news/heads/44_pumpkin_in_patch.jpg"
 author: Dee Harley
 categories: news
 ---

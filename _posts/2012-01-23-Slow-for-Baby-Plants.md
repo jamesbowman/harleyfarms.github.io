@@ -3,7 +3,7 @@ layout: post
 title: "Slow for Baby Plants"
 date: 2012-01-23 12:00:00 -0700
 excerpt: "In 1833 Pescadero was part of Rancho Pescadero, a Mexican land grant awarded to a Juan José Gonzales. ..."
-header-img: "/img/news/112_slowforbabyplants.JPG"
+header-img: "/img/news/heads/112_slowforbabyplants.JPG"
 author: Dee Harley
 categories: news
 ---

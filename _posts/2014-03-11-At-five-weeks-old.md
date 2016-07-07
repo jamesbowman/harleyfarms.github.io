@@ -3,7 +3,7 @@ layout: post
 title: "At five weeks old"
 date: 2014-03-11 12:00:00 -0700
 excerpt: " ..."
-header-img: "/img/news/153_babymilk.JPG"
+header-img: "/img/news/heads/153_babymilk.JPG"
 author: Dee Harley
 categories: news
 ---
