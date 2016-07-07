@@ -3,7 +3,7 @@ layout: post
 title: "Adriana's Plumpy Party"
 date: 2013-05-10 12:00:00 -0700
 excerpt: "Adriana, babe, I know you just got home but could you find the tape measure? Dee wants me ..."
-header-img: "/img/news/138_plumpy1.JPG"
+header-img: "/img/news/heads/138_plumpy1.JPG"
 author: Dee Harley
 categories: news
 ---

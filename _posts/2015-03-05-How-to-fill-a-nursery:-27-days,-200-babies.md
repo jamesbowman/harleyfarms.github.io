@@ -3,7 +3,7 @@ layout: post
 title: "How to fill a nursery: 27 days, 200 babies"
 date: 2015-03-05 12:00:00 -0700
 excerpt: "You might ask why we scheduled two hundred babies in less than a month? Good question - we'll ..."
-header-img: "/img/news/165_2007-12-20 22_22_27-cropped.jpg"
+header-img: "/img/news/heads/165_2007-12-20 22_22_27-cropped.jpg"
 author: Dee Harley
 categories: news
 ---

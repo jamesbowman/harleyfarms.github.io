@@ -3,7 +3,7 @@ layout: post
 title: "All hands to the pump"
 date: 2011-03-28 12:00:00 -0700
 excerpt: "You know it's going to be damp when the National Weather Service calls your post office staff and ..."
-header-img: "/img/news/95_milkingbyhand.jpg"
+header-img: "/img/news/heads/95_milkingbyhand.jpg"
 author: Dee Harley
 categories: news
 ---

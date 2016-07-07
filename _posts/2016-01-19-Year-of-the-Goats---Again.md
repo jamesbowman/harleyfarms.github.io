@@ -3,7 +3,7 @@ layout: post
 title: "Year of the Goats - Again"
 date: 2016-01-19 12:00:00 -0700
 excerpt: "The Chinese New Year next month ushers in the Year of the Monkey. Our 2015 Year of the ..."
-header-img: "/img/news/185_llama.jpg"
+header-img: "/img/news/heads/185_llama.jpg"
 author: Dee Harley
 categories: news
 ---

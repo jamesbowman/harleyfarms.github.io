@@ -3,7 +3,7 @@ layout: post
 title: "Speechless cheesecake"
 date: 2010-11-08 12:00:00 -0700
 excerpt: "Yum. Lime and pistachio cheesecake, coming to the farm very soon. ..."
-header-img: "/img/news/84_sideofcake.jpg"
+header-img: "/img/news/heads/84_sideofcake.jpg"
 author: Dee Harley
 categories: news
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Choosing to be a farmer"
 date: 2011-10-20 12:00:00 -0700
 excerpt: "Our son Ben has been following the seminar program at Early Bird Ranch, who farm pasture-raised turkeys and ..."
-header-img: "/img/news/108_turkeys.JPG"
+header-img: "/img/news/heads/108_turkeys.JPG"
 author: Dee Harley
 categories: news
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Red moon wedding"
 date: 2015-09-28 12:00:00 -0700
 excerpt: "It's been a weekend of spectacular skies and starry nights, culminating in the red moon of Sunday night. ..."
-header-img: "/img/news/182_dramasky.jpg"
+header-img: "/img/news/heads/182_dramasky.jpg"
 author: Dee Harley
 categories: news
 ---

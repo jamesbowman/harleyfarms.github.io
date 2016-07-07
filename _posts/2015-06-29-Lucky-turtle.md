@@ -3,7 +3,7 @@ layout: post
 title: "Lucky turtle"
 date: 2015-06-29 12:00:00 -0700
 excerpt: "Adriana was on her way to the farm, and just south of Half Moon Bay, when she spotted ..."
-header-img: "/img/news/172_2008-04-11 22_32_56.jpg"
+header-img: "/img/news/heads/172_2008-04-11 22_32_56.jpg"
 author: Dee Harley
 categories: news
 ---

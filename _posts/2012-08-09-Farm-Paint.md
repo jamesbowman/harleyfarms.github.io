@@ -3,7 +3,7 @@ layout: post
 title: "Farm Paint"
 date: 2012-08-09 12:00:00 -0700
 excerpt: "It is my passion to use our farm raw materials in as many creative ways as possible. My ..."
-header-img: "/img/news/126_bilflower2.jpg"
+header-img: "/img/news/heads/126_bilflower2.jpg"
 author: Dee Harley
 categories: news
 ---

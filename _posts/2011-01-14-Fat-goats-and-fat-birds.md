@@ -3,7 +3,7 @@ layout: post
 title: "Fat goats and fat birds"
 date: 2011-01-14 12:00:00 -0700
 excerpt: "Our whole herd of milking goats is tubby and slow, the older goats due to give birth in ..."
-header-img: "/img/news/88_fatgoat.jpg"
+header-img: "/img/news/heads/88_fatgoat.jpg"
 author: Dee Harley
 categories: news
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "A rustic winter wedding at Harley Farms"
 date: 2014-01-13 12:00:00 -0700
 excerpt: "Between us at Harley Farms, we've had every kind of wedding, from ritzy to the back yard, from ..."
-header-img: "/img/news/150_weddmaids.JPG"
+header-img: "/img/news/heads/150_weddmaids.JPG"
 author: Dee Harley
 categories: news
 ---

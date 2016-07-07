@@ -3,7 +3,7 @@ layout: post
 title: "Weedbusters"
 date: 2008-05-05 12:00:00 -0700
 excerpt: "They can't wait to get at your ditch ..."
-header-img: "/img/news/55_DSC_4267.jpg"
+header-img: "/img/news/heads/55_DSC_4267.jpg"
 author: Dee Harley
 categories: news
 ---

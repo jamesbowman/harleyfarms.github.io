@@ -3,7 +3,7 @@ layout: post
 title: "Honey in the barn"
 date: 2012-06-27 12:00:00 -0700
 excerpt: "The bee men of Humble Bee Removal arrived on Saturday to relocate the hive of honey bees living ..."
-header-img: "/img/news/121_beehole.JPG"
+header-img: "/img/news/heads/121_beehole.JPG"
 author: Dee Harley
 categories: news
 ---

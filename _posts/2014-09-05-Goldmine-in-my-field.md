@@ -3,7 +3,7 @@ layout: post
 title: "Goldmine in my field"
 date: 2014-09-05 12:00:00 -0700
 excerpt: "This summer, a visitor wrote to me that she had walked through our secret gardens on a workshop, ..."
-header-img: "/img/news/159_water1.JPG"
+header-img: "/img/news/heads/159_water1.JPG"
 author: Dee Harley
 categories: news
 ---

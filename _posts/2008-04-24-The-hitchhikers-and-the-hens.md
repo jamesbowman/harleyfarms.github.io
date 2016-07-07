@@ -3,7 +3,7 @@ layout: post
 title: "The hitchhikers and the hens"
 date: 2008-04-24 12:00:00 -0700
 excerpt: "Thank you to all our visitors who've admired the chicken tractors. Our hens are comfortable and our Alpine ..."
-header-img: "/img/news/53_chicken1.jpg"
+header-img: "/img/news/heads/53_chicken1.jpg"
 author: Dee Harley
 categories: news
 ---

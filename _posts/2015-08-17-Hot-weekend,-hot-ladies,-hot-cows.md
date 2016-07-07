@@ -3,7 +3,7 @@ layout: post
 title: "Hot weekend, hot ladies, hot cows"
 date: 2015-08-17 12:00:00 -0700
 excerpt: "The music ..."
-header-img: "/img/news/178_music1.jpg"
+header-img: "/img/news/heads/178_music1.jpg"
 author: Dee Harley
 categories: news
 ---

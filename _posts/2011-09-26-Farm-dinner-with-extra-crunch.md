@@ -3,7 +3,7 @@ layout: post
 title: "Farm dinner with extra crunch"
 date: 2011-09-26 12:00:00 -0700
 excerpt: "Oscar the black farm cat is an evacuee from indoor life in Berkeley. At first we hardly saw ..."
-header-img: "/img/news/105_oscar.JPG"
+header-img: "/img/news/heads/105_oscar.JPG"
 author: Dee Harley
 categories: news
 ---

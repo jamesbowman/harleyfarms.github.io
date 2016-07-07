@@ -3,7 +3,7 @@ layout: post
 title: "What to do when your bees swarm"
 date: 2013-04-25 12:00:00 -0700
 excerpt: "Bee swarms, where the old queen and about half a colony leave a hive looking for a new ..."
-header-img: "/img/news/137_beecluster.JPG"
+header-img: "/img/news/heads/137_beecluster.JPG"
 author: Dee Harley
 categories: news
 ---

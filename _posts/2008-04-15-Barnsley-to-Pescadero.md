@@ -3,7 +3,7 @@ layout: post
 title: "Barnsley to Pescadero"
 date: 2008-04-15 12:00:00 -0700
 excerpt: "I may call Richard Branson soon, to request a small, but luxurious, direct flight from Old Royston to ..."
-header-img: "/img/news/52_barnsley200x200.gif"
+header-img: "/img/news/heads/52_barnsley200x200.gif"
 author: Dee Harley
 categories: news
 ---

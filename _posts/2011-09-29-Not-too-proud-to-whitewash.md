@@ -3,7 +3,7 @@ layout: post
 title: "Not too proud to whitewash"
 date: 2011-09-29 12:00:00 -0700
 excerpt: "This week we've been mixing whitewash for the new old barn. Whitewashing would have been routine in rural ..."
-header-img: "/img/news/106_whitewashedcoop.JPG"
+header-img: "/img/news/heads/106_whitewashedcoop.JPG"
 author: Dee Harley
 categories: news
 ---

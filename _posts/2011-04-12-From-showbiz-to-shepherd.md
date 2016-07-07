@@ -3,7 +3,7 @@ layout: post
 title: "From showbiz to shepherd"
 date: 2011-04-12 12:00:00 -0700
 excerpt: "On a milking farm, male animals mostly leave. But on Friday we welcomed two boys who'll be with ..."
-header-img: "/img/news/96_llamasarrive.jpg"
+header-img: "/img/news/heads/96_llamasarrive.jpg"
 author: Dee Harley
 categories: news
 ---

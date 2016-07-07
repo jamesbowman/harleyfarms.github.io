@@ -3,7 +3,7 @@ layout: post
 title: "Itchy and scratchy"
 date: 2015-02-03 12:00:00 -0700
 excerpt: "When I was younger, my skin often flared up in itchy patches. Eczema is the general word for ..."
-header-img: "/img/news/164_salts.jpg"
+header-img: "/img/news/heads/164_salts.jpg"
 author: Dee Harley
 categories: news
 ---

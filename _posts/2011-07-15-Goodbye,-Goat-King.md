@@ -3,7 +3,7 @@ layout: post
 title: "Goodbye, Goat King"
 date: 2011-07-15 12:00:00 -0700
 excerpt: "Our farm manager of four great years left today, for travel, relaxation and a new job. Heartfelt thanks ..."
-header-img: "/img/news/102_ben&huxley.JPG"
+header-img: "/img/news/heads/102_ben&huxley.JPG"
 author: Dee Harley
 categories: news
 ---

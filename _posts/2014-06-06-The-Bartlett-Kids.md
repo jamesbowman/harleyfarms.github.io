@@ -3,7 +3,7 @@ layout: post
 title: "The Bartlett Kids"
 date: 2014-06-06 12:00:00 -0700
 excerpt: "The Bartlett Kids are ready to work. Cambria and Elijah saw an opportunity at the farm  - look ..."
-header-img: "/img/news/155_kids11.JPG"
+header-img: "/img/news/heads/155_kids11.JPG"
 author: Dee Harley
 categories: news
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Harley Farms abounds in baby goats!"
 date: 2007-05-16 12:00:00 -0700
 excerpt: "Kids are being born as you read this very blog. We will turn on our milking machine for ..."
-header-img: "/img/news/37_7ceb.jpg"
+header-img: "/img/news/heads/37_7ceb.jpg"
 author: Dee Harley
 categories: news
 ---

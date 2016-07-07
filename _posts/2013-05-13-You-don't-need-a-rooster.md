@@ -3,7 +3,7 @@ layout: post
 title: "You don't need a rooster"
 date: 2013-05-13 12:00:00 -0700
 excerpt: "but your roaming hens do. If you live in an area that permits roosters, and your hens are ..."
-header-img: "/img/news/139_potato2.JPG"
+header-img: "/img/news/heads/139_potato2.JPG"
 author: Dee Harley
 categories: news
 ---

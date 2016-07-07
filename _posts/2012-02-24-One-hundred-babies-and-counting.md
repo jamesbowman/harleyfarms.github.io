@@ -3,7 +3,7 @@ layout: post
 title: "One hundred babies and counting"
 date: 2012-02-24 12:00:00 -0700
 excerpt: "One hundred babies have arrived, with only nine more pregnant Blue Herd mothers. There is enough milk now ..."
-header-img: "/img/news/114_sande.JPG"
+header-img: "/img/news/heads/114_sande.JPG"
 author: Dee Harley
 categories: news
 ---

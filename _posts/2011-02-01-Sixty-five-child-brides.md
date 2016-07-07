@@ -3,7 +3,7 @@ layout: post
 title: "Sixty-five child brides"
 date: 2011-02-01 12:00:00 -0700
 excerpt: "Our veterinarian Dr. Andrea Mongini was back with us at the weekend to ultrasound all of our yearling ..."
-header-img: "/img/news/89_tattoo.jpg"
+header-img: "/img/news/heads/89_tattoo.jpg"
 author: Dee Harley
 categories: news
 ---

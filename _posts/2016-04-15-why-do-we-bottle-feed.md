@@ -3,7 +3,7 @@ layout: post
 title: "Why do we bottle-feed the kids?"
 date: 2016-04-15 12:00:00 -0700
 excerpt: "Why not let mothers suckle their babies? Like the majority of farmstead goat dairies in the United States, we remove ..."
-header-img: "/img/news/bottlefeed1.jpg"
+header-img: "/img/news/heads/bottlefeed1.jpg"
 author: Dee Harley
 categories: news
 ---

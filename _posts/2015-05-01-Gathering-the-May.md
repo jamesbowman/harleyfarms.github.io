@@ -3,7 +3,7 @@ layout: post
 title: "Gathering the May"
 date: 2015-05-01 12:00:00 -0700
 excerpt: "The May Day procession leaves the farm and crosses the fields to the secret garden ..."
-header-img: "/img/news/169_2008-02-18 00_57_51.jpg"
+header-img: "/img/news/heads/169_2008-02-18 00_57_51.jpg"
 author: Dee Harley
 categories: news
 ---

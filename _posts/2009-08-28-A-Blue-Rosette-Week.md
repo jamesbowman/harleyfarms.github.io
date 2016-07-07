@@ -3,7 +3,7 @@ layout: post
 title: "A Blue Rosette Week"
 date: 2009-08-28 12:00:00 -0700
 excerpt: "August is almost over, and the kids are back at school. It has been an astonishingly gratifying month ..."
-header-img: "/img/news/12_cheesebowl.jpg"
+header-img: "/img/news/heads/12_cheesebowl.jpg"
 author: Dee Harley
 categories: news
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Chloe Gets Married!"
 date: 2012-09-01 12:00:00 -0700
 excerpt: "Chloe's wedding is today, September 1 2012. To one of the world's loveliest people, a lifetime of happiness, ..."
-header-img: "/img/news/127_engaged.JPG"
+header-img: "/img/news/heads/127_engaged.JPG"
 author: Dee Harley
 categories: news
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Flowers for an opulent May wedding"
 date: 2015-05-26 12:00:00 -0700
 excerpt: "Last year, Trisha and Rob stood on the hayloft balcony overlooking the farm and said I want it. ..."
-header-img: "/img/news/170_dreamgarden.jpg"
+header-img: "/img/news/heads/170_dreamgarden.jpg"
 author: Dee Harley
 categories: news
 ---

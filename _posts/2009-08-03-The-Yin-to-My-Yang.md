@@ -3,7 +3,7 @@ layout: post
 title: "The Yin to My Yang"
 date: 2009-08-03 12:00:00 -0700
 excerpt: "Our summer Farm Dinners have been magnificent occasions, and our autumn dinners are sold out! Many, many thanks ..."
-header-img: "/img/news/10_staff2.jpg"
+header-img: "/img/news/heads/10_staff2.jpg"
 author: Dee Harley
 categories: news
 ---

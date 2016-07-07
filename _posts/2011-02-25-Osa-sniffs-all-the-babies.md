@@ -3,7 +3,7 @@ layout: post
 title: "Osa sniffs all the babies"
 date: 2011-02-25 12:00:00 -0700
 excerpt: "Just another February week, beginning in sunshine and ending in snow at the coast! We have over ninety ..."
-header-img: "/img/news/92_baby&kid2.jpg"
+header-img: "/img/news/heads/92_baby&kid2.jpg"
 author: Dee Harley
 categories: news
 ---

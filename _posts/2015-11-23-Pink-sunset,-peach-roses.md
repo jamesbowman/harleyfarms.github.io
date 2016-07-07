@@ -3,7 +3,7 @@ layout: post
 title: "Pink sunset, peach roses"
 date: 2015-11-23 12:00:00 -0700
 excerpt: "The Secret Garden is just as magical late in the year as it is in summer, dramatic with ..."
-header-img: "/img/news/184_secretgarden.jpg"
+header-img: "/img/news/heads/184_secretgarden.jpg"
 author: Dee Harley
 categories: news
 ---

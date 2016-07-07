@@ -3,7 +3,7 @@ layout: post
 title: "Fashion with feathers"
 date: 2010-08-05 12:00:00 -0700
 excerpt: "Last Friday night we papered up the barn window and lit the long table runway for the Second ..."
-header-img: "/img/news/77_kayla.jpg"
+header-img: "/img/news/heads/77_kayla.jpg"
 author: Dee Harley
 categories: news
 ---

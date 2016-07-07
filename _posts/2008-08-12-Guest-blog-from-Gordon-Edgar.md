@@ -3,7 +3,7 @@ layout: post
 title: "Guest blog from Gordon Edgar"
 date: 2008-08-12 12:00:00 -0700
 excerpt: "When Dee asked if I would accept any awards Harley Farms might win at the American Cheese Society ..."
-header-img: "/img/news/61_DSCF3906.JPG"
+header-img: "/img/news/heads/61_DSCF3906.JPG"
 author: Dee Harley
 categories: news
 ---

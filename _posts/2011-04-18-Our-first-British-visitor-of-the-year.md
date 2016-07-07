@@ -3,7 +3,7 @@ layout: post
 title: "Our first British visitor of the year"
 date: 2011-04-18 12:00:00 -0700
 excerpt: "We encourage plane-loads of British visitors because they work for their supper. My father and Tony build the ..."
-header-img: "/img/news/97_signcomesdown2.jpg"
+header-img: "/img/news/heads/97_signcomesdown2.jpg"
 author: Dee Harley
 categories: news
 ---

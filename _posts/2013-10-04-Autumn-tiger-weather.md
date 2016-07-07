@@ -3,7 +3,7 @@ layout: post
 title: "Autumn tiger weather"
 date: 2013-10-04 12:00:00 -0700
 excerpt: "We have the dog days of summer, China has their autumn tiger on the prowl, spreading a fierce ..."
-header-img: "/img/news/144_wood.JPG"
+header-img: "/img/news/heads/144_wood.JPG"
 author: Dee Harley
 categories: news
 ---

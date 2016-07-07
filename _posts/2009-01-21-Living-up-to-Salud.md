@@ -3,7 +3,7 @@ layout: post
 title: "Living up to Salud"
 date: 2009-01-21 12:00:00 -0700
 excerpt: "Salud has worked for Harley Farms for 13 years, and knows instinctively by smell, or feel, or taste, ..."
-header-img: "/img/news/69_salud.JPG"
+header-img: "/img/news/heads/69_salud.JPG"
 author: Dee Harley
 categories: news
 ---

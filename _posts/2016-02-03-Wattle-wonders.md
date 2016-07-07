@@ -3,7 +3,7 @@ layout: post
 title: "Wattle wonders"
 date: 2016-02-03 12:00:00 -0700
 excerpt: "A handful of our American Alpines have wattles, those two rather attractive furred protuberances on her neck. You ..."
-header-img: "/img/news/186_wattles2.jpg"
+header-img: "/img/news/heads/186_wattles2.jpg"
 author: Dee Harley
 categories: news
 ---

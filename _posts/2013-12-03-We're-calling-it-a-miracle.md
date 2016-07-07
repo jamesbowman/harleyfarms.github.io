@@ -3,7 +3,7 @@ layout: post
 title: "We're calling it a miracle"
 date: 2013-12-03 12:00:00 -0700
 excerpt: "not a &quot;mistake&quot;. You know how you're never quite sure whether a goat is pregnant or just chubby? ..."
-header-img: "/img/news/148_xmasbabies.jpg"
+header-img: "/img/news/heads/148_xmasbabies.jpg"
 author: Dee Harley
 categories: news
 ---

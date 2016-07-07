@@ -3,7 +3,7 @@ layout: post
 title: "Goat milk for a luxe lifestyle"
 date: 2015-07-02 12:00:00 -0700
 excerpt: "Goat milk is superlative for your skin, a natural combination of vitamins, minerals, alpha-hydroxy acid and essential fatty ..."
-header-img: "/img/news/174_spasign.jpg"
+header-img: "/img/news/heads/174_spasign.jpg"
 author: Dee Harley
 categories: news
 ---

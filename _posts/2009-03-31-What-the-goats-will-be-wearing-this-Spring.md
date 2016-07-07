@@ -3,7 +3,7 @@ layout: post
 title: "What the goats will be wearing this Spring"
 date: 2009-03-31 12:00:00 -0700
 excerpt: "Farm life: mud, afterbirth, curds and whey … and beautiful girls. San Francisco photographer Michele Clement took a ..."
-header-img: "/img/news/26_fashion12.jpg"
+header-img: "/img/news/heads/26_fashion12.jpg"
 author: Dee Harley
 categories: news
 ---

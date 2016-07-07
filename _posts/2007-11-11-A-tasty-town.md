@@ -3,7 +3,7 @@ layout: post
 title: "A tasty town"
 date: 2007-11-11 12:00:00 -0700
 excerpt: "That's my accountant on the right, laughing ..."
-header-img: "/img/news/45_DSC_3216.JPG"
+header-img: "/img/news/heads/45_DSC_3216.JPG"
 author: Dee Harley
 categories: news
 ---

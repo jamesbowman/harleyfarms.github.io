@@ -3,7 +3,7 @@ layout: post
 title: "Sugarcane"
 date: 2009-11-30 12:00:00 -0700
 excerpt: "Sugarcane ..."
-header-img: "/img/news/17_sugarcane.jpg"
+header-img: "/img/news/heads/17_sugarcane.jpg"
 author: Dee Harley
 categories: news
 ---

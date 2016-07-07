@@ -3,7 +3,7 @@ layout: post
 title: "Beautiful people, beautiful cheese"
 date: 2008-04-07 12:00:00 -0700
 excerpt: "On Friday night we put our clean shoes on and drove a truck full of cheese up to ..."
-header-img: "/img/news/51_Picture%20148.jpg"
+header-img: "/img/news/heads/51_Picture%20148.jpg"
 author: Dee Harley
 categories: news
 ---

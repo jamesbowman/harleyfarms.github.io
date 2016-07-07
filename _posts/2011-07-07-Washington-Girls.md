@@ -3,7 +3,7 @@ layout: post
 title: "Washington Girls"
 date: 2011-07-07 12:00:00 -0700
 excerpt: "Good-bye, thank you and love to our Washington Girls! Angela and Lauren are high-school friends from Washington who ..."
-header-img: "/img/news/101_washingtongirls1.JPG"
+header-img: "/img/news/heads/101_washingtongirls1.JPG"
 author: Dee Harley
 categories: news
 ---

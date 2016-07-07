@@ -3,7 +3,7 @@ layout: post
 title: "There are three kinds of men"
 date: 2014-07-24 12:00:00 -0700
 excerpt: "There are three kinds of men ..."
-header-img: "/img/news/156_field.JPG"
+header-img: "/img/news/heads/156_field.JPG"
 author: Dee Harley
 categories: news
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Shangri-La"
 date: 2007-10-30 12:00:00 -0700
 excerpt: "Blossom and Daisy are two of our most sweet-tempered goats, and always on call for milking demonstrations at ..."
-header-img: "/img/news/43_google2.JPG"
+header-img: "/img/news/heads/43_google2.JPG"
 author: Dee Harley
 categories: news
 ---

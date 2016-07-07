@@ -3,7 +3,7 @@ layout: post
 title: "Leader of the Pack"
 date: 2008-03-03 12:00:00 -0700
 excerpt: "About this time of year, I have to call my mother. 'Lisa's in labor!'? Four years ago, we ..."
-header-img: "/img/news/49_chicken1584a.jpg"
+header-img: "/img/news/heads/49_chicken1584a.jpg"
 author: Dee Harley
 categories: news
 ---

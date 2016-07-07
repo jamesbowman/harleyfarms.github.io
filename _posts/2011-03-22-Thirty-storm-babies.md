@@ -3,7 +3,7 @@ layout: post
 title: "Thirty storm babies"
 date: 2011-03-22 12:00:00 -0700
 excerpt: "The weekend storms blew off a barn door, soaked the pastures and garden to a rich squelchy mud, ..."
-header-img: "/img/news/94_stormyskies.jpg"
+header-img: "/img/news/heads/94_stormyskies.jpg"
 author: Dee Harley
 categories: news
 ---

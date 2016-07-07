@@ -3,7 +3,7 @@ layout: post
 title: "More summer wedding moments"
 date: 2015-07-20 12:00:00 -0700
 excerpt: " ..."
-header-img: "/img/news/176_secretgarden.jpg"
+header-img: "/img/news/heads/176_secretgarden.jpg"
 author: Dee Harley
 categories: news
 ---

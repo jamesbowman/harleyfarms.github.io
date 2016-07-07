@@ -3,7 +3,7 @@ layout: post
 title: "A Rolls-Royce in the fields"
 date: 2015-06-08 12:00:00 -0700
 excerpt: "It's June. Wedding season is open. And it's also the season for driving Rolls-Royces through farm fields. ..."
-header-img: "/img/news/171_2008-03-24 22_47_21.jpg"
+header-img: "/img/news/heads/171_2008-03-24 22_47_21.jpg"
 author: Dee Harley
 categories: news
 ---

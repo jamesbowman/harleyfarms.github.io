@@ -3,7 +3,7 @@ layout: post
 title: "\"We loved that guy like he was ours\""
 date: 2010-02-08 12:00:00 -0700
 excerpt: "&quot;Bart was the highlight&quot; ..."
-header-img: "/img/news/71_photos.jpg"
+header-img: "/img/news/heads/71_photos.jpg"
 author: Dee Harley
 categories: news
 ---

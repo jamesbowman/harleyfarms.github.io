@@ -3,7 +3,7 @@ layout: post
 title: "British men looking good"
 date: 2009-02-06 12:00:00 -0700
 excerpt: "We're a month back from Yorkshire, and I'd like to report that British men are looking good! They ..."
-header-img: "/img/news/27_scarecrow.jpg"
+header-img: "/img/news/heads/27_scarecrow.jpg"
 author: Dee Harley
 categories: news
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Teeth, a stare, and a spit"
 date: 2008-07-16 12:00:00 -0700
 excerpt: "Teeth that could star in Pirates of the Caribbean, a stare to match your mother's, and a malevolent ..."
-header-img: "/img/news/60_nastyllama.JPG"
+header-img: "/img/news/heads/60_nastyllama.JPG"
 author: Dee Harley
 categories: news
 ---

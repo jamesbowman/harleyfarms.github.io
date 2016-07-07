@@ -3,7 +3,7 @@ layout: post
 title: "Potty details"
 date: 2011-04-28 12:00:00 -0700
 excerpt: "Enjoy our freshly-plumbed running rainwater sink next to the farm porta-potties! ..."
-header-img: "/img/news/98_portapottysink.jpg"
+header-img: "/img/news/heads/98_portapottysink.jpg"
 author: Dee Harley
 categories: news
 ---

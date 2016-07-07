@@ -3,7 +3,7 @@ layout: post
 title: "Pruning and snacking"
 date: 2013-02-04 12:00:00 -0700
 excerpt: "The neglected apples and pears in the old orchard were heavy with fruit last year, but badly needed ..."
-header-img: "/img/news/131_pruning1.JPG"
+header-img: "/img/news/heads/131_pruning1.JPG"
 author: Dee Harley
 categories: news
 ---

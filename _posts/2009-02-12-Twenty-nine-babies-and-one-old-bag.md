@@ -3,7 +3,7 @@ layout: post
 title: "Twenty-nine babies and one old bag"
 date: 2009-02-12 12:00:00 -0700
 excerpt: "It's been a productive morning. Fourteen babies arrived last night, bringing our total up to 29 - one ..."
-header-img: "/img/news/28_cakecandle1.jpg"
+header-img: "/img/news/heads/28_cakecandle1.jpg"
 author: Dee Harley
 categories: news
 ---

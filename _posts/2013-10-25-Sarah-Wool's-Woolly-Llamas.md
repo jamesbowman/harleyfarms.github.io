@@ -3,7 +3,7 @@ layout: post
 title: "Sarah Wool's Woolly Llamas"
 date: 2013-10-25 12:00:00 -0700
 excerpt: "Sarah Wool is the daughter of Mr. and Mrs. Wool, who shear our llamas, and most of the ..."
-header-img: "/img/news/145_woolllamas.JPG"
+header-img: "/img/news/heads/145_woolllamas.JPG"
 author: Dee Harley
 categories: news
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Elegant and earthy Katy"
 date: 2009-04-17 12:00:00 -0700
 excerpt: "Hyssop. Useful as a medicinal tea ..."
-header-img: "/img/news/22_hyssop.jpg"
+header-img: "/img/news/heads/22_hyssop.jpg"
 author: Dee Harley
 categories: news
 ---

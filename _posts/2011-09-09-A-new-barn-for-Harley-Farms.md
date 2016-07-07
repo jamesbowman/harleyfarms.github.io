@@ -3,7 +3,7 @@ layout: post
 title: "A new barn for Harley Farms"
 date: 2011-09-09 12:00:00 -0700
 excerpt: "It's not new. It's an old barn, twenty years or more older than ours, in the fields south ..."
-header-img: "/img/news/104_topasture.JPG"
+header-img: "/img/news/heads/104_topasture.JPG"
 author: Dee Harley
 categories: news
 ---

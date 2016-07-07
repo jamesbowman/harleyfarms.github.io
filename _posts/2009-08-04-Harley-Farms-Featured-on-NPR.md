@@ -3,7 +3,7 @@ layout: post
 title: "Harley Farms Featured on NPR"
 date: 2009-08-04 12:00:00 -0700
 excerpt: "Harley Farms was featured on NPR's (KQED) &quot;The California Report&quot;.  The story &quot;Where Small Farmers Are Finding Fertile ..."
-header-img: "/img/news/6_cal.jpg"
+header-img: "/img/news/heads/6_cal.jpg"
 author: Dee Harley
 categories: news
 ---

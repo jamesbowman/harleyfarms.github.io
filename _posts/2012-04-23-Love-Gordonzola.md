@@ -3,7 +3,7 @@ layout: post
 title: "Love Gordonzola"
 date: 2012-04-23 12:00:00 -0700
 excerpt: "Gordon Edgar was the voice on the telephone from Rainbow Grocery. Rainbow is a workers' cooperative that grew ..."
-header-img: "/img/news/118_cheese.JPG"
+header-img: "/img/news/heads/118_cheese.JPG"
 author: Dee Harley
 categories: news
 ---

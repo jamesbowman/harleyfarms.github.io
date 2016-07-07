@@ -3,7 +3,7 @@ layout: post
 title: "All our mothers"
 date: 2010-05-10 12:00:00 -0700
 excerpt: "Our new mothers and babies begin a summer of play and growth in the pastures, as we celebrate ..."
-header-img: "/img/news/74_deeinapron.jpg"
+header-img: "/img/news/heads/74_deeinapron.jpg"
 author: Dee Harley
 categories: news
 ---

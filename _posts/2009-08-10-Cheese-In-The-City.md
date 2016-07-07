@@ -3,7 +3,7 @@ layout: post
 title: "Cheese In The City"
 date: 2009-08-10 12:00:00 -0700
 excerpt: "Imagine a group of girlfriends, years back, when they were even younger than they are now. They're passionate ..."
-header-img: "/img/news/11_wedding.jpg"
+header-img: "/img/news/heads/11_wedding.jpg"
 author: Dee Harley
 categories: news
 ---

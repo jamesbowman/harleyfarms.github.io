@@ -3,7 +3,7 @@ layout: post
 title: "Photos of a baby goat"
 date: 2012-02-10 12:00:00 -0700
 excerpt: "The first babies of 2012 were born on Wednesday. As in previous years, we will bottle-feed the babies ..."
-header-img: "/img/news/113_beingborn.JPG"
+header-img: "/img/news/heads/113_beingborn.JPG"
 author: Dee Harley
 categories: news
 ---

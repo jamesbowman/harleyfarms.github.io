@@ -3,7 +3,7 @@ layout: post
 title: "Sweet sixteenth"
 date: 2014-09-15 12:00:00 -0700
 excerpt: "Every year we donate one event in our hayloft and garden. This year we were absolutely delighted to ..."
-header-img: "/img/news/160_pizza1.JPG"
+header-img: "/img/news/heads/160_pizza1.JPG"
 author: Dee Harley
 categories: news
 ---

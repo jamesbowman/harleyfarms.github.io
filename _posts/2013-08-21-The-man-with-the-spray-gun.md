@@ -3,7 +3,7 @@ layout: post
 title: "The man with the spray gun"
 date: 2013-08-21 12:00:00 -0700
 excerpt: "We are painting the outside of our home, the farmhouse next to the dairy, with the white FarmPaint. ..."
-header-img: "/img/news/143_painty1.JPG"
+header-img: "/img/news/heads/143_painty1.JPG"
 author: Dee Harley
 categories: news
 ---
