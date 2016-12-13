@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="keywords" content="Harley, Farms, Award, Winning, American,
+    Alpine, Goat, Dairy, Sustainable, Slow, Food, Healthy, Community, Local,
+    Tours, Dinners, Hayloft, Slow, Food, Chevre, Fromage, Blanc, Ricotta, Feta,
+    Events, Private, Corporate, School, Edible, Flowers, Hayloft, Pescadero,
+    California, Recipes" />
+    <meta name="description" content="Harley Farms, in Pescadero, CA, is a
+    farmstead dairy featuring award-winning cheeses, goat-milk body products
+    and paints. We offer tours, classes, farm dinners, weddings, and private
+    and corporate events.">
+
+    <link href="/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+    <title>{% if page.path == "index.html" %}{% for page in site.pages %}{% if page.index %}{{ page.title }}{% endif %}{% endfor %}{% else %}{{ page.title }}{% endif %}</title>
+
+    <!-- Custom CSS -->
+    <link href="/css/default.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+      <div class="main-container">
+          <div class="nav">
+              <img class="nav-logo" src="img/logo_reverse.png">
+          </div>
+          <div class="top">
+              <img class="top-pic" src="img/intro-bg.jpg">
+          </div>
+          <div class="middle">
+              {{ content }}
+              things and words
+          </div>
+      </div>
+      <!-- Footer -->
+      <footer>
+          <div class="container no-padding no-color footer-inner">
+              <div class="col-md-4">
+                  <img src="/img/logo_reverse.png" class="img-responsive" alt="harley farms" style="margin-bottom: 20px;">
+              </div>
+              <div class="col-md-7 col-md-offset-1">
+                  <p>205 North Street, PO Box 173, Pescadero, CA 94060<br />Farm & Cheese Shop: Thurs-Mon, 11 am-4 pm<br />Closed Easter, Thanksgiving, Christmas Day & New Year's Day</p>
+                  <p>&copy; {{ site.time | date: "%Y" }} Harley Farms, Inc., All Rights Reserved<br /><a href="/sitemap/">Site Map</a> | <a href="/terms/">Terms & Privacy</a></p>
+              </div>
+          </div>
+      </footer>
+
+      <!-- jQuery -->
+      <script src="/js/jquery.js"></script>
+
+  </body>
+</html>
