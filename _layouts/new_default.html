@@ -16,41 +16,47 @@
     and corporate events.">
 
     <link href="/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
-    <title>{% if page.path == "index.html" %}{% for page in site.pages %}{% if page.index %}{{ page.title }}{% endif %}{% endfor %}{% else %}{{ page.title }}{% endif %}</title>
+    <title>
+      {% if page.path == "index.html" %}{% for page in site.pages %}{% if page.index %}{{ page.title }}{% endif %}{% endfor %}{% else %}{{ page.title }}{% endif %}
+    </title>
 
     <!-- Custom CSS -->
-    <link href="/css/default.css" rel="stylesheet">
+    <link href="./css/default.css" rel="stylesheet">
 
   </head>
 
   <body>
-      <div class="main-container">
-          <div class="nav">
-              <img class="nav-logo" src="img/logo_reverse.png">
-          </div>
-          <div class="top">
-              <img class="top-pic" src="img/intro-bg.jpg">
-          </div>
-          <div class="middle">
-              {{ content }}
-              things and words
-          </div>
+    <div class="main-container">
+      <div class="nav">
+        <img class="nav-logo" src="img/logo_reverse.png">
+      </div>
+      <div class="top">
+        <img class="top-pic" src="{{ page.image_top }}">
+      </div>
+      <div class="middle">
+        {% case page.path %}
+          {% when 'index.html' %}
+            lol, ok
+          {% else %}
+            yea
+          {% endcase %} <br>
+
+        image here
+        <p>Very brief intro copy goes here, template images</p>
       </div>
       <!-- Footer -->
-      <footer>
-          <div class="container no-padding no-color footer-inner">
-              <div class="col-md-4">
-                  <img src="/img/logo_reverse.png" class="img-responsive" alt="harley farms" style="margin-bottom: 20px;">
-              </div>
-              <div class="col-md-7 col-md-offset-1">
-                  <p>205 North Street, PO Box 173, Pescadero, CA 94060<br />Farm & Cheese Shop: Thurs-Mon, 11 am-4 pm<br />Closed Easter, Thanksgiving, Christmas Day & New Year's Day</p>
-                  <p>&copy; {{ site.time | date: "%Y" }} Harley Farms, Inc., All Rights Reserved<br /><a href="/sitemap/">Site Map</a> | <a href="/terms/">Terms & Privacy</a></p>
-              </div>
-          </div>
+      <footer class="footer">
+        205 North Street, PO Box 173, Pescadero, CA 94060 <br>
+        Farm &amp; Cheese Shop: Thursday-Monday, 11 am-4 pm <br>
+        Closed Easter, Thanksgiving, Christmas Day &amp; New Year's Day <br>
+        <strong>info@harleyfarm.com</strong><br>
+        <br>
+        &copy; {{ 'now' | date: '%Y' }} Harley Farms, Inc., All Rights Reserved
       </footer>
+    </div>
 
-      <!-- jQuery -->
-      <script src="/js/jquery.js"></script>
+    <!-- jQuery -->
+    <script src="/js/jquery.js"></script>
 
   </body>
 </html>
