@@ -4,6 +4,19 @@ body {
     font-family: Sans-Serif;
 }
 
+button {
+    background: rgba(0, 0, 0, 0.3);
+    border: none;
+}
+
+span, h2 {
+    text-align: center;
+}
+
+span, p {
+    font-size: 11px;
+}
+
 .main-container {
     flex-direction: column;
     width: 100%;
@@ -83,21 +96,31 @@ body {
     width: 33%;
 }
 
-.signup-bod {
-    /* display: flex; */
+.signup-bod * {
+    color: white;
 }
 
 .lower-form {
     display: flex;
     flex-direction: column;
+    justify-content: center;
     align-items: center;
     height: 100%;
     width: 100%;
-    margin: auto;
 }
 
 .lower-form > * {
-    padding: 10px;
+    margin: 5px;
+    max-width: 70%;
     flex-grow: 1;
-    margin: auto;
+}
+
+.lower-form > input {
+    padding: 15px;
+}
+
+.lower-form > button {
+    margin: 15px;
+    padding: 10px;
+    max-width: 30%;
 }
