@@ -17,10 +17,14 @@ span, p {
     font-size: 11px;
 }
 
+.intro {
+    padding: 5px;
+}
+
 .main-container {
     flex-direction: column;
     width: 100%;
-    background: #aa0000;
+    background: #aaaaaa;
     background-image: url("../img/new/main/seamless_bg.jpg");
     background-repeat: repeat;
 }
@@ -76,8 +80,24 @@ span, p {
 }
 
 .center-content {
+    margin: 0 auto;
+    max-width: 1000px;
+}
+
+.center-content * {
+    color: #666666;
+}
+
+.intro {
+    font-size: 17px;
+}
+
+.center-pics {
+    margin-top: 100px;
+    margin-bottom: 100px;
     display: flex;
     flex-direction: row:
+    flex-wrap: wrap;
     align-items: center;
     justify-content: center;
 }
@@ -85,15 +105,16 @@ span, p {
 .left {
     display: flex;
     flex-direction: column;
-    flex-wrap: wrap;
-    width: 33%;
 } 
 
 .right {
     display: flex;
     flex-direction: column;
+}
+
+.signup {
+    display: flex;
     flex-wrap: wrap;
-    width: 33%;
 }
 
 .signup-bod * {
