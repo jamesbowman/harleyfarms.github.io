@@ -3,4 +3,3 @@ _site/*
 *.sublime-project
 *.sublime-workspace
 hours
-deploy.sh
