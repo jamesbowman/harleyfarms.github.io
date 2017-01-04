@@ -17,6 +17,19 @@ span, p {
     font-size: 11px;
 }
 
+h1, h2 {
+    font-family: 'Sue Ellen Francisco', cursive;
+    font-weight: lighter;
+}
+
+h1 {
+    font-size: 80px;
+}
+
+h2 {
+    font-size: 60px;
+}
+
 .intro {
     padding: 5px;
 }
@@ -98,7 +111,6 @@ span, p {
     display: flex;
     flex-direction: row:
     flex-wrap: wrap;
-    align-items: center;
     justify-content: center;
 }
 
