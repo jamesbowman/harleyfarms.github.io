@@ -63,9 +63,6 @@ a {
     position:fixed;
 }
 
-.fixed {
-}
-
 .nav-logo {
     max-height: 100%;
     width: auto;
@@ -85,16 +82,16 @@ a {
 
 .signup {
     margin-top: 150px;
-    margin-bottom: 75px;
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
     align-items: center;
     justify-content: center;
 }
 
 .signup > * {
-    margin: 10px;
     background: rgba(0, 0, 0, 0.3);
+    margin: 10px;
     width: 350px;
     height: 350px;
 }
@@ -114,17 +111,33 @@ a {
 }
 
 .center-pics {
-    margin-top: 100px;
-    margin-bottom: 100px;
     display: flex;
     flex-direction: row:
     flex-wrap: wrap;
     justify-content: center;
 }
 
+.icons {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.icons > * {
+    padding: 5px;
+    width: 75px;
+}
+
 .left, .right{
     display: flex;
     flex-direction: column;
+}
+
+.left *, .right * {
+    margin: 3px;
 }
 
 .signup-bod * {
