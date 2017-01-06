@@ -1,68 +1,68 @@
 <!DOCTYPE html>
 <html lang="en">
 
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="keywords" content="Harley, Farms, Award, Winning, American,
-    Alpine, Goat, Dairy, Sustainable, Slow, Food, Healthy, Community, Local,
-    Tours, Dinners, Hayloft, Slow, Food, Chevre, Fromage, Blanc, Ricotta, Feta,
-    Events, Private, Corporate, School, Edible, Flowers, Hayloft, Pescadero,
-    California, Recipes" />
-    <meta name="description" content="Harley Farms, in Pescadero, CA, is a
-    farmstead dairy featuring award-winning cheeses, goat-milk body products
-    and paints. We offer tours, classes, farm dinners, weddings, and private
-    and corporate events.">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="keywords" content="Harley, Farms, Award, Winning, American,
+        Alpine, Goat, Dairy, Sustainable, Slow, Food, Healthy, Community, Local,
+        Tours, Dinners, Hayloft, Slow, Food, Chevre, Fromage, Blanc, Ricotta, Feta,
+        Events, Private, Corporate, School, Edible, Flowers, Hayloft, Pescadero,
+        California, Recipes" />
+        <meta name="description" content="Harley Farms, in Pescadero, CA, is a
+        farmstead dairy featuring award-winning cheeses, goat-milk body products
+        and paints. We offer tours, classes, farm dinners, weddings, and private
+        and corporate events.">
 
-    <link href="/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+        <link href="/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
 
-    <link href="https://fonts.googleapis.com/css?family=Sue+Ellen+Francisco" rel="stylesheet">
-    <title>
-      {% if page.path == "index.html" %}{% for page in site.pages %}{% if page.index %}{{ page.title }}{% endif %}{% endfor %}{% else %}{{ page.title }}{% endif %}
-    </title>
+        <link href="https://fonts.googleapis.com/css?family=Sue+Ellen+Francisco" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+        <title>
+            {% if page.path == "index.html" %}{% for page in site.pages %}{% if page.index %}{{ page.title }}{% endif %}{% endfor %}{% else %}{{ page.title }}{% endif %}
+        </title>
 
-    <!-- Custom CSS -->
-    <link href="./css/default.css" rel="stylesheet">
+        <!-- Custom CSS -->
+        <link href="./css/default.css" rel="stylesheet">
 
-  </head>
+    </head>
 
-  <body>
-    <div class="main-container">
-      <div class="nav">
-        <img class="nav-logo" src="img/logo_reverse.png">
-      </div>
-      <div class="top">
-        <img class="top-pic" src="{{ page.image_top }}">
-      </div>
-      <div class="middle">
-        {{ content }}
-      </div>
-      <div class="lower">
-        <img class="lower-pic" src="{{ page.image_lower }}">
-      </div>
-      <div class="signup">
-        <div class="signup-img">
-          <img class="signup-pic" src="{{ page.image_signup }}">
+    <body>
+        <div class="main-container">
+            <div class="nav">
+                <img class="nav-logo" src="img/logo_reverse.png">
+            </div>
+            <div class="top">
+                <img class="top-pic" src="{{ page.image_top }}">
+            </div>
+            <div class="middle">
+                {{ content }}
+            </div>
+            <div class="lower">
+                <img class="lower-pic" src="{{ page.image_lower }}">
+            </div>
+            <div class="signup">
+                <div class="signup-img">
+                    <img class="signup-pic" src="{{ page.image_signup }}">
+                </div>
+                <div class="signup-bod">
+                    {% include {{ page.form }} %}
+                </div>
+            </div>
+            <footer class="footer">
+                <p class="footer-text">
+                205 North Street, PO Box 173, Pescadero, CA 94060 <br>
+                Farm &amp; Cheese Shop: Thursday-Monday, 11 am-4 pm <br>
+                Closed Easter, Thanksgiving, Christmas Day &amp; New Year's Day <br>
+                <strong><a href="mailto:info@harleyfarms.com">info@harleyfarms.com</a></strong><br>
+                <br>
+                &copy; {{ 'now' | date: '%Y' }} Harley Farms, Inc., All Rights Reserved
+                </p>
+            </footer>
         </div>
-        <div class="signup-bod">
-          {% include {{ page.form }} %}
-        </div>
-      </div>
-      <footer class="footer">
-        <p class="footer-text">
-          205 North Street, PO Box 173, Pescadero, CA 94060 <br>
-          Farm &amp; Cheese Shop: Thursday-Monday, 11 am-4 pm <br>
-          Closed Easter, Thanksgiving, Christmas Day &amp; New Year's Day <br>
-          <strong>info@harleyfarm.com</strong><br>
-          <br>
-          &copy; {{ 'now' | date: '%Y' }} Harley Farms, Inc., All Rights Reserved
-        </p>
-      </footer>
-    </div>
 
-    <!-- jQuery -->
-    <script src="/js/jquery.js"></script>
+        <script src="/js/jquery.js"></script>
 
-  </body>
+    </body>
 </html>
