@@ -123,11 +123,18 @@ a {
 }
 
 .center-text {
-    display: inline;
     border-bottom: 1px solid #9e9e94;
-    margin: 100px;
     text-align: left;
-    padding-bottom: 20px;
+    margin: 13px;
+    margin-bottom: 15px;
+    width: 95%;
+    padding-bottom: 15px;
+    display: inline block;
+}
+
+.center-text * {
+    padding: 0px;
+    margin: 0px;
 }
 
 .pics-sideways {
@@ -158,8 +165,8 @@ a {
     flex-direction: column;
 }
 
-.left *, .right * {
-    margin: 3px;
+.left img, .right img {
+    margin: 10px;
 }
 
 .signup-bod * {
