@@ -47,7 +47,7 @@ a {
     flex-direction: column;
     width: 100%;
     background: #aaaaaa;
-    background-image: url("../img/new/main/seamless_bg.jpg");
+    background-image: url("../img/new/main/seamless_bg_small.jpg");
     background-repeat: repeat;
 }
 
@@ -104,6 +104,7 @@ a {
 .center-content {
     margin: 0 auto;
     max-width: 750px;
+    padding-bottom: 150px;
 }
 
 .center-content * {
@@ -115,6 +116,27 @@ a {
     flex-direction: row:
     flex-wrap: wrap;
     justify-content: center;
+}
+
+.center-pics img {
+    zoom: 40%;
+}
+
+.center-text {
+    display: inline;
+    border-bottom: 1px solid #9e9e94;
+    margin: 100px;
+    text-align: left;
+    padding-bottom: 20px;
+}
+
+.pics-sideways {
+    display: flex;
+    width: 100%;
+}
+
+.pics-sideways * {
+    padding: 0px;
 }
 
 .icons {
