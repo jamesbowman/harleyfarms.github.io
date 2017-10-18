@@ -39,6 +39,10 @@ a {
     color: black;
 }
 
+hr {
+    border-top: 1px solid #9e9e94;
+}
+
 .intro {
     padding: 5px;
 }
@@ -95,10 +99,6 @@ a {
     justify-content: space-between;
 }
 
-.hack {
-    padding-top: 0;
-}
-
 .signup > * {
     background: rgba(0, 0, 0, 0.3);
     margin: 10px;
@@ -117,8 +117,22 @@ a {
     padding-bottom: 150px;
 }
 
-.center-content * {
+.shop-center-content {
+    margin: 0 auto;
+    max-width: 750px;
+}
+
+.shop-center-content *, .center-content * {
     color: #58595b;
+}
+
+.center-text {
+    border-bottom: 1px solid #9e9e94;
+    text-align: left;
+    margin: 13px;
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+    display: inline block;
 }
 
 .center-pics {
@@ -128,14 +142,15 @@ a {
     justify-content: center;
 }
 
-.center-text {
-    border-bottom: 1px solid #9e9e94;
-    text-align: left;
-    margin: 13px;
-    margin-bottom: 15px;
-    width: 95%;
-    padding-bottom: 15px;
-    display: inline block;
+.home-center-pics {
+    display: flex;
+    flex-direction: row:
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.center-pics img {
+    box-shadow: 2px 2px 1px gray;
 }
 
 .center-text * {
@@ -157,28 +172,12 @@ a {
     display: inline block;
 }
 
-.left {
-    align-items: end;
-}
-
-.right {
-    align-items: start;
-}
-
-.left > img {
-    margin: 13px;
-}
-
-.right > img {
-    margin: 13px;
-}
-
 .adj-pics > *:first-child {
-    padding-right: 13px;
+    margin-right: 13px;
 }
 
 .adj-pics > *:last-child {
-    padding-left: 13px;
+    margin-left: 13px;
 }
 
 .icons {
@@ -195,9 +194,30 @@ a {
     width: 50px;
 }
 
-.left, .right{
+.left {
+    align-items: end;
+}
+
+.right {
+    align-items: start;
+}
+
+.left, .right {
     display: flex;
     flex-direction: column;
+}
+
+.left-reverse, .right-reverse {
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.left > img {
+    margin: 13px;
+}
+
+.right > img {
+    margin: 13px;
 }
 
 img {
@@ -207,6 +227,13 @@ img {
 
 .dummy {
     width: 100%;
+}
+
+.shop-signup-bod {
+    background: rgba(0, 0, 0, 0.3);
+    margin: 13px;
+    color: white;
+    height: 375.5px;
 }
 
 .signup-bod * {

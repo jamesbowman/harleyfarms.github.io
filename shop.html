@@ -1,12 +1,11 @@
 ---
-layout: new_default
+layout: new_shop
 image_top: img/new/shop/shop_main.jpg
-image_lower: img/new/shop/shop_lower.jpg
 image_signup: img/new/shop/shop_signup.jpg
 form: tour.html
 ---
 
-<div class="center-content">
+<div class="shop-center-content">
   <h1>Farm Shop</h1>
   <p class="intro">
   Picnic on the farm or take home a souvenir of Pescadero. The farm shop is in
@@ -16,23 +15,64 @@ form: tour.html
   </p>
   <div class="center-pics">
     <div class="left">
-      <img src="img/new/shop/shop_l1.jpg">
+      <div class="adj-pics">
+        <div class="dummy"></div>
+        <img src="img/new/shop/shop_l1.jpg">
+      </div>
       <img src="img/new/shop/shop_l2.jpg">
-      <img src="img/new/shop/shop_l3.jpg">
-      <img src="img/new/shop/shop_l4.jpg">
-    </div>
-  <div class="right">
-      <img src="img/new/shop/shop_r1.jpg">
-      <img src="img/new/shop/shop_r2.jpg">
       <div class="center-text">
-        <h3>Working Animals</h3>
+        <h3>Cheese</h3>
         <p>
-          Where there is grain, there are field mice. There are several cats on
-          the farm.  If you see them asleep, encourage them to get up and get
-          back to work.
+          We make farmstead dairy cheese, which is cheese from animals raised on
+          our farm. It does not get better than this, which is why the chevre
+          with herbs and flowers holds a World Gold Medal.
         </p>
       </div>
-      <img src="img/new/animals/animals_r3.jpg">
+    </div>
+    <div class="right">
+      <img src="img/new/shop/shop_r1.jpg">
+    </div>
+  </div>
+    <hr/>
+  <div class="center-pics">
+    <div class="left-reverse">
+        <div class="center-text">
+          <h3>Farm Pantry</h3>
+          <p>
+            When you have something delicious in the pantry, you are ready for
+            anything.
+          </p>
+        </div>
+    </div>
+    <div class="right">
+      <img src="img/new/shop/shop_r2.jpg">
+    </div>
+  </div>
+  <hr/>
+  <div class="center-pics">
+    <div class="left">
+        <img src="img/new/shop/shop_l3.jpg">
+    </div>
+    <div class="right">
+        <div class="center-text">
+          <h3>Bath and Body</h3>
+          <p>
+            Proper soap and lotions made from our fresh goat milk and other
+            ethically-sourced ingredients. Unscented and delicately scented,
+            for all skins.
+          </p>
+        </div>
+        <img src="img/new/shop/shop_r3.jpg">
+    </div>
+  </div>
+  <div class="center-pics">
+    <div class="left">
+        <img src="img/new/shop/shop_signup.jpg">
+    </div>
+    <div class="right">
+      <div class="shop-signup-bod">
+          {% include {{ page.form }} %}
+      </div>
     </div>
   </div>
 </div>
