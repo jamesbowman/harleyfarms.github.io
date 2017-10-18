@@ -45,7 +45,6 @@ a {
 
 .main-container {
     flex-direction: column;
-    width: 100%;
     background: #aaaaaa;
     background-image: url("../img/new/main/seamless_bg_small.jpg");
     background-repeat: repeat;
@@ -89,6 +88,17 @@ a {
     justify-content: center;
 }
 
+.adj-pics {
+    margin: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.hack {
+    padding-top: 0;
+}
+
 .signup > * {
     background: rgba(0, 0, 0, 0.3);
     margin: 10px;
@@ -118,10 +128,6 @@ a {
     justify-content: center;
 }
 
-.center-pics img {
-    zoom: 40%;
-}
-
 .center-text {
     border-bottom: 1px solid #9e9e94;
     text-align: left;
@@ -146,6 +152,35 @@ a {
     padding: 0px;
 }
 
+.adj-pics {
+    margin: 13px;
+    display: inline block;
+}
+
+.left {
+    align-items: end;
+}
+
+.right {
+    align-items: start;
+}
+
+.left > img {
+    margin: 13px;
+}
+
+.right > img {
+    margin: 13px;
+}
+
+.adj-pics > *:first-child {
+    padding-right: 13px;
+}
+
+.adj-pics > *:last-child {
+    padding-left: 13px;
+}
+
 .icons {
     margin-top: 50px;
     margin-bottom: 50px;
@@ -165,8 +200,13 @@ a {
     flex-direction: column;
 }
 
-.left img, .right img {
-    margin: 10px;
+img {
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.dummy {
+    width: 100%;
 }
 
 .signup-bod * {
