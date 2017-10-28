@@ -47,6 +47,10 @@ hr {
     padding: 5px;
 }
 
+.lookbook {
+    box-shadow: none!important;
+}
+
 .main-container {
     flex-direction: column;
     background: #aaaaaa;
@@ -205,6 +209,10 @@ hr {
 .left, .right {
     display: flex;
     flex-direction: column;
+}
+
+.left-reverse {
+    align-items: end;
 }
 
 .left-reverse, .right-reverse {
