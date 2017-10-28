@@ -49,6 +49,7 @@ hr {
 
 .lookbook {
     box-shadow: none!important;
+    max-width: 50%;
 }
 
 .main-container {
