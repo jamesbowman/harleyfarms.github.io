@@ -22,7 +22,7 @@ span, p {
 h1, h2 {
     font-family: 'Sue Ellen Francisco', cursive;
     font-weight: lighter;
-    line-height: 60px;
+    line-height: 72px;
     padding-top: 10px;
 }
 
@@ -72,12 +72,18 @@ hr {
 }
 
 .nav-logo {
+    margin-left: 15px;
+    margin-top: 15px;
     max-height: 100%;
     width: auto;
 }
 
-.top {
-    line-height: 0;
+.top-pic {
+    box-shadow: 0px 1px 2px rgba(0,0,0,0.5);
+    display: block;
+    object-fit: cover;
+    width: 100vw;
+    height: 100vh;
 }
 
 .middle {
@@ -86,6 +92,10 @@ hr {
 
 .lower {
     line-height: 0;
+}
+
+.lower-pic {
+    box-shadow: 0px -1px 2px rgba(0,0,0,0.5);
 }
 
 .signup {
@@ -122,22 +132,11 @@ hr {
     padding-bottom: 150px;
 }
 
-.shop-center-content {
-    margin: 0 auto;
-    max-width: 750px;
-}
-
-.shop-center-content *, .center-content * {
-    color: #58595b;
-}
-
 .center-text {
     border-bottom: 1px solid #9e9e94;
     text-align: left;
-    margin: 13px;
     margin-bottom: 15px;
     padding-bottom: 15px;
-    display: inline block;
 }
 
 .center-pics {
@@ -145,6 +144,16 @@ hr {
     flex-direction: row:
     flex-wrap: wrap;
     justify-content: center;
+}
+
+.bottom-border {
+    padding: 13px;
+    left: -13px;
+    border-bottom: 1px solid #9e9e94;
+}
+
+.no-border {
+    border: none!important;
 }
 
 .home-center-pics {
@@ -155,21 +164,16 @@ hr {
 }
 
 .center-pics img {
-    box-shadow: 2px 2px 1px gray;
+    box-shadow: -1px 1px 2px rgba(0,0,0,0.5);
+}
+
+.signup-img {
+    box-shadow: -1px 1px 2px rgba(0,0,0,0.5);
 }
 
 .center-text * {
     padding: 0px;
     margin: 0px;
-}
-
-.pics-sideways {
-    display: flex;
-    width: 100%;
-}
-
-.pics-sideways * {
-    padding: 0px;
 }
 
 .adj-pics {
@@ -199,11 +203,11 @@ hr {
     width: 50px;
 }
 
-.left {
+.left, .left-reverse {
     align-items: end;
 }
 
-.right {
+.right, .right-reverse {
     align-items: start;
 }
 
@@ -212,21 +216,17 @@ hr {
     flex-direction: column;
 }
 
-.left-reverse {
-    align-items: end;
-}
-
 .left-reverse, .right-reverse {
     display: flex;
     flex-direction: column-reverse;
 }
 
-.left > img {
+.left > *, .right > *, .left-reverse > *, .right-reverse > * {
     margin: 13px;
 }
 
-.right > img {
-    margin: 13px;
+.spaced {
+    justify-content: space-between;
 }
 
 img {
