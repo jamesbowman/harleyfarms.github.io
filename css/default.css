@@ -146,9 +146,16 @@ hr {
 
 .center-pics {
     display: flex;
-    flex-direction: row:
-    flex-wrap: wrap;
+    flex-direction: row;
     justify-content: center;
+}
+
+@media screen and (orientation: portrait) {
+
+    .center-pics {
+        flex-direction: column;
+    }
+
 }
 
 .bottom-border {
