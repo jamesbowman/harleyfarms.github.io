@@ -1,4 +1,5 @@
 body {
+    height: 100%;
     margin: 0;
     padding: 0;
     font-family: 'Lato', sans-serif;
@@ -107,13 +108,6 @@ hr {
     justify-content: center;
 }
 
-.adj-pics {
-    margin: 0;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-}
-
 .signup > * {
     background: rgba(0, 0, 0, 0.3);
     margin: 10px;
@@ -150,14 +144,11 @@ hr {
     justify-content: center;
 }
 
-@media screen and (orientation: portrait) {
-
-    .center-pics {
-        flex-direction: column;
-    }
-
+.home-center-pics {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
 }
-
 .bottom-border {
     padding: 13px;
     left: -13px;
@@ -168,14 +159,8 @@ hr {
     border: none!important;
 }
 
-.home-center-pics {
-    display: flex;
-    flex-direction: row:
-    flex-wrap: wrap;
-    justify-content: center;
-}
-
 .center-pics img {
+    width: 100%;
     box-shadow: -1px 1px 2px rgba(0,0,0,0.5);
 }
 
@@ -189,8 +174,10 @@ hr {
 }
 
 .adj-pics {
-    margin: 13px;
-    display: inline block;
+    margin: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 }
 
 .adj-pics > *:first-child {
@@ -216,25 +203,28 @@ hr {
 }
 
 .left, .left-reverse {
-    align-items: end;
+    align-items: flex-end;
 }
 
 .right, .right-reverse {
-    align-items: start;
+    align-items: flex-start;
 }
 
 .left, .right {
+    padding: 13px;
     display: flex;
     flex-direction: column;
 }
 
 .left-reverse, .right-reverse {
+    padding: 13px;
     display: flex;
     flex-direction: column-reverse;
 }
 
 .left > *, .right > *, .left-reverse > *, .right-reverse > * {
-    margin: 13px;
+    margin-bottom: 13px;
+    margin-top: 13px;;
 }
 
 .spaced {
@@ -285,3 +275,27 @@ img {
     padding: 10px;
     max-width: 30%;
 }
+
+@media screen and (orientation: portrait) {
+
+    body {
+        font-size: 22px;
+    }
+
+    .center-pics, .home-center-pics {
+        flex-direction: column;
+    }
+
+    .center-text {
+        text-align: center;
+    }
+
+    .left, .right, .left-reverse, .right-reverse {
+        padding: 0px;
+    }
+
+    .center-content {
+        width: 85%;
+    }
+}
+
