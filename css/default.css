@@ -240,14 +240,7 @@ img {
     width: 100%;
 }
 
-.shop-signup-bod {
-    background: rgba(0, 0, 0, 0.3);
-    margin: 13px;
-    color: white;
-    height: 375.5px;
-}
-
-.signup-bod * {
+.white-text {
     color: white;
 }
 
@@ -270,10 +263,12 @@ img {
     padding: 5px;
 }
 
-.lower-form > button {
+.form-submit-button {
     margin: 15px;
     padding: 10px;
     max-width: 30%;
+    background: rgba(0, 0, 0, 0.3);
+    border: none;
 }
 
 @media screen and (orientation: portrait) {
