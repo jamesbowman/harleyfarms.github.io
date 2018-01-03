@@ -1,8 +1,8 @@
 ---
 title: Farm News
 layout: new_default
-image_top: /img/new/home/home_main.jpg
-image_lower: /img/new/home/home_lower_large.jpg
+image_top: /img/new/news/news_main.jpg
+image_lower: /img/new/news/news_lower_large.jpg
 image_signup: /img/new/home/home_signup.jpg
 form: newsletter.html
 ---
@@ -27,7 +27,7 @@ form: newsletter.html
   {% endfor %}
 
   <div class="blog-page-nav">
-    <div style="flex-grow: 1">
+    <div style="flex-grow: 1; width: 50%;">
       {% if paginator.previous_page_path != nil %}
         <a href="{{ paginator.previous_page_path }}"><h2>Previous</h2></a>
       {% endif %}
@@ -55,7 +55,7 @@ form: newsletter.html
       </ul>
     </div>
 
-    <div style="flex-grow: 1;">
+    <div style="flex-grow: 1; width: 50%;">
       {% if paginator.next_page_path != nil %}
         <a href="{{ paginator.next_page_path }}"><h2>Next</h2></a>
       {% endif %}
