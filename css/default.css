@@ -271,6 +271,49 @@ img {
     border: none;
 }
 
+.blog-page-nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.blog-page-number {
+    display: inline;
+    font-size: 18px;
+}
+
+.center-children {
+    flex-grow: 2;
+    display: flex;
+    align-items: center;
+}
+
+.blog-post {
+    display: flex;
+    flex-direction: row;
+}
+
+.no-underline {
+    text-decoration: none;
+}
+
+.blog-post > * {
+    margin: 13px;
+}
+
+.blog {
+    text-align: left;
+}
+
+.blog-post-body img {
+    max-width: 75%;
+    display: block;
+}
+
+.blog-post-body > p {
+    display: flex;
+    justify-content: center;
+}
+
 @media screen and (orientation: portrait) {
 
     body {

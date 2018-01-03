@@ -2,4 +2,5 @@
 _site/*
 *.sublime-project
 *.sublime-workspace
+img/**
 hours

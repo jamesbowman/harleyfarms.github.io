@@ -1,81 +1,65 @@
 ---
-layout: default
-id: 14
 title: Farm News
-blog: true
-link: /news/
+layout: new_default
+image_top: /img/new/home/home_main.jpg
+image_lower: /img/new/home/home_lower_large.jpg
+image_signup: /img/new/home/home_signup.jpg
+form: newsletter.html
 ---
-<div class="hidden-xs" style="height: 120px"></div>
-<div class="visible-xs" style="height: 70px"></div>
-<div class="container" style="padding-top: 25px; padding-bottom: 25px;">
-    <a href="{{ paginator.posts[0].url }}"><img src="{{ paginator.posts[0].header-img }}" class="img-responsive" alt=""></a>
-</div>
-<div class="container">
-<!--
-    <p style="text-align: center; color: #9ca1aa;">WRITTEN BY {{ paginator.posts[0].author | upcase }} ON {{ paginator.posts[0].date | date: "%d %B %Y" | upcase }}.</p>
--->
-    <p style="text-align: center; color: #9ca1aa;">POSTED {{ paginator.posts[0].date | date: "%d %B %Y" | upcase }}.</p>
-    <h2 style="text-align: center;">{{ paginator.posts[0].title | upcase }}</h2>
-    <hr />
-    <p style="color: rgb(99, 104, 115);">{{ paginator.posts[0].excerpt }}</p>
-    <p style="text-align: center;"><a href="{{ paginator.posts[0].url }}" class="pill">READ MORE</a></p>
-</div>
-<div class="container">
-{% assign n = 1 %}
-{% for post in paginator.posts offset:1 %}
-    {% if n == 1 %}
-        <div class="row" style="margin-top: 25px;">
-    {% endif %}
-    <div class="col-md-6">
-        <p><a href="{{ post.url }}"><img src="{{ post.header-img }}" alt="" class="img-responsive"></a></p>
-        <p style="text-align: center; color: #9ca1aa;">POSTED {{ post.date | date: "%d %B %Y" | upcase }}.</p>
-        <h2 style="text-align: center;">{{ post.title | upcase }}</h2>
-        <p style="color: rgb(99, 104, 115);">{{ post.excerpt }}</p>
-        <p style="text-align: center;"><a href="{{ post.url }}" class="pill">READ MORE</a></p>
+
+<div class="center-content">
+  <h1>Farm News</h1>
+
+  {% for post in paginator.posts %}
+    <a class="no-underline" href="{{ post.url }}">
+      <div class="blog-post">
+          <img src="{{ post.header-img }}">
+          <div>
+            <div class="center-text">
+              <h3>{{ post.title }}</h3>
+              <p>
+                {{ post.excerpt }}
+              </p>
+            </div>
+          </div>
+      </div>
+    </a>
+  {% endfor %}
+
+  <div class="blog-page-nav">
+    <div style="flex-grow: 1">
+      {% if paginator.previous_page_path != nil %}
+        <a href="{{ paginator.previous_page_path }}"><h2>Previous</h2></a>
+      {% endif %}
     </div>
-    {% if n == 2 or forloop.last == true %}
-        </div>
-        {% assign n = 1 %}
-    {% else %}
-        {% assign n = n | plus: 1%}
-    {% endif %}
-{% endfor %}
-<div class="row" style="margin-top: 25px;">
-    <div class="col-md-12">
-        <nav class="pagination-custom text-center">
-          <ul class="pagination">
-            {% if paginator.previous_page_path == nil %}
-            <li class="disabled">
-              <a aria-label="Previous">
-                <span aria-hidden="true">&laquo;</span>
-                </a>
-            </li>
-            {% else %}
-            <li>
-              <a href="{{ paginator.previous_page_path }}" aria-label="Previous">
-                <span aria-hidden="true">&laquo;</span>
-                </a>
-            </li>
-            {% endif %}
-            <li{% if paginator.page == 1 %} class="active"{% endif %}><a href="/news/">1</a></li>
-            {% for i in (2..paginator.total_pages) %}
-            <li{% if paginator.page == i %} class="active"{% endif %}><a href="/news/page{{ i }}/">{{ i }}</a></li>
-            {% endfor %}
-            {% if paginator.next_page_path == nil %}
-            <li class="disabled">
-              <a aria-label="Next">
-                <span aria-hidden="true">&raquo;</span>
-                </a>
-            </li>
-            {% else %}
-            <li>
-              <a href="{{ paginator.next_page_path }}" aria-label="Next">
-                <span aria-hidden="true">&raquo;</span>
-                </a>
-            </li>
-            {% endif %}
-</ul>
-</nav>
+
+    <div class="center-children" style="flex-grow: 2;">
+      <ul style="width: 100%;">
+        <li class="blog-page-number"><a href="/news/">1</a></li>
+        <li class="blog-page-number">..</li>
+        {% assign first = paginator.page | minus: 5 %}
+        {% assign last = paginator.page | plus: 5 %}
+        {% if last >= paginator.total_pages %}
+          {% assign end = paginator.total_pages %}
+        {% else %}
+          {% assign end = last %}
+        {% endif %}
+        {% if first < 2 %}
+          {% assign begin = 2 %}
+        {% else %}
+          {% assign begin = first %}
+        {% endif %}
+        {% for i in (begin..end) %}
+          <li class="blog-page-number"><a href="/news/page{{ i }}/">{{ i }}</a></li>
+        {% endfor %}
+      </ul>
     </div>
-</div>
+
+    <div style="flex-grow: 1;">
+      {% if paginator.next_page_path != nil %}
+        <a href="{{ paginator.next_page_path }}"><h2>Next</h2></a>
+      {% endif %}
+    </div>
+  </div>
+
 </div>
