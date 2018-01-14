@@ -27,13 +27,13 @@ form: newsletter.html
   {% endfor %}
 
   <div class="blog-page-nav">
-    <div style="flex-grow: 1; width: 50%;">
+    <div>
       {% if paginator.previous_page_path != nil %}
         <a href="{{ paginator.previous_page_path }}"><h2>Previous</h2></a>
       {% endif %}
     </div>
 
-    <div class="center-children" style="flex-grow: 2;">
+    <div class="center-children">
       <ul style="width: 100%;">
         <li class="blog-page-number"><a href="/news/">1</a></li>
         <li class="blog-page-number">..</li>
@@ -55,7 +55,7 @@ form: newsletter.html
       </ul>
     </div>
 
-    <div style="flex-grow: 1; width: 50%;">
+    <div>
       {% if paginator.next_page_path != nil %}
         <a href="{{ paginator.next_page_path }}"><h2>Next</h2></a>
       {% endif %}
