@@ -63,6 +63,13 @@ hr {
   max-width: 50%;
 }
 
+.tours-tape {
+  box-shadow: none !important;
+  max-width: 25%;
+  padding-top: 40px;
+  padding-bottom: 80px;
+}
+
 .main-container {
   flex-direction: column;
   background: #aaaaaa;
