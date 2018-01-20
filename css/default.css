@@ -53,6 +53,9 @@ hr {
 
 .intro {
   padding: 5px;
+  font-size: 18pt;
+  font-weight: 100;
+  line-height: 26px;
 }
 
 .lookbook {
