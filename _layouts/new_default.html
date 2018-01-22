@@ -18,7 +18,7 @@
         <link href="/img/new/icons/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
 
         <link href="https://fonts.googleapis.com/css?family=Sue+Ellen+Francisco" rel="stylesheet">
-        <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet">
         <title>
             {% if page.path == "index.html" %}{% for page in site.pages %}{% if page.index %}{{ page.title }}{% endif %}{% endfor %}{% else %}{{ page.title }}{% endif %}
         </title>
@@ -32,17 +32,18 @@
                 <a href="/index.html">
                   <img class="nav-logo" src="/img/new/goat.png">
                 </a>
-                <input type="image" src="img/new/icons/hamburger.png" onclick="showMenu()" class="nav-burger">
+                <input type="image" value="&nbsp;" src="/img/new/icons/hamburger.png" onclick="showMenu()" class="nav-burger">
                   <div id="dropdown" class="dropdown-menu">
-                    <a href="index.html">Home</a>
-                    <a href="about.html">About</a>
-                    <a href="animals.html">Animals</a>
-                    <a href="contact.html">Contact</a>
-                    <a href="dinner.html">Dinner</a>
-                    <a href="events.html">Events</a>
-                    <a href="shop.html">Shop</a>
-                    <a href="tours.html">Tours</a>
-                    <a href="weddings.html">Weddings</a>
+                    <a href="/index.html">Home</a>
+                    <a href="/about.html">About</a>
+                    <a href="/animals.html">Animals</a>
+                    <a href="/dinner.html">Dinner</a>
+                    <a href="/events.html">Events</a>
+                    <a href="/shop.html">Shop</a>
+                    <a href="/tours.html">Tours</a>
+                    <a href="/weddings.html">Weddings</a>
+                    <a href="/news/index.html">Farm News</a>
+                    <a href="/contact.html">Contact</a>
                   </div>
                 </input>
             </div>

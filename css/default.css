@@ -3,8 +3,8 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'Lato', sans-serif;
-  font-weight: 100;
-  font-size: 18px;
+  font-weight: 300;
+  font-size: 16px;
   color: #5f5f58;
   line-height: 26px;
 }
@@ -22,6 +22,7 @@ h2 {
 span,
 p {
   line-height: 18px;
+  margin-bottom: 12px;
 }
 
 h1,
@@ -51,6 +52,11 @@ hr {
   border-top: 1px solid #9e9e94;
 }
 
+footer {
+  display: flex;
+  justify-content: center;
+}
+
 .intro {
   padding: 5px;
   font-size: 18pt;
@@ -65,7 +71,7 @@ hr {
 
 .tours-tape {
   box-shadow: none !important;
-  max-width: 25%;
+  max-width: 20%;
   padding-top: 40px;
   padding-bottom: 80px;
 }
@@ -124,6 +130,7 @@ hr {
 }
 
 .dropdown-menu a {
+  font-weight: lighter;
   color: white;
   padding-top: 13px;
   padding-bottom: 13px;
@@ -133,11 +140,11 @@ hr {
   color: #9e9e94;
 }
 
-
 .top-pic {
   box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.5);
   display: block;
   object-fit: cover;
+  object-position: 20% 50%;
   width: 100vw;
   height: 100vh;
 }
@@ -181,6 +188,8 @@ hr {
 }
 
 .footer-text {
+  max-width: 90%;
+  font-size: 12pt;
   text-align: center;
   padding-bottom: 100px;
 }
@@ -199,10 +208,15 @@ hr {
 }
 
 .center-text {
+  line-height: 26px;
   border-bottom: 1px solid #9e9e94;
   text-align: left;
   margin-bottom: 15px;
   padding-bottom: 15px;
+}
+
+.center-text a {
+  font-weight: bold;
 }
 
 .center-pics {
@@ -380,6 +394,10 @@ img {
   margin: 13px;
 }
 
+.blog-post p {
+  font-weight: lighter;
+}
+
 .blog {
   text-align: left;
 }
@@ -432,4 +450,7 @@ img {
     position: fixed;
   }
 
+  .tours-tape {
+    max-width: 40%;
+  }
 }
