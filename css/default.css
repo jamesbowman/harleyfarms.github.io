@@ -202,6 +202,8 @@ footer {
 }
 
 .center-content-no-pics {
+  font-size: 16px;
+  line-height: 26px;
   margin: 0 auto;
   max-width: 1000px;
 }
