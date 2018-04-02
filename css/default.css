@@ -243,7 +243,6 @@ footer {
 }
 
 .center-pics img {
-  width: 100%;
   box-shadow: -1px 1px 2px rgba(0, 0, 0, 0.5);
 }
 
@@ -297,6 +296,7 @@ footer {
 
 .left,
 .right {
+  max-width: 50%;
   padding: 13px;
   display: flex;
   flex-direction: column;
@@ -315,7 +315,6 @@ footer {
 .right-reverse>* {
   margin-bottom: 13px;
   margin-top: 13px;
-  ;
 }
 
 .spaced {
