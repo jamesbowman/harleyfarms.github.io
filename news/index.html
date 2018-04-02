@@ -10,21 +10,53 @@ form: newsletter.html
 <div class="center-content">
   <h1>Farm News</h1>
 
-  {% for post in paginator.posts %}
-    <a class="no-underline" href="{{ post.url }}">
-      <div class="blog-post">
-          <img src="{{ post.header-img }}">
-          <div>
-            <div class="center-text">
-              <h3>{{ post.title }}</h3>
-              <p>
-                {{ post.excerpt }}
-              </p>
+  <div class="center-pics">
+
+    <div class="right">
+    {% for post in paginator.posts %}
+        {% assign res = forloop.index | modulo: 2 %}
+
+        {% if res == 0 %}
+        <a class="no-underline" href="{{ post.url }}">
+            <div class="blog-post">
+            <img src="{{ post.header-img }}">
+            <div>
+                <div class="center-text">
+                <h3>{{ post.title }}</h3>
+                <p>
+                    {{ post.excerpt }}
+                </p>
+                </div>
             </div>
-          </div>
-      </div>
-    </a>
-  {% endfor %}
+            </div>
+        </a>
+        {% endif %}
+    {% endfor %}
+    </div>
+
+    <div class="left">
+    {% for post in paginator.posts %}
+        {% assign res = forloop.index | modulo: 2 %}
+
+        {% if res != 0 %}
+        <a class="no-underline" href="{{ post.url }}">
+            <div class="blog-post">
+            <img src="{{ post.header-img }}">
+            <div>
+                <div class="center-text">
+                <h3>{{ post.title }}</h3>
+                <p>
+                    {{ post.excerpt }}
+                </p>
+                </div>
+            </div>
+            </div>
+        </a>
+        {% endif %}
+
+    {% endfor %}
+    </div>
+  </div>
 
   <div class="blog-page-nav">
     <div>
@@ -37,8 +69,8 @@ form: newsletter.html
       <ul style="width: 100%;">
         <li class="blog-page-number"><a href="/news/">1</a></li>
         <li class="blog-page-number">..</li>
-        {% assign first = paginator.page | minus: 5 %}
-        {% assign last = paginator.page | plus: 5 %}
+        {% assign first = paginator.page | minus: 6 %}
+        {% assign last = paginator.page | plus: 6 %}
         {% if last >= paginator.total_pages %}
           {% assign end = paginator.total_pages %}
         {% else %}
