@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="keywords" content="Harley, Farms, Award, Winning, American,
+        Alpine, Goat, Dairy, Sustainable, Slow, Food, Healthy, Community, Local,
+        Tours, Dinners, Hayloft, Slow, Food, Chevre, Fromage, Blanc, Ricotta, Feta,
+        Events, Private, Corporate, School, Edible, Flowers, Hayloft, Pescadero,
+        California, Recipes" />
+  <meta name="description" content="Harley Farms, in Pescadero, CA, is a
+        farmstead dairy featuring award-winning cheeses, goat-milk body products
+        and paints. We offer tours, classes, farm dinners, weddings, and private
+        and corporate events.">
+
+  <link href="/img/new/icons/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+
+  <link href="https://fonts.googleapis.com/css?family=Sue+Ellen+Francisco" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet">
+  <title>
+    {% if page.path == "index.html" %}{% for page in site.pages %}{% if page.index %}{{ page.title }}{% endif %}{% endfor %}{% else %}{{ page.title }}{% endif %}
+  </title>
+
+  <link href="/css/default.css" rel="stylesheet">
+</head>
+
+<body>
+  <div class="main-container">
+    <div class="nav">
+      <a href="/index.html">
+                  <img class="nav-logo" src="/img/new/goat.png">
+                </a>
+      <input type="image" value="&nbsp;" src="/img/new/icons/hamburger.png" onclick="showMenu()" class="nav-burger">
+      <div id="dropdown" class="dropdown-menu">
+        <a href="/index.html">Home</a>
+        <a href="/about.html">About</a>
+        <a href="/animals.html">Animals</a>
+        <a href="/dinner.html">Dinner</a>
+        <a href="/events.html">Events</a>
+        <a href="/shop.html">Shop</a>
+        <a href="/tours.html">Tours</a>
+        <a href="/weddings.html">Weddings</a>
+        <a href="/news/index.html">Farm News</a>
+        <a href="/contact.html">Contact</a>
+      </div>
+      </input>
+    </div>
+    <div class="top">
+      <img class="top-pic" style="object-position: {{ page.img_shift }} 50%" src="{{ page.image_top }}">
+    </div>
+    <div class="middle">
+      {{ content }}
+    </div>
+    <div class="lower">
+      <img class="lower-pic" src="{{ page.image_lower }}">
+    </div>
+    <div class="signup">
+      <div class="signup-img">
+        <img class="signup-pic" src="{{ page.image_signup }}">
+      </div>
+      <div class="signup-bod">
+        {% include {{ page.form }} %}
+      </div>
+    </div>
+    <div class="icons">
+      <a href="https://twitter.com/harleyfarms?lang=en">
+                    <img class="social-icon" src="/img/new/icons/twitter_icon.png" alt="Harley Farms Twitter">
+                </a>
+      <a href="https://www.instagram.com/explore/locations/216613875/">
+                    <img class="social-icon" src="/img/new/icons/instagram_icon.png" alt="Harley Farms Instagram">
+                </a>
+      <a href="https://www.facebook.com/HarleyFarms/">
+                    <img class="social-icon" src="/img/new/icons/fb_icon.png" alt="Harley Farms Facebook">
+                </a>
+    </div>
+    <footer class="footer">
+      <p class="footer-text">
+        205 North Street, PO Box 173, Pescadero, CA 94060 <br> Farm &amp; Cheese Shop: Friday-Sunday, 11 am-4 pm <br> Closed Easter, Thanksgiving, Christmas Day &amp; New Year's Day <br>
+        <strong><a href="mailto:contactus@harleyfarms.com">contactus@harleyfarms.com</a></strong><br>
+        <br> &copy; {{ 'now' | date: '%Y' }} Harley Farms, Inc., All Rights Reserved
+      </p>
+    </footer>
+  </div>
+
+</body>
+<script type="text/javascript">
+  function showMenu() {
+    document.getElementById('dropdown')
+      .classList
+      .toggle('show');
+  }
+
+  window.onclick = event => {
+    if (!event.target.matches('.nav-burger')) {
+      document.getElementById('dropdown')
+        .classList
+        .remove('show');
+    }
+  }
+</script>
+
+</html>

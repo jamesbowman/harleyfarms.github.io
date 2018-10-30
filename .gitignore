@@ -1,4 +1,5 @@
 *~
+invoice/*
 _site/*
-*.sublime-project
-*.sublime-workspace
+img/news/*
+hours

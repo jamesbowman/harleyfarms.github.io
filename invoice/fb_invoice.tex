@@ -1,0 +1,40 @@
+\documentclass{letter}
+\usepackage{invoice}
+\usepackage{helvet}
+
+\address{%
+Felix Bowman \\
+9 Frederick Gardens\\
+BN1 4TB \\
+Brighton, East Sussex \\
+United Kingdom \\
+\\
+\texttt{felixgbowman@gmail.com}
+}
+
+\renewcommand*\familydefault{\sfdefault}
+
+\signature{Felix Bowman}
+\date{\today}
+
+\begin{document}
+  \begin{letter}{Harley Farms Goat Dairy \\
+      205 North Street\\
+      Pescadero, CA 94060\\
+                 United States}
+      \opening{}
+      \begin{invoice}{US Dollars}{0}
+          \ProjectTitle{Harley Farms Website}
+          \Fee{About page}{20.00}{1}
+          \Fee{Blog}{20.00}{14}
+          \Fee{Events page}{20.00}{1}
+          \Fee{Mobile layouts}{20.00}{10}
+          \Fee{Site layout}{20.00}{7}
+          \Fee{Tours page}{20.00}{1}
+      \end{invoice}
+      \footnotesize
+      Payable via Paypal \\
+      Paypal Account email: \texttt{fefebowman@gmail.com}
+  \end{letter}
+\end{document}
+
