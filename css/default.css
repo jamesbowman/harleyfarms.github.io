@@ -313,9 +313,14 @@ footer {
   justify-content: space-between;
 }
 
+.imgholder {
+    width: 100%;
+}
+
 img {
-  max-height: 100%;
-  max-width: 100%;
+  display: block;
+  width: auto;
+  height: auto;
 }
 
 .dummy {
