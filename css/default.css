@@ -83,7 +83,7 @@ footer {
   background-repeat: repeat;
 }
 
-.main-container * {
+.main-container img:not(.center-image) {
   width: 100%;
 }
 
@@ -97,11 +97,11 @@ footer {
 }
 
 .nav-burger {
-  background: rgba(0, 0, 0, 0.0);
   margin-left: 15px;
   margin-top: 15px;
   max-height: 33%;
   width: auto;
+  outline: none;
 }
 
 .show {
@@ -112,8 +112,8 @@ footer {
 .dropdown-menu {
   width: 300px;
   background: rgba(0, 0, 0, 0.3);
-  top: 100px;
-  left: 0px;
+  top: 66px;
+  left: 15px;
   position: absolute;
   display: none;
   font-family: 'Sue Ellen Francisco', cursive;
