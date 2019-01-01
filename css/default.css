@@ -104,6 +104,18 @@ footer {
   outline: none;
 }
 
+.badge {
+  position: absolute;
+  right: 0;
+  top: 0;
+  margin-right: 15px;
+  margin-top: 15px;
+  max-height: 33%;
+  width: auto;
+  float: right;
+  outline: none;
+}
+
 .show {
   display: flex !important;
   flex-direction: column;
