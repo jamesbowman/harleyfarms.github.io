@@ -1,1 +1,1 @@
-rsync -av _site/ _public/
+rsync -av --delete _site/ _public/
