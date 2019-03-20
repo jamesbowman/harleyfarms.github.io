@@ -118,18 +118,16 @@ footer {
 
 .babycount {
   position: absolute;
-  right: 0;
-  top: 260px;
+  right: 1vw;
+  top: 14vw;
   margin-right: 15px;
   margin-top: 15px;
   max-height: 33%;
-  width: 20vw;
   float: right;
   outline: none;
-  font-size: 56px;
+  font-size: 3vw;
   font-family: 'Sue Ellen Francisco', cursive;
   font-weight: lighter;
-  line-height: 72px;
   padding-top: 10px;
   color: black;
 }
@@ -479,5 +477,9 @@ img {
 
   .tours-tape {
     max-width: 40%;
+  }
+
+  .babycount {
+    font-size: 9vw;
   }
 }
