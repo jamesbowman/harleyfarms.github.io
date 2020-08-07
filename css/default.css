@@ -114,18 +114,11 @@ footer {
 }
 
 .babycount {
-  position: absolute;
-  right: 1vw;
-  top: 14vw;
-  margin-right: 15px;
-  margin-top: 15px;
-  max-height: 33%;
-  float: right;
-  outline: none;
   font-size: 3vw;
   font-family: 'Sue Ellen Francisco', cursive;
   font-weight: lighter;
-  padding-top: 10px;
+  padding-top: 20px;
+  padding-bottom: 40px;
   color: black;
 }
 
@@ -136,7 +129,7 @@ footer {
 
 .dropdown-menu {
   width: 300px;
-  background: rgba(0, 0, 0, 0.3);
+  background: rgba(0, 0, 0, 0.6);
   top: 66px;
   left: 15px;
   position: absolute;
@@ -162,7 +155,6 @@ footer {
   display: block;
   object-fit: cover;
   width: 100vw;
-  height: 100vh;
 }
 
 .middle {
@@ -434,6 +426,43 @@ img {
   justify-content: center;
 }
 
+.flex-container {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  
+  -ms-box-orient: horizontal;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -moz-flex;
+  display: -webkit-flex;
+  display: flex;
+}
+
+.flex-item {
+  background: tomato;
+  padding: 5px;
+  width: 50px;
+  height: 50px;
+  margin: 5px;
+  
+  line-height: 50px;
+  color: white;
+  font-weight: bold;
+  font-size: 2em;
+  text-align: center;
+}
+
+.column { 
+  -webkit-flex-direction: column; 
+  flex-direction: column; 
+  float: left;
+}
+.column li {
+  background: deepskyblue;
+}
+
 @media screen and (orientation: portrait) {
 
   body {
@@ -479,4 +508,26 @@ img {
   .babycount {
     font-size: 9vw;
   }
+}
+
+.display {
+  font-family: 'Lato', sans-serif;
+  font-weight: 500;
+  font-size: 5vw;
+  line-height: 5vw;
+  color: #ffe;
+  text-shadow: 0px 0px 8px #000, 0px 0px 2px #000;
+}
+
+.lbadge {
+  position: absolute;
+  left: 22vw;
+  right: auto;
+  text-align: left;
+  margin-right: 15px;
+  margin-top: 15px;
+  max-height: 33%;
+  width: 50vw;
+  float: right;
+  outline: none;
 }
