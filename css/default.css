@@ -38,7 +38,7 @@ h1 {
 }
 
 h2 {
-  font-size: 60px;
+  font-size: 45px;
 }
 
 a {
@@ -530,4 +530,13 @@ img {
   width: 50vw;
   float: right;
   outline: none;
+}
+
+.faq {
+  margin-top: 40px;
+  font-weight: bold;
+}
+
+.answer {
+  font-weight: lighter;
 }
