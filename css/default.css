@@ -128,6 +128,7 @@ footer {
   padding-top: 20px;
   padding-bottom: 40px;
   color: black;
+  text-shadow: 0px 0px 8px #fd7, 0px 0px 2px #fd7;
 }
 
 .show {
